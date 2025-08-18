@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "“Another blog! Thank the Gods! Blogging is so now, isn’t it?”\nThat’s quite enough sarcasm from you. What this lovely website is for:\n\nUsing the ace Quarto blogging platform for writing up data / techie / code / mapping stuff in a much more straightforward way than using Jekyll (the previous github frontend, now archived here). RStudio just makes it for you! With some tweaks. Github repo for this blog is here.\nA place to explain what I’ve done with R projects - not least explaining them to future me. Future me is very forgetful and needs to have things explained very simply to him.\nGet down the techie bits behind work I’m doing to support regional economic data analysis, so I can keep that separate from things like the regional economic tools site (also Quarto).\n\n*Links to my github / linkedin / bluesky / wordpress site (or use links up above).\nHere is a picture of a kitten on a unicorn, via here. You’re welcome."
+    "text": "About"
   },
   {
     "objectID": "posts/live_project_page/index.html",
