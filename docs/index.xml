@@ -10,7 +10,26 @@
 <atom:link href="https://danolner.github.io/coveredinbees/index.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Sun, 17 Aug 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Does draft / final RSS sub work?</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/testdraft/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Draft stage!</p>
+
+
+
+ ]]></description>
+  <category>draft</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/testdraft/</guid>
+  <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>What an SFD looks like. Why do it here?</title>
   <dc:creator>Dan Olner</dc:creator>
@@ -30,7 +49,7 @@
 
 
  ]]></description>
-  <category>final</category>
+  <category>draft</category>
   <guid>https://danolner.github.io/coveredinbees/posts/why_sfd/</guid>
   <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
 </item>
@@ -55,7 +74,7 @@
 
 
  ]]></description>
-  <category>final</category>
+  <category>draft</category>
   <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</guid>
   <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
 </item>
