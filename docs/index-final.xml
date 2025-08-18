@@ -5,11 +5,11 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>COVEREDINBEES</title>
+<title>COVEREDINBEES / A hive of TLDR &amp; villainy</title>
 <link>https://danolner.github.io/coveredinbees/#category=final</link>
 <atom:link href="https://danolner.github.io/coveredinbees/index-final.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 18 Aug 2025 13:57:30 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 14:50:01 GMT</lastBuildDate>
 </channel>
 </rss>

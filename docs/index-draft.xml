@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>COVEREDINBEES</title>
+<title>COVEREDINBEES / A hive of TLDR &amp; villainy</title>
 <link>https://danolner.github.io/coveredinbees/#category=draft</link>
 <atom:link href="https://danolner.github.io/coveredinbees/index-draft.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
@@ -32,6 +32,25 @@
  ]]></description>
   <category>draft</category>
   <guid>https://danolner.github.io/coveredinbees/posts/why_sfd/</guid>
+  <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>21st Century peer review</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>21st century peer review, how to make it work. Separate out all the different types e.g.&nbsp;tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g.&nbsp;open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. <a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf">constructive stupidity</a>.) Now equivalent of DDOS attack via LLMs…?</p>
+
+
+
+ ]]></description>
+  <category>draft</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</guid>
   <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 </channel>
