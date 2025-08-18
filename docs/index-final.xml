@@ -10,6 +10,25 @@
 <atom:link href="https://danolner.github.io/coveredinbees/index-final.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 18 Aug 2025 16:34:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Does draft / final RSS sub work?</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/testdraft/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Final stage!</p>
+
+
+
+ ]]></description>
+  <category>final</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/testdraft/</guid>
+  <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
