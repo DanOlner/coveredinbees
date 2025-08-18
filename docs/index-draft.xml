@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>COVEREDINBEES</title>
+<link>https://danolner.github.io/coveredinbees/#category=draft</link>
+<atom:link href="https://danolner.github.io/coveredinbees/index-draft.xml" rel="self" type="application/rss+xml"/>
+<description>A hive of TLDR and villainy</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sun, 17 Aug 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>What an SFD looks like. Why do it here?</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/why_sfd/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Words have been getting a bit of a kicking lately. As a few poeple have noted, humans just lost their monopoly on being able to produce coherent written language…</p>
+<p>Is that a good way to start this? Christ, the first paragraph. Never start there. Do the first paragraph <em>last</em>. Obviously. Why is that so hard to remember? Anyway, let’s try that again and explain what I’m trying to do here.</p>
+<p>Err. Writing is an interative process. You have to allow yourself the <a href="https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf">shitty first drafts</a>. For mere humans, SFDs are not optional - plural, for there can be many, many of them before writing approaches anything like coherent, before it can appear like you actually thought up a structured argument in the first place, before you even <em>know</em> what you might be trying to say.</p>
+<p>And then something about how we can lean into the SFD, make that process open, and all the reasons that’s a good thing. Or could be a good thing.</p>
+<p><img src="https://danolner.github.io/coveredinbees/posts/why_sfd/excel_hell2.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>draft</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/why_sfd/</guid>
+  <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

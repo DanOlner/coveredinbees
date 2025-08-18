@@ -13,12 +13,14 @@ website:
         href: https://github.com/DanOlner
       - icon: linkedin
         href: https://www.linkedin.com/in/danolner/
-      - text: "{{< iconify simple-icons:bluesky >}}"
+      - text: '{{< iconify simple-icons:bluesky title=bluesky >}}'
         href: https://bsky.app/profile/danolner.bsky.social
-      - text: "{{< iconify simple-icons:wordpress >}}"
+      - text: "{{< iconify simple-icons:wordpress title=wordpress_site >}}"
         href: https://www.danolner.net/
-      - icon: rss
-        href: index.xml
+      - text: "{{< iconify pepicons-pencil:pen-circle-filled title=rss_firstdrafts >}}"
+        href: index-draft.xml
+      - text: "{{< iconify mdi:tick-outline title=rss_finaldrafts >}}"
+        href: index-final.xml
 format:
   html:
     theme: darkly
