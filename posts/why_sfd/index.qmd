@@ -5,7 +5,7 @@ date: "2025-08-18"
 categories: [draft]
 ---
 
-Just a bit of text to get a first git commit. Do you miss a beautiful text editor? Oh well. Never really made a difference to writing productivity anyway.
+Just a bit of text to get a first git commit. Do you miss a beautiful text editor? Oh well. Never really made a difference to writing productivity anyway. 
 
 ![](excel_hell2.png) 
 
