@@ -2,7 +2,7 @@
 title: "What an SFD looks like. Why do it here?"
 author: "Dan Olner"
 date: "2025-08-18"
-categories: [draft]
+categories: [final]
 ---
 
 Words have been getting a bit of a kicking lately. As a few poeple have noted, humans just lost their monopoly on being able to produce coherent written language...
