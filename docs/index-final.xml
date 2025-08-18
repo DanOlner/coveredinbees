@@ -10,6 +10,31 @@
 <atom:link href="https://danolner.github.io/coveredinbees/index-final.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 18 Aug 2025 15:02:10 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 Aug 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>21st Century peer review</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>21st century peer review, how to make it work. Separate out all the different types e.g.&nbsp;tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g.&nbsp;open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. <a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf">constructive stupidity</a>.)</p>
+<p>Other random points:</p>
+<ul>
+<li>Now equivalent of DDOS attack via LLMs…?</li>
+<li>New tools? Github as way to produce, review, edit in a fully open and traceable way?</li>
+<li>The ostensible goal: continue to increase real knowledge a slice at a time. But what role does or could knowledge systems play in this? Back to the original “how does science / how does knowledge growth <em>actually</em> work vs how we imagine it should”. Overlaps with the <a href="https://en.wikipedia.org/wiki/Demarcation_problem">demarcation problem</a> / shows up in arguments around <a href="https://en.wikipedia.org/wiki/Scientism">scientism</a>. (That’s a really great wikipedia article on the subject).</li>
+</ul>
+
+
+
+ ]]></description>
+  <category>final</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</guid>
+  <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
