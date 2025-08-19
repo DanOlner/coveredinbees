@@ -76,9 +76,9 @@
   <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>21st Century peer review</title>
+  <title>21st Century peer review [finalfinal]</title>
   <dc:creator>Dan Olner</dc:creator>
-  <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finaltest/</link>
+  <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finalfinaltest/</link>
   <description><![CDATA[ 
 
 
@@ -97,7 +97,7 @@
 
  ]]></description>
   <category>final</category>
-  <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finaltest/</guid>
+  <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finalfinaltest/</guid>
   <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
@@ -116,7 +116,7 @@
 <li>That’s always possible, but being open - and doing that using open platforms like github - lets in some chances for experimentation. More on that below.</li>
 </ul>
 <p>OK, the longer version.</p>
-<p>Words have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g.&nbsp;<a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>) that humans just lost their monopoly on coherent written language.</p>
+<p>Words have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g.&nbsp;<a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>) that humans just lost their monopoly on written language to machines that digested everything ever written, <a href="https://youtu.be/WnTKllDbu5o?t=42">Johnny-5 style</a> (OK, not like that).</p>
 <p>But while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. Who knows where it might land after all this. It’s obvious to state but words are/were the sinews of scientific progress, a still-surviving modernist structure built up layer by layer through argument and counter-argument<sup>1</sup>, a somehow-functioning mix of reason and chance. Human knowledge <em>grew</em>.</p>
 <p>It’s still growing, but <a href="https://en.wikipedia.org/wiki/Informatics_(disambiguation)">informatics</a> is upending a lot of the ways it can grow, and it’s opened us up to the language equivalents of distributed <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack">denial of service attacks</a>.</p>
 <section id="cuttinz" class="level2">

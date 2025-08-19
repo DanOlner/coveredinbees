@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "COVEREDINBEES / A hive of TLDR & villainy",
     "section": "",
-    "text": "Buttondown sub test: here’s the title!\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review [final]\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nDoes draft / final RSS sub work?\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an SFD looks like. Why do it here?\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\nNo matching items"
+    "text": "Buttondown sub test: here’s the title!\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review [final]\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nDoes draft / final RSS sub work?\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review [finalfinal]\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an SFD looks like. Why do it here?\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -305,7 +305,7 @@
     "href": "posts/why_sfd/index.html",
     "title": "What an SFD looks like. Why do it here?",
     "section": "",
-    "text": "You’ve got the option of subscribing to first drafts here, as well as final drafts (either with those RSS links, or email subscription via Buttondown). Why? Short version, followed by longer ramble.\nOK, the longer version.\nWords have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g. here, here, here) that humans just lost their monopoly on coherent written language.\nBut while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. Who knows where it might land after all this. It’s obvious to state but words are/were the sinews of scientific progress, a still-surviving modernist structure built up layer by layer through argument and counter-argument1, a somehow-functioning mix of reason and chance. Human knowledge grew.\nIt’s still growing, but informatics is upending a lot of the ways it can grow, and it’s opened us up to the language equivalents of distributed denial of service attacks."
+    "text": "You’ve got the option of subscribing to first drafts here, as well as final drafts (either with those RSS links, or email subscription via Buttondown). Why? Short version, followed by longer ramble.\nOK, the longer version.\nWords have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g. here, here, here) that humans just lost their monopoly on written language to machines that digested everything ever written, Johnny-5 style (OK, not like that).\nBut while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. Who knows where it might land after all this. It’s obvious to state but words are/were the sinews of scientific progress, a still-surviving modernist structure built up layer by layer through argument and counter-argument1, a somehow-functioning mix of reason and chance. Human knowledge grew.\nIt’s still growing, but informatics is upending a lot of the ways it can grow, and it’s opened us up to the language equivalents of distributed denial of service attacks."
   },
   {
     "objectID": "posts/peer_review_C21st/index.html",
@@ -348,5 +348,12 @@
     "title": "What an SFD looks like. Why do it here?",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nA Bauman point, that one: modernism - “a ‘total’ order to be erected floor by floor in a protracted, consistent, purpose-guided effort of labour.” (Liquid modernity)↩︎"
+  },
+  {
+    "objectID": "posts/peer_review_C21st_finalfinaltest/index.html",
+    "href": "posts/peer_review_C21st_finalfinaltest/index.html",
+    "title": "21st Century peer review [finalfinal]",
+    "section": "",
+    "text": "21st century peer review, how to make it work. Separate out all the different types e.g. tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g. open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. constructive stupidity.)\nOther random points:\n\nNow equivalent of DDOS attack via LLMs…?\nNew tools? Github as way to produce, review, edit in a fully open and traceable way?\nThe ostensible goal: continue to increase real knowledge a slice at a time. But what role does or could knowledge systems play in this? Back to the original “how does science / how does knowledge growth actually work vs how we imagine it should”. Overlaps with the demarcation problem / shows up in arguments around scientism. (That’s a really great wikipedia article on the subject)."
   }
 ]
