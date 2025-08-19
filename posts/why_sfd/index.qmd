@@ -19,6 +19,6 @@ And then something about how we can lean into the SFD, make that process open, a
 
 
 
-![](excel_hell2.png) 
+![](sfd.png) 
 
 
