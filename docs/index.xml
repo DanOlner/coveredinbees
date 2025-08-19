@@ -32,7 +32,7 @@
   <pubDate>Tue, 19 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>21st Century peer review</title>
+  <title>21st Century peer review [final]</title>
   <dc:creator>Dan Olner</dc:creator>
   <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</link>
   <description><![CDATA[ 
@@ -116,8 +116,8 @@
 <li>That’s always possible, but being open - and doing that using open platforms like github - lets in some chances for experimentation. More on that below.</li>
 </ul>
 <p>OK, the longer version.</p>
-<p>Words have been getting a bit of a kicking lately. As a few people have noted (e.g.&nbsp;<a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>)</p>
-<p>humans just lost their monopoly on being able to produce coherent written language…</p>
+<p>Words have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g.&nbsp;<a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>) that humans just lost their monopoly on coherent written language.</p>
+<p>But while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. It’s very hard to tell where it might land after all this. It’s obvious to state but words are/were the sinews of scientific progress, a still-surviving modernist structure built up layer by layer through argument and counter-argument<sup>1</sup>, a somehow-functioning mix of reason and evolution.</p>
 <section id="cuttinz" class="level2">
 <h2 class="anchored" data-anchor-id="cuttinz">CUTTINZ</h2>
 <p>Words have been getting a bit of a kicking lately. As a few people have noted, humans just lost their monopoly on being able to produce coherent written language…</p>
@@ -129,7 +129,13 @@
 
 </section>
 
- ]]></description>
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>A Bauman point, that one: modernism - “a ‘total’ order to be erected floor by floor in a protracted, consistent, purpose-guided effort of labour.” (Liquid modernity)↩︎</p></li>
+</ol>
+</section></div> ]]></description>
   <category>draft</category>
   <guid>https://danolner.github.io/coveredinbees/posts/why_sfd/</guid>
   <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
