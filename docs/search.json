@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "COVEREDINBEES / A hive of TLDR & villainy",
     "section": "",
-    "text": "Buttondown sub test: here’s the title!\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nDoes draft / final RSS sub work?\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an SFD looks like. Why do it here?\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\nNo matching items"
+    "text": "Buttondown sub test: here’s the title!\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nDoes draft / final RSS sub work?\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an SFD looks like. Why do it here?\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -305,7 +305,7 @@
     "href": "posts/why_sfd/index.html",
     "title": "What an SFD looks like. Why do it here?",
     "section": "",
-    "text": "Words have been getting a bit of a kicking lately. As a few poeple have noted, humans just lost their monopoly on being able to produce coherent written language…\nIs that a good way to start this? Christ, the first paragraph. Never start there. Do the first paragraph last. Obviously. Why is that so hard to remember? Anyway, let’s try that again and explain what I’m trying to do here.\nErr. Writing is an interative process. You have to allow yourself the shitty first drafts. For mere humans, SFDs are not optional - plural, for there can be many, many of them before writing approaches anything like coherent, before it can appear like you actually thought up a structured argument in the first place, before you even know what you might be trying to say.\nAnd then something about how we can lean into the SFD, make that process open, and all the reasons that’s a good thing. Or could be a good thing."
+    "text": "You’ve got the option of subscribing to first drafts here, as well as final drafts (either with those RSS links, or email subscription via Buttondown). Why? Short version, followed by longer ramble.\nOK, the longer version.\nWords have been getting a bit of a kicking lately. As a few people have noted (e.g. here, here, here)\nhumans just lost their monopoly on being able to produce coherent written language…"
   },
   {
     "objectID": "posts/peer_review_C21st/index.html",
@@ -327,5 +327,19 @@
     "title": "Buttondown sub test: here’s the title!",
     "section": "",
     "text": "There’s some amazing work being done on how data can be used to support this, and gnarly issues around how evidence gets built into the machinery of governance. Work on inclusive economies has shown (LGA report) there’s no clear connection between raw GVA growth and disposable income growth. Others in, for example, the SIPHER project and Manchester’s inclusive growth analysis unit are asking exactly what role data and evidence can play in attacking spatial inequality(see this great spreadsheet put together by SIPHER that gathers several organisation’s inclusive economy measures into one place). This includes work with communities to create indicators that make sense to them, rather than simply imposing ones institutions prefer to work with (though there is of course still a need to use existing, robust national data sources).\nContinuing the inclusive economies theme, there’s a recognition of the deep connection between all the economic and spatial determinants of health written into South Yorkshire’s Integrated Care Partnership health strategy, including the role of housing, employment and access to transport. That’s supported by a mature national data system – fingertips – that is not as well known as it should be, maybe due to its health focus. Because it covers “wider determinants”, it actually contains a huge swathe of the all the best social and economic data, with excellent APIs and R/Python packages, and is the foundation for this epic piece of analysis (word doc download) that supports South Yorkshire’s health strategy."
+  },
+  {
+    "objectID": "posts/why_sfd/index.html#cuttinz",
+    "href": "posts/why_sfd/index.html#cuttinz",
+    "title": "What an SFD looks like. Why do it here?",
+    "section": "CUTTINZ",
+    "text": "CUTTINZ\nWords have been getting a bit of a kicking lately. As a few people have noted, humans just lost their monopoly on being able to produce coherent written language…\nIs that a good way to start this? Christ, the first paragraph. Never start there. Do the first paragraph last. Obviously. Why is that so hard to remember? Anyway, let’s try that again and explain what I’m trying to do here.\nErr. Writing is an interative process. You have to allow yourself the shitty first drafts. For mere humans, SFDs are not optional - plural, for there can be many, many of them before writing approaches anything like coherent, before it can appear like you actually thought up a structured argument in the first place, before you even know what you might be trying to say.\nAnd then something about how we can lean into the SFD, make that process open, and all the reasons that’s a good thing. Or could be a good thing."
+  },
+  {
+    "objectID": "posts/peer_review_C21st_finaltest/index.html",
+    "href": "posts/peer_review_C21st_finaltest/index.html",
+    "title": "21st Century peer review",
+    "section": "",
+    "text": "21st century peer review, how to make it work. Separate out all the different types e.g. tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g. open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. constructive stupidity.)\nOther random points:\n\nNow equivalent of DDOS attack via LLMs…?\nNew tools? Github as way to produce, review, edit in a fully open and traceable way?\nThe ostensible goal: continue to increase real knowledge a slice at a time. But what role does or could knowledge systems play in this? Back to the original “how does science / how does knowledge growth actually work vs how we imagine it should”. Overlaps with the demarcation problem / shows up in arguments around scientism. (That’s a really great wikipedia article on the subject)."
   }
 ]

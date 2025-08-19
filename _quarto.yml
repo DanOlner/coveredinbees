@@ -20,8 +20,8 @@ website:
         href: https://www.danolner.net/
       - icon: rss
         href: index-final.xml
-      - text: "{{< iconify pepicons-pencil:pen-circle-filled title=rss_firstdrafts >}}"
-        href: index-draft.xml
+      - text: "{{< iconify pepicons-pencil:pen-circle-filled title=rss_firstplusfinaldrafts >}}"
+        href: index.xml
 format:
   html:
     theme: darkly

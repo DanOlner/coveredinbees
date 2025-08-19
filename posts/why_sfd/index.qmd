@@ -5,7 +5,24 @@ date: "2025-08-18"
 categories: [draft]
 ---
 
-Words have been getting a bit of a kicking lately. As a few poeple have noted, humans just lost their monopoly on being able to produce coherent written language...
+You've got the option of subscribing to [first drafts](https://danolner.github.io/coveredinbees/index.xml) here, as well as [final drafts](https://danolner.github.io/coveredinbees/index-final.xml) (either with those RSS links, or email subscription via Buttondown). Why? Short version, followed by longer ramble.
+
+* I want to build in the idea that all writing/thinking starts out a mess. You have to allow yourself the [shitty first drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf). Arguably no-one wants to see that mess - why not skip to the end?
+* That's always possible, but being open - and doing that using open platforms like github - lets in some chances for experimentation. More on that below.
+
+OK, the longer version. 
+
+Words have been getting a bit of a kicking lately. As a few people have noted (e.g. [here](https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals), [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/), [here](https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai)) 
+
+
+
+humans just lost their monopoly on being able to produce coherent written language...
+
+
+
+## CUTTINZ
+
+Words have been getting a bit of a kicking lately. As a few people have noted, humans just lost their monopoly on being able to produce coherent written language...
 
 Is that a good way to start this? Christ, the first paragraph. Never start there. Do the first paragraph *last*. Obviously. Why is that so hard to remember? Anyway, let's try that again and explain what I'm trying to do here.
 
@@ -19,6 +36,6 @@ And then something about how we can lean into the SFD, make that process open, a
 
 
 
-![](sfd.png) 
+![](sfd.png)  
 
 
