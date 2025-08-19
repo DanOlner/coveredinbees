@@ -2,7 +2,7 @@
 title: "21st Century peer review"
 author: "Dan Olner"
 date: "2025-08-18"
-categories: [draft]
+categories: [final]
 ---
 
 21st century peer review, how to make it work. Separate out all the different types e.g. tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g. open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. [constructive stupidity](https://web.stanford.edu/~fukamit/schwartz-2008.pdf).) 

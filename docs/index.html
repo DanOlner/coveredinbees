@@ -192,22 +192,51 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
-<form action="
+<!--
+<form 
+  action="
           https://buttondown.com/api/emails/embed-subscribe/danolner
-         " method="post" class="form-label mt-4">
+         "
+  method="post"
+  class="form-label mt-4"
+>
   <label for="email">Email</label>
-  <input type="email" name="email" placeholder="" class="form-control" id="exampleInputEmail1">
-  <input type="hidden" value="1" name="embed">
-  <input type="submit" value="Subscribe" class="btn btn-primary">
+  <input type="email" name="email" placeholder="" class="form-control" id="exampleInputEmail1" />
+  <input type="hidden" value="1" name="embed" />
+  <input type="submit" value="Subscribe" class="btn btn-primary" />
   <p>
     <a href="https://buttondown.com" target="_blank">
       Powered by Buttondown.
     </a>
   </p>
 </form>
+-->
+
+
+
+<form action="
+          https://buttondown.com/api/emails/embed-subscribe/danolner
+         " method="post" class="form-label mt-4">
+  <label for="email">Email</label>
+  <input type="email" name="email" placeholder="" class="form-control" id="exampleInputEmail1">
+  <input type="checkbox" id="bd-wip" name="tag" value="first-draft" class="form-check-input">
+    <label for="bd-wip" class="form-check-label">
+      Tick to get 1st drafts
+    </label>
+  <input type="hidden" value="1" name="embed">
+  <input type="submit" value="Subscribe" class="btn btn-primary">
+  <p>
+    <a href="https://buttondown.com" target="_blank">
+      Powered by Buttondown.
+    </a>
+    <a href="" target="_blank">
+      Why 1st drafts?
+    </a>
+  </p>
+</form>
 </div></div>
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="draft">draft <span class="quarto-category-count">(2)</span></div><div class="category" data-category="final">final <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="draft">draft <span class="quarto-category-count">(1)</span></div><div class="category" data-category="final">final <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -319,7 +348,7 @@ Dan Olner
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="draft" data-listing-date-sort="1755471600000" data-listing-file-modified-sort="1755534609246" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<div class="quarto-post image-right" data-index="3" data-categories="final" data-listing-date-sort="1755471600000" data-listing-file-modified-sort="1755612122398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
 <div class="thumbnail">
 <p><a href="./posts/peer_review_C21st/index.html" class="no-external"></a></p><a href="./posts/peer_review_C21st/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -333,8 +362,8 @@ Dan Olner
 <a href="./posts/peer_review_C21st/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('draft'); return false;">
-draft
+<div class="listing-category" onclick="window.quartoListingCategory('final'); return false;">
+final
 </div>
 </div>
 <div class="listing-description">
