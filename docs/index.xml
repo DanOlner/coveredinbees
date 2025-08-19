@@ -12,6 +12,31 @@
 <generator>quarto-1.5.57</generator>
 <lastBuildDate>Tue, 19 Aug 2025 23:00:00 GMT</lastBuildDate>
 <item>
+  <title>21st Century peer review [finalfinalfinal]</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finalfinalfinaltest/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>21st century peer review, how to make it work. Separate out all the different types e.g.&nbsp;tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g.&nbsp;open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. <a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf">constructive stupidity</a>.)</p>
+<p>Other random points:</p>
+<ul>
+<li>Now equivalent of DDOS attack via LLMs…?</li>
+<li>New tools? Github as way to produce, review, edit in a fully open and traceable way?</li>
+<li>The ostensible goal: continue to increase real knowledge a slice at a time. But what role does or could knowledge systems play in this? Back to the original “how does science / how does knowledge growth <em>actually</em> work vs how we imagine it should”. Overlaps with the <a href="https://en.wikipedia.org/wiki/Demarcation_problem">demarcation problem</a> / shows up in arguments around <a href="https://en.wikipedia.org/wiki/Scientism">scientism</a>. (That’s a really great wikipedia article on the subject).</li>
+</ul>
+
+
+
+ ]]></description>
+  <category>final</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finalfinalfinaltest/</guid>
+  <pubDate>Tue, 19 Aug 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Buttondown sub test: here’s the title!</title>
   <dc:creator>Dan Olner</dc:creator>
   <link>https://danolner.github.io/coveredinbees/posts/testsub/</link>
@@ -76,31 +101,6 @@
   <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>21st Century peer review [finalfinal]</title>
-  <dc:creator>Dan Olner</dc:creator>
-  <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finalfinaltest/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>21st century peer review, how to make it work. Separate out all the different types e.g.&nbsp;tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g.&nbsp;open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. <a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf">constructive stupidity</a>.)</p>
-<p>Other random points:</p>
-<ul>
-<li>Now equivalent of DDOS attack via LLMs…?</li>
-<li>New tools? Github as way to produce, review, edit in a fully open and traceable way?</li>
-<li>The ostensible goal: continue to increase real knowledge a slice at a time. But what role does or could knowledge systems play in this? Back to the original “how does science / how does knowledge growth <em>actually</em> work vs how we imagine it should”. Overlaps with the <a href="https://en.wikipedia.org/wiki/Demarcation_problem">demarcation problem</a> / shows up in arguments around <a href="https://en.wikipedia.org/wiki/Scientism">scientism</a>. (That’s a really great wikipedia article on the subject).</li>
-</ul>
-
-
-
- ]]></description>
-  <category>final</category>
-  <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finalfinaltest/</guid>
-  <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
-</item>
-<item>
   <title>What an SFD looks like. Why do it here?</title>
   <dc:creator>Dan Olner</dc:creator>
   <link>https://danolner.github.io/coveredinbees/posts/why_sfd/</link>
@@ -116,7 +116,7 @@
 <li>That’s always possible, but being open - and doing that using open platforms like github - lets in some chances for experimentation. More on that below.</li>
 </ul>
 <p>OK, the longer version.</p>
-<p>Words have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g.&nbsp;<a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>) that humans just lost their monopoly on written language to machines that digested everything ever written, <a href="https://youtu.be/WnTKllDbu5o?t=42">Johnny-5 style</a> (OK, not like that).</p>
+<p>Words have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g.&nbsp;<a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>) that humans just lost their monopoly on written language to robots that digested everything ever written, <a href="https://youtu.be/WnTKllDbu5o?t=42">Johnny-5 style</a> (OK, not like that).</p>
 <p>But while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. Who knows where it might land after all this. It’s obvious to state but words are/were the sinews of scientific progress, a still-surviving modernist structure built up layer by layer through argument and counter-argument<sup>1</sup>, a somehow-functioning mix of reason and chance. Human knowledge <em>grew</em>.</p>
 <p>It’s still growing, but <a href="https://en.wikipedia.org/wiki/Informatics_(disambiguation)">informatics</a> is upending a lot of the ways it can grow, and it’s opened us up to the language equivalents of distributed <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack">denial of service attacks</a>.</p>
 <section id="cuttinz" class="level2">
