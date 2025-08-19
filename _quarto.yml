@@ -6,6 +6,7 @@ website:
   title: "COVEREDINBEES / A hive of TLDR & villainy"
   site-url: https://danolner.github.io/coveredinbees
   description: "A hive of TLDR and villainy"
+  margin-header: subscribe.html
   navbar:
     right:
       - about.qmd
