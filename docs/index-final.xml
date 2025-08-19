@@ -32,25 +32,6 @@
   <pubDate>Tue, 19 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Does draft / final RSS sub work?</title>
-  <dc:creator>Dan Olner</dc:creator>
-  <link>https://danolner.github.io/coveredinbees/posts/testdraft/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Final stage!</p>
-
-
-
- ]]></description>
-  <category>final</category>
-  <guid>https://danolner.github.io/coveredinbees/posts/testdraft/</guid>
-  <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
-</item>
-<item>
   <title>21st Century peer review</title>
   <dc:creator>Dan Olner</dc:creator>
   <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</link>
@@ -73,7 +54,26 @@
  ]]></description>
   <category>final</category>
   <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</guid>
-  <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
+  <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Does draft / final RSS sub work?</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/testdraft/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Final stage!</p>
+
+
+
+ ]]></description>
+  <category>final</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/testdraft/</guid>
+  <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
