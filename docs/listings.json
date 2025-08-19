@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/testsub/index.html",
       "/posts/testdraft/index.html",
       "/posts/why_sfd/index.html",
       "/posts/peer_review_C21st/index.html"

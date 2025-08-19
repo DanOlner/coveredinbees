@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "COVEREDINBEES / A hive of TLDR & villainy",
     "section": "",
-    "text": "Does draft / final RSS sub work?\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an SFD looks like. Why do it here?\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\nNo matching items\n\n\n  Email\n  \n  \n  \n  \n    \n      Powered by Buttondown."
+    "text": "Buttondown sub test: here’s the title!\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nDoes draft / final RSS sub work?\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an SFD looks like. Why do it here?\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\nNo matching items\n\n\n  Email\n  \n  \n  \n  \n    \n      Powered by Buttondown."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -320,5 +320,12 @@
     "title": "Does draft / final RSS sub work?",
     "section": "",
     "text": "Final stage!"
+  },
+  {
+    "objectID": "posts/testsub/index.html",
+    "href": "posts/testsub/index.html",
+    "title": "Buttondown sub test: here’s the title!",
+    "section": "",
+    "text": "There’s some amazing work being done on how data can be used to support this, and gnarly issues around how evidence gets built into the machinery of governance. Work on inclusive economies has shown (LGA report) there’s no clear connection between raw GVA growth and disposable income growth. Others in, for example, the SIPHER project and Manchester’s inclusive growth analysis unit are asking exactly what role data and evidence can play in attacking spatial inequality(see this great spreadsheet put together by SIPHER that gathers several organisation’s inclusive economy measures into one place). This includes work with communities to create indicators that make sense to them, rather than simply imposing ones institutions prefer to work with (though there is of course still a need to use existing, robust national data sources).\nContinuing the inclusive economies theme, there’s a recognition of the deep connection between all the economic and spatial determinants of health written into South Yorkshire’s Integrated Care Partnership health strategy, including the role of housing, employment and access to transport. That’s supported by a mature national data system – fingertips – that is not as well known as it should be, maybe due to its health focus. Because it covers “wider determinants”, it actually contains a huge swathe of the all the best social and economic data, with excellent APIs and R/Python packages, and is the foundation for this epic piece of analysis (word doc download) that supports South Yorkshire’s health strategy.\n\n\n\nsubscribe.html"
   }
 ]
