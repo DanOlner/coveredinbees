@@ -1,0 +1,10 @@
+---
+title: "A final post RSS test"
+author: "Dan Olner"
+date: "2025-08-21"
+categories: [final]
+---
+
+This time testing for dan@danolner.net being subscribed just to final posts.
+
+Draft materials are [here](../FromDraftToFinal_DRAFT) (way to automate would be nice! Have a mull about that.)

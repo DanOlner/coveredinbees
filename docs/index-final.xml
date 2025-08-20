@@ -12,6 +12,26 @@
 <generator>quarto-1.5.57</generator>
 <lastBuildDate>Wed, 20 Aug 2025 23:00:00 GMT</lastBuildDate>
 <item>
+  <title>A final post RSS test</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/a_finalpost_rss_test/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This time testing for dan@danolner.net being subscribed just to final posts.</p>
+<p>Draft materials are <a href="../FromDraftToFinal_DRAFT">here</a> (way to automate would be nice! Have a mull about that.)</p>
+
+
+
+ ]]></description>
+  <category>final</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/a_finalpost_rss_test/</guid>
+  <pubDate>Wed, 20 Aug 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
   <title>From draft to final</title>
   <dc:creator>Dan Olner</dc:creator>
   <link>https://danolner.github.io/coveredinbees/posts/FromDraftToFinal/</link>
@@ -23,7 +43,7 @@
 
 <p>New: and this would be the final draft, going to people who don’t want to see the wiring.</p>
 <p>Old: This would be the initial draft doc including all the planning.</p>
-<p>Draft materials are <a href="../FromDraftToFinal_DRAFT">here</a> (way to automate would be nice! Have a mull about that.)</p>
+<p>Draft materials are <a href="posts/FromDraftToFinal_DRAFT">here</a> (way to automate would be nice! Have a mull about that.)</p>
 
 
 
