@@ -18,21 +18,13 @@ You've got the option of subscribing to [first drafts](https://danolner.github.i
 * This is also part of having **more control and ownership**. Everything here is on my own machine as well as [stored on Github](https://github.com/DanOlner/coveredinbees) (admittedly, owned by Microsoft). If anyone so desires - why would you, that'd be mad, but if you *wanted* to- you could look at the history of any file ([here's](https://github.com/DanOlner/coveredinbees/commits/master/posts/why_sfd/index.qmd) this one's) and see what's changed (e.g. a [recent commit difference](https://github.com/DanOlner/coveredinbees/commit/78788d0ca8ecbc5e46305a3849a196bf17e16165#diff-b4ac3c529b00f3e9f57376c3dd67f1700d6c2c70e2f62874c67ae7307faf0dae)).
 
 
-
-
-
-
-
-
-* I want to build in the idea that all writing/thinking starts out a mess. You have to allow yourself the [shitty first drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf). Arguably no-one wants to see that mess - why not skip to the end?
-
 OK, the longer version. 
 
 Words have been getting a bit of a kicking lately. Looming in everyone's vision right now is (as a few people have put it e.g. [here](https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals), [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/), [here](https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai)) that humans just lost their monopoly on written language to robots that digested everything ever written, [Johnny-5 style](https://youtu.be/WnTKllDbu5o?t=42) (OK, not like that).
 
-But while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. Who knows where it might land after all this. It's obvious to state but words are/were the sinews of scientific progress, a still-surviving modernist structure built up layer by layer through argument and counter-argument[^1], a somehow-functioning mix of reason and chance. Human knowledge *grew*.
+But while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. Who knows where it might land after all this. It's obvious to state but words are the sinews of social and scientific progress. Science is a still-surviving modernist structure built up layer by layer through argument and counter-argument[^1], a somehow-functioning mix of reason and chance.
 
-It's still growing, but [informatics](https://en.wikipedia.org/wiki/Informatics_(disambiguation)) is upending a lot of the ways it can grow, and it's opened us up to the language equivalents of distributed [denial of service attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack). 
+That's still growing, but [informatics](https://en.wikipedia.org/wiki/Informatics_(disambiguation)) is upending a lot of the ways it can grow, and it's opened us up to the language equivalents of distributed [denial of service attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack). 
 
 
 
