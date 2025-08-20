@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "COVEREDINBEES / A hive of TLDR & villainy",
     "section": "",
-    "text": "From draft to final [draft]\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an SFD looks like. Why do it here?\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\nNo matching items"
+    "text": "From draft to final\n\n\n\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 21, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nFrom draft to final [draft]\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nWhat an SFD looks like. Why do it here?\n\n\n\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -305,7 +305,7 @@
     "href": "posts/why_sfd/index.html",
     "title": "What an SFD looks like. Why do it here?",
     "section": "",
-    "text": "You’ve got the option of subscribing to first drafts here, as well as final drafts (either with those RSS links, or email subscription via Buttondown). Why? Short version, followed by longer ramble.\nOK, the longer version.\nWords have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g. here, here, here) that humans just lost their monopoly on written language to robots that digested everything ever written, Johnny-5 style (OK, not like that).\nBut while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. Who knows where it might land after all this. It’s obvious to state but words are/were the sinews of scientific progress, a still-surviving modernist structure built up layer by layer through argument and counter-argument1, a somehow-functioning mix of reason and chance. Human knowledge grew.\nIt’s still growing, but informatics is upending a lot of the ways it can grow, and it’s opened us up to the language equivalents of distributed denial of service attacks."
+    "text": "You’ve got the option of subscribing to first drafts here, as well as final drafts (either with those RSS links, or email subscription via Buttondown). Why? Short version, followed by longer ramble.\nFor my own benefit, to keep a record, to allow for free exploration, excessive verbosity, then move toward a point eventually.\nOK, the longer version.\nWords have been getting a bit of a kicking lately. Looming in everyone’s vision right now is (as a few people have put it e.g. here, here, here) that humans just lost their monopoly on written language to robots that digested everything ever written, Johnny-5 style (OK, not like that).\nBut while everyone argues about just how radical the LLM shift is, the machinery of language has been shifting around us for a good while longer. Who knows where it might land after all this. It’s obvious to state but words are/were the sinews of scientific progress, a still-surviving modernist structure built up layer by layer through argument and counter-argument1, a somehow-functioning mix of reason and chance. Human knowledge grew.\nIt’s still growing, but informatics is upending a lot of the ways it can grow, and it’s opened us up to the language equivalents of distributed denial of service attacks.\nIt’s unavoidably political, of course. Authoritarian truth has a lot of weird Venn diagram overlap with its apparent opposite, libertarian truth (another case where political compasses point in directions that eventually meet on the other side of the planet) The absolutist position best seen in Peter Thiel / person who said DISC\nSame with Musk’s take on ‘emergent intelligence’, and makes exactly the same wilful error that Hayekian thinking does - if you tear apart existing structures, some kind of fairy dust will emerge"
   },
   {
     "objectID": "posts/peer_review_C21st/index.html",
@@ -369,5 +369,12 @@
     "title": "From draft to final [draft]",
     "section": "",
     "text": "This would be the initial draft doc including all the planning."
+  },
+  {
+    "objectID": "posts/FromDraftToFinal/index.html",
+    "href": "posts/FromDraftToFinal/index.html",
+    "title": "From draft to final",
+    "section": "",
+    "text": "New: and this would be the final draft, going to people who don’t want to see the wiring.\nOld: This would be the initial draft doc including all the planning.\nDraft materials are here (way to automate would be nice! Have a mull about that.)"
   }
 ]

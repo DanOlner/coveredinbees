@@ -1,0 +1,12 @@
+---
+title: "From draft to final"
+author: "Dan Olner"
+date: "2025-08-21"
+categories: [final]
+---
+
+New: and this would be the final draft, going to people who don't want to see the wiring.
+
+Old: This would be the initial draft doc including all the planning.
+
+Draft materials are [here](../FromDraftToFinal_DRAFT) (way to automate would be nice! Have a mull about that.)

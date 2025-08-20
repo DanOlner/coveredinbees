@@ -10,6 +10,27 @@
 <atom:link href="https://danolner.github.io/coveredinbees/index-final.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Wed, 20 Aug 2025 08:04:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 20 Aug 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>From draft to final</title>
+  <dc:creator>Dan Olner</dc:creator>
+  <link>https://danolner.github.io/coveredinbees/posts/FromDraftToFinal/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>New: and this would be the final draft, going to people who don’t want to see the wiring.</p>
+<p>Old: This would be the initial draft doc including all the planning.</p>
+<p>Draft materials are <a href="../FromDraftToFinal_DRAFT">here</a> (way to automate would be nice! Have a mull about that.)</p>
+
+
+
+ ]]></description>
+  <category>final</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/FromDraftToFinal/</guid>
+  <pubDate>Wed, 20 Aug 2025 23:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
