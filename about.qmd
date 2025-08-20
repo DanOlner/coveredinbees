@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: killeronion.jpeg
 about:
   template: jolla
   links:
@@ -15,4 +15,14 @@ about:
 
 ---
 
-* About
+**Reader, I have missed you. Where have you been?** 
+
+What’s that? Speak up! Buried under an inconceivably vast and metastasizing word-mountain, you say? Only a shrinking fraction of which is now human-produced, you say? The noise an unbearable tinnitus that makes you want to set your own head in concrete, you say?
+
+What you need, I think, is another blog. And look over there! A subscribe button! Go on. If you're really keen, too keen, click the 'send me 1st drafts' button as well ([see here](../posts/why_sfd) for why this option's available).
+
+RSS feeds top right, some links to other places above and below.
+
+----
+
+*p.s. that pic is a killer onion I made for the [Sharrow Lantern Carnival](https://www.sharrowlanterncarnival.org/) in 2006. The teeth flashed and everything.*
