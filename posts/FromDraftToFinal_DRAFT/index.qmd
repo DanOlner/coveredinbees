@@ -1,0 +1,8 @@
+---
+title: "From draft to final [draft]"
+author: "Dan Olner"
+date: "2025-08-20"
+categories: [draft]
+---
+
+This would be the initial draft doc including all the planning.

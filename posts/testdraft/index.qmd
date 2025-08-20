@@ -1,8 +1,0 @@
----
-title: "Does draft / final RSS sub work?"
-author: "Dan Olner"
-date: "2025-08-19"
-categories: [final]
----
-
-Final stage!
