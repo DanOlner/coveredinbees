@@ -1,51 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://danolner.github.io/coveredinbees/posts/why_sfd/index.html</loc>
-    <lastmod>2025-08-20T13:43:15.534Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danolner.github.io/coveredinbees/index.html</loc>
-    <lastmod>2025-08-18T13:32:05.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/index.html</loc>
-    <lastmod>2025-08-20T08:03:44.348Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danolner.github.io/coveredinbees/posts/testdraft/index.html</loc>
-    <lastmod>2025-08-18T18:38:53.108Z</lastmod>
-  </url>
-  <url>
     <loc>https://danolner.github.io/coveredinbees/about.html</loc>
     <lastmod>2025-08-20T13:21:35.370Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danolner.github.io/coveredinbees/posts/testsub/index.html</loc>
-    <lastmod>2025-08-19T12:13:12.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finaltest/index.html</loc>
-    <lastmod>2025-08-19T14:10:40.710Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finalfinaltest/index.html</loc>
-    <lastmod>2025-08-19T16:43:18.281Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danolner.github.io/coveredinbees/posts/peer_review_C21st_finalfinalfinaltest/index.html</loc>
-    <lastmod>2025-08-19T17:54:53.279Z</lastmod>
-  </url>
-  <url>
-    <loc>https://danolner.github.io/coveredinbees/posts/FromDraftToFinal_DRAFT/index.html</loc>
-    <lastmod>2025-08-20T08:02:37.336Z</lastmod>
   </url>
   <url>
     <loc>https://danolner.github.io/coveredinbees/posts/FromDraftToFinal/index.html</loc>
     <lastmod>2025-08-20T08:51:56.650Z</lastmod>
   </url>
   <url>
+    <loc>https://danolner.github.io/coveredinbees/posts/FromDraftToFinal_DRAFT/index.html</loc>
+    <lastmod>2025-08-20T08:02:37.336Z</lastmod>
+  </url>
+  <url>
+    <loc>https://danolner.github.io/coveredinbees/posts/why_sfd/index.html</loc>
+    <lastmod>2025-08-20T14:57:23.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/index.html</loc>
+    <lastmod>2025-08-20T08:03:44.348Z</lastmod>
+  </url>
+  <url>
     <loc>https://danolner.github.io/coveredinbees/posts/a_finalpost_rss_test/index.html</loc>
     <lastmod>2025-08-20T11:18:44.145Z</lastmod>
+  </url>
+  <url>
+    <loc>https://danolner.github.io/coveredinbees/index.html</loc>
+    <lastmod>2025-08-18T13:32:05.718Z</lastmod>
   </url>
 </urlset>
