@@ -41,15 +41,15 @@ Intriguing that the outcome ends up following the grain of authoritarianism - th
 
 > "The result of a consistent and total substitution of lies for factual truth is not that the lie will now be accepted as truth and truth be defamed as lies, but that the sense by which we take our bearings in the real world - and the category of truth versus falsehood is among the mental means to this end - is being destroyed."
 
-Let's not push the parallel too far. Libertarians shouldn't be disappearing people off the street for what they say, authoritarians must. But that's why the childishness of DISC thinking is so vexing - it seems content to enable its opposite.
+Let's not push the parallel too far. Libertarians aren't into disappearing people off the street for what they say. But that's why the childishness of DISC thinking is so frustrating - it seems content to enable its opposite.
 
 So that's the world that LLMs have entered, that we find ourselves in now. The (actually very useful) idea of emergence is weaponised by right wing idiots, paving the way for authoritarians to tediously re-prove Arendt over and over, with added trollfarms. To the extent that DISC thinking has a point - knowledge structures *are* dominated by white males on computers like me - they let the *actual* point go sailing past: addressing this means exactly the kind of 'how to diversify voices effectively' thinking most of them seem to loath.
 
 So yes. Another blog will help, I think.
 
-OK, try again. What I like about github, and openly writing there, is all those things I mentioned - openness, visibility, accountability, ownership. (Shhh about Microsoft, shhhh). But in these systems, one can also see ways to make knowledge in a distributed way, in a place where there's enough of a level of control to balance collaboration and safety.
+OK, try again. What I like about github, and openly writing there, is all those things I mentioned above - openness, visibility, accountability, ownership. (Shhh about Microsoft, shhhh.) But in these systems, one can also see ways to make knowledge in a distributed way, in a place where there's enough of a level of control to balance collaboration and safety.
 
-It's possible. Places *already exist* where this has worked. Wikipedia is straight-up brilliant (entirely unsurprising people like Musk should [attack it](muskpedia.png)), well designed tech designed channelling collaboration into incremental improvements while keeping the idiots at bay. 
+It's possible. Places *already exist* where this has worked. Wikipedia is straight-up brilliant (entirely unsurprising people like Musk should [attack it](muskpedia.png)), well-designed tech channelling collaboration into incremental improvements while keeping the idiots at bay.
 
 
 
