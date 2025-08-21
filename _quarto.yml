@@ -26,6 +26,7 @@ website:
 format:
   html:
     theme: darkly
+    fontsize: 1.4em
     css: styles.css
 
 #See here for using iconify in Quarto: https://github.com/quarto-dev/quarto-cli/discussions/5816#discussioncomment-6091449
