@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>COVEREDINBEES / A hive of TLDR &amp; villainy</title>
-<link>https://danolner.github.io/coveredinbees/#category=final</link>
-<atom:link href="https://danolner.github.io/coveredinbees/index-final.xml" rel="self" type="application/rss+xml"/>
+<link>https://coveredinbees.org/#category=final</link>
+<atom:link href="https://coveredinbees.org/index-final.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.7.33</generator>
 <lastBuildDate>Sun, 17 Aug 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Why 1st drafts?</title>
-  <link>https://danolner.github.io/coveredinbees/posts/why_sfd/</link>
+  <link>https://coveredinbees.org/posts/why_sfd/</link>
   <description><![CDATA[ 
 
 
@@ -45,7 +45,7 @@
 </ol>
 </section></div> ]]></description>
   <category>final</category>
-  <guid>https://danolner.github.io/coveredinbees/posts/why_sfd/</guid>
+  <guid>https://coveredinbees.org/posts/why_sfd/</guid>
   <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 </channel>

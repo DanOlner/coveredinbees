@@ -1,1 +1,1 @@
-Sitemap: https://danolner.github.io/coveredinbees/sitemap.xml
+Sitemap: https://coveredinbees.org/sitemap.xml

@@ -4,7 +4,7 @@ project:
 
 website:
   title: "COVEREDINBEES / A hive of TLDR & villainy"
-  site-url: https://danolner.github.io/coveredinbees
+  site-url: https://coveredinbees.org
   description: "A hive of TLDR and villainy"
   margin-header: subscribe.html
   navbar:

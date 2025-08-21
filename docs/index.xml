@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>COVEREDINBEES / A hive of TLDR &amp; villainy</title>
-<link>https://danolner.github.io/coveredinbees/</link>
-<atom:link href="https://danolner.github.io/coveredinbees/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://coveredinbees.org/</link>
+<atom:link href="https://coveredinbees.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.7.33</generator>
 <lastBuildDate>Wed, 20 Aug 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>What happened to words?</title>
-  <link>https://danolner.github.io/coveredinbees/posts/what_happened_to_words_DRAFT/</link>
+  <link>https://coveredinbees.org/posts/what_happened_to_words_DRAFT/</link>
   <description><![CDATA[ 
 
 
@@ -56,12 +56,12 @@
 </ol>
 </section></div> ]]></description>
   <category>draft</category>
-  <guid>https://danolner.github.io/coveredinbees/posts/what_happened_to_words_DRAFT/</guid>
+  <guid>https://coveredinbees.org/posts/what_happened_to_words_DRAFT/</guid>
   <pubDate>Wed, 20 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Go on, now it’s live, just one last test to make sure.</title>
-  <link>https://danolner.github.io/coveredinbees/posts/OneLastRSSTest_DRAFT/</link>
+  <link>https://coveredinbees.org/posts/OneLastRSSTest_DRAFT/</link>
   <description><![CDATA[ 
 
 
@@ -74,12 +74,12 @@
 
  ]]></description>
   <category>draft</category>
-  <guid>https://danolner.github.io/coveredinbees/posts/OneLastRSSTest_DRAFT/</guid>
+  <guid>https://coveredinbees.org/posts/OneLastRSSTest_DRAFT/</guid>
   <pubDate>Wed, 20 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>21st Century peer review</title>
-  <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</link>
+  <link>https://coveredinbees.org/posts/peer_review_C21st/</link>
   <description><![CDATA[ 
 
 
@@ -98,12 +98,12 @@
 
  ]]></description>
   <category>draft</category>
-  <guid>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</guid>
+  <guid>https://coveredinbees.org/posts/peer_review_C21st/</guid>
   <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Why 1st drafts?</title>
-  <link>https://danolner.github.io/coveredinbees/posts/why_sfd/</link>
+  <link>https://coveredinbees.org/posts/why_sfd/</link>
   <description><![CDATA[ 
 
 
@@ -135,7 +135,7 @@
 </ol>
 </section></div> ]]></description>
   <category>final</category>
-  <guid>https://danolner.github.io/coveredinbees/posts/why_sfd/</guid>
+  <guid>https://coveredinbees.org/posts/why_sfd/</guid>
   <pubDate>Sun, 17 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 </channel>
