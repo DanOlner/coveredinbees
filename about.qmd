@@ -73,10 +73,11 @@ I called my first ever blog 'coveredinbees' back in 2006 before embarking on a P
 
 Twenty years later, of course, through diligent practice and academic training, my writing is now like a scalpel. Hahahaha. I jest. No. I did manage to [write a PhD](https://github.com/DanOlner/PhD-thesis-n-code) (in twice the time I was supposed to) and a sci-fi book (more on that soon). But from those early puppyish, over-enthusiastic ramblings of youth, I have passed into the autumn years of once again thinking, "Aaaaa just get on with the rambling. Who cares? We'll all be dead soon."
 
+Slightly less flippantly... coveredinbees (and early C21st century blogging generally, a world that still survives at the margins) allowed a kind of free exploration and experimentation that I miss. That dovetails with the direction work is going in, as I'm playing with [opening up economic tools and ideas](https://danolner.github.io/RegionalEconomicTools/) through github.
 
+And why make things simple when they can be complicated? Setting this up to work through Quarto and github is considerably more faff than, say, signing up for substack. But as I [go on about here](../posts/why_sfd), there are practical and personal reasons for choosing this kind of path.
 
-
-
+So let's see how this goes...
 
 ----
 
