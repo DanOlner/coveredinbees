@@ -60,6 +60,24 @@
   <pubDate>Wed, 20 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Go on, now it’s live, just one last test to make sure.</title>
+  <link>https://danolner.github.io/coveredinbees/posts/OneLastRSSTest_DRAFT/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This would be the draft doc.</p>
+
+
+
+ ]]></description>
+  <category>draft</category>
+  <guid>https://danolner.github.io/coveredinbees/posts/OneLastRSSTest_DRAFT/</guid>
+  <pubDate>Wed, 20 Aug 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
   <title>21st Century peer review</title>
   <link>https://danolner.github.io/coveredinbees/posts/peer_review_C21st/</link>
   <description><![CDATA[ 
@@ -92,12 +110,12 @@
 
 
 
-<p>On this site, you’ve got the option of subscribing to <a href="https://danolner.github.io/coveredinbees/index.xml">first drafts</a> here, as well as <a href="https://danolner.github.io/coveredinbees/index-final.xml">final drafts</a> (RSS links).</p>
-<p><strong>The email subscription option defaults to final pieces only - tick the ‘1st draft’ box you want in on everything.</strong></p>
-<p><strong>Why on Earth would I be giving you the option to read 1st drafts? Isn’t life short enough already?</strong> Brief answer followed by longer ramble.</p>
+<p>On this site, you’ve got the option of subscribing to <a href="https://danolner.github.io/coveredinbees/index.xml">first drafts</a>, as well as <a href="https://danolner.github.io/coveredinbees/index-final.xml">final drafts</a> (RSS links).</p>
+<p>The email subscription option defaults to final pieces only - tick the ‘1st draft’ box you want in on everything.</p>
+<p>Why on Earth would I be giving you the option to read 1st drafts? Isn’t life short enough already?</p>
 <ul>
 <li>I’m using “1st draft” here to mean: the start of an idea or topic, in a post that I’ll continue to edit, ramble in, add links and connected thoughts, keeping it all in one place and regularly <a href="https://github.com/DanOlner/coveredinbees">pushing to github</a>.</li>
-<li>*In “1st drafts” I’ll try and lay out what I think the questions are and get some first points down. These may just be snippets that never go anywhere or they may grow. Though it absolutely will include <a href="https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf">shitty first drafts</a> along the way, the point is to get stuff out there, experiment with it and let it grow.</li>
+<li>In “1st drafts” I’ll try and lay out what I think the questions are and get some first points down. These may just be snippets that never go anywhere or they may grow. Though it absolutely will include <a href="https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf">shitty first drafts</a> along the way, the point is to get stuff out there, experiment with it and let it grow.</li>
 <li>This is also part of having <strong>more control and ownership</strong> as well as using a structure that <strong>leaves an accountability trail</strong> by being as open as possible. Everything here is on my own machine as well as <a href="https://github.com/DanOlner/coveredinbees">stored on Github</a> (admittedly, owned by Microsoft). If anyone so desires - why would you, that’d be mad, but if you <em>wanted</em> to- you could look at the history of any file (<a href="https://github.com/DanOlner/coveredinbees/commits/master/posts/why_sfd/index.qmd">here’s</a> this one’s) and see what’s changed (e.g.&nbsp;a <a href="https://github.com/DanOlner/coveredinbees/commit/78788d0ca8ecbc5e46305a3849a196bf17e16165#diff-b4ac3c529b00f3e9f57376c3dd67f1700d6c2c70e2f62874c67ae7307faf0dae">recent commit difference</a>). You could even sign up to github and <a href="https://github.com/DanOlner/coveredinbees/issues/new?permalink=https%3A%2F%2Fgithub.com%2FDanOlner%2Fcoveredinbees%2Fblob%2F4426c86ade5bd504d01a72e2ab3df02becc26a5d%2Fposts%2Fwhy_sfd%2Findex.qmd%23L1">add comments</a>.<sup>1</sup></li>
 </ul>
 <p>What I like about github is all those things I mentioned above - openness, visibility, accountability, ownership. (Shhh about Microsoft, shhhh.) But in these systems, one can also see ways to make knowledge in a distributed way, in a place where there’s enough of a level of control to balance collaboration and safety. I can warm my bones late at night imagining that, in some tiny way, I’m contributing to a <a href="../what_happened_to_words_DRAFT">better world for words</a>.</p>

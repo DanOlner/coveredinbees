@@ -1,0 +1,7 @@
+---
+title: "Go on, now it's live, just one last test to make sure."
+date: "2025-08-21"
+categories: [draft]
+---
+
+This would be the draft doc.
