@@ -1,5 +1,5 @@
 ---
-title: "RSS round and round we go [draft]"
+title: "RSS round and ROUND we go [draft]"
 date: "2025-08-22"
 categories: [draft]
 ---

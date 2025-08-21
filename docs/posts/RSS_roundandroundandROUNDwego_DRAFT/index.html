@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-08-22">
 
-<title>COVEREDINBEES / A hive of TLDR &amp; villainy</title>
+<title>RSS round and ROUND we go [draft] – COVEREDINBEES / A hive of TLDR &amp; villainy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e2ad2eddb07b91596255a2ebdffef4c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e2ad2eddb07b91596255a2ebdffef4c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,68 +69,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="COVEREDINBEES / A hive of TLDR &amp; villainy" href="index.xml" data-external="1"></head>
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
 <body class="nav-fixed quarto-light">
 
@@ -140,10 +81,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/cib_stripes.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/cib_stripes.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">COVEREDINBEES / A hive of TLDR &amp; villainy</span>
     </a>
   </div>
@@ -154,7 +95,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -176,12 +117,12 @@ window.Quarto = {
 <span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:wordpress" aria-label="Icon wordpress from simple-icons Iconify.design set." title="wordpress_site"></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index-final.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index-final.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index.xml"> 
+    <a class="nav-link" href="../../index.xml"> 
 <span class="menu-text"><iconify-icon role="img" inline="" icon="pepicons-pencil:pen-circle-filled" aria-label="Icon pen-circle-filled from pepicons-pencil Iconify.design set." title="rss_firstplusfinaldrafts"></iconify-icon></span></a>
   </li>  
 </ul>
@@ -192,156 +133,51 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">RSS round and ROUND we go [draft]</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">draft</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">August 22, 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
-<form action="
-          https://buttondown.com/api/emails/embed-subscribe/danolner
-         " method="post" class="form-label mt-4">
-  <label for="email">Email</label>
-  <input type="email" name="email" placeholder="" class="form-control" id="exampleInputEmail1">
-  <input type="checkbox" id="bd-wip" name="tag" value="first-draft" class="form-check-input">
-    <label for="bd-wip" class="form-check-label">
-      Tick to get 1st drafts
-    </label>
-  <input type="hidden" value="1" name="embed">
-  <input type="submit" value="Subscribe" class="btn btn-primary">
-  <p>
-    <a href="https://buttondown.com" target="_blank">
-      Powered by Buttondown.
-    </a><br>
-    <a href="https://coveredinbees.org/posts/why_sfd/">
-      Why 1st drafts?
-    </a>
-  </p>
-</form>
+<p>subscribe.html</p>
 </div></div>
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ZHJhZnQ=">draft <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZmluYWw=">final <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>This would be the draft doc AGAIN AGAIN. This time disabled the old feeds to see if that’s the issue. Quick change to try pushing again.</p>
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ZHJhZnQ=" data-listing-date-sort="1755817200000" data-listing-file-modified-sort="1755808023556" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
-<div class="thumbnail"><a href="./posts/RSS_roundandroundandROUNDwego_DRAFT/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/RSS_roundandroundandROUNDwego_DRAFT/index.html" class="no-external">RSS round and ROUND we go [draft]</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZHJhZnQ='); return false;">draft</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/RSS_roundandroundandROUNDwego_DRAFT/index.html" class="no-external">
-This would be the draft doc AGAIN AGAIN. This time disabled the old feeds to see if that’s the issue. Quick change to try pushing again.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/RSS_roundandroundandROUNDwego_DRAFT/index.html" class="no-external">
-<div class="listing-date">
-Aug 22, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="ZHJhZnQ=" data-listing-date-sort="1755730800000" data-listing-file-modified-sort="1755783917483" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="880">
-<div class="thumbnail"><a href="./posts/what_happened_to_words_DRAFT/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/what_happened_to_words_DRAFT/index.html" class="no-external">What happened to words?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZHJhZnQ='); return false;">draft</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/what_happened_to_words_DRAFT/index.html" class="no-external">
-Words have been getting a bit of a kicking lately. LLMs are looming in everyone’s vision right now. As a few people have put it (e.g.&nbsp;here, here, here) humans just lost…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/what_happened_to_words_DRAFT/index.html" class="no-external">
-<div class="listing-date">
-Aug 21, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="ZHJhZnQ=" data-listing-date-sort="1755558000000" data-listing-file-modified-sort="1755783960808" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
-<div class="thumbnail"><a href="./posts/peer_review_C21st/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/peer_review_C21st/index.html" class="no-external">21st Century peer review</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZHJhZnQ='); return false;">draft</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/peer_review_C21st/index.html" class="no-external">
-21st century peer review, how to make it work. Separate out all the different types e.g.&nbsp;tiny incremental technical progress in papers (some patenting to get IP) is a very…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/peer_review_C21st/index.html" class="no-external">
-<div class="listing-date">
-Aug 19, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="ZmluYWw=" data-listing-date-sort="1755471600000" data-listing-file-modified-sort="1755783662706" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="448">
-<div class="thumbnail"><a href="./posts/why_sfd/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/why_sfd/index.html" class="no-external">Why 1st drafts?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZmluYWw='); return false;">final</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/why_sfd/index.html" class="no-external">
-On this site, you’ve got the option of subscribing to first drafts, as well as final drafts (RSS links).
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/why_sfd/index.html" class="no-external">
-<div class="listing-date">
-Aug 18, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
