@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Reader, I have missed you."
 image: killeronion.jpeg
 about:
   template: jolla
@@ -15,22 +15,19 @@ about:
 
 ---
 
-**Reader, I have missed you. Where have you been?** 
+**Where have you been?** 
 
 What’s that? Speak up! Buried under an inconceivably vast and metastasizing word-mountain, you say? Only a shrinking fraction of which is now human-produced, you say? The noise an unbearable tinnitus that makes you want to set your own head in concrete, you say?
 
-What you need, I think, is another blog. And look down there! A subscribe button! Go on. If you're really keen, too keen, click the 'send me 1st drafts' button as well ([see here](../posts/why_sfd) for why this option's available).
+What you need, I think, is another blog. 
 
-RSS feeds top right, some links to other places above and below.
+### And look down there! A subscribe button! Aah go on. 
+
+If you're really keen, too keen, click the 'send me 1st drafts' button as well ([see here](../posts/why_sfd) for why this option's available).
+
+Direct RSS feeds are top right.
 
 ----
-
-[first blog 2006](../../misc/mischtml/queenyandthetanners2006.html)
-
-----
-
-*p.s. that pic is a killer onion I made for the [Sharrow Lantern Carnival](https://www.sharrowlanterncarnival.org/) in 2006. The teeth flashed and everything.*
-
 
 
 <form
@@ -58,3 +55,30 @@ RSS feeds top right, some links to other places above and below.
     </a>
   </p>
 </form>
+
+
+
+----
+
+## Contractual "what to expect" section
+
+
+
+
+----
+
+## Musings
+
+I called my first ever blog 'coveredinbees' back in 2006 before embarking on a PhD. The name was an [Izzard-flavoured](https://www.youtube.com/watch?v=CYuvLSFFalo) hat-tip to the [emergence / self-organisation ideas](https://coveredinbees.org.archived.website/node/391.html) I planned to study. (Someone later pointed out I could also have linked to the [Fable of the Bees](https://en.wikipedia.org/wiki/The_Fable_of_the_Bees), didn't think of that at the time.) Early posts (a few surviving on the wayback machine) like [this](queenyandthetanners2006.html) were largely unstructured rambles of faintly connected thoughts. Various incarnations survived over the years; [this archive](https://coveredinbees.org.archived.website/) was the last one and [this page](https://www.danolner.net/#writing-anchor) lists my favourite bits.
+
+Twenty years later, of course, through diligent practice and academic training, my writing is now like a scalpel. Hahahaha. I jest. No. I did manage to [write a PhD](https://github.com/DanOlner/PhD-thesis-n-code) (in twice the time I was supposed to) and a sci-fi book (more on that soon). But from those early puppyish, over-enthusiastic ramblings of youth, I have passed into the autumn years of once again thinking, "Aaaaa just get on with the rambling. Who cares? We'll all be dead soon."
+
+
+
+
+
+
+----
+
+*p.s. that pic is a killer onion I made for the [Sharrow Lantern Carnival](https://www.sharrowlanterncarnival.org/) in 2006. The teeth flashed and everything.*
+
