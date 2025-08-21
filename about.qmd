@@ -23,7 +23,7 @@ What you need, I think, is another blog.
 
 ### And look down there! A subscribe button! Aaah go on. 
 
-If you're really keen, too keen, click the 'send me 1st drafts' button as well ([see here](../posts/why_sfd) for why this option's available).
+If you're really keen, too keen, click the 'send me 1st drafts' button as well ([see here](posts/why_sfd) for why this option's available).
 
 Direct RSS feeds are top right for [final only please]() and [give me everything]().
 
@@ -66,7 +66,7 @@ My [older writing](https://www.danolner.net/#writing-anchor) is a pretty good gu
 
 From now on, expect more ramblings about how economic ideas connect (or don't) through to 'dig where you stand' regional economic outcomes, as I try to [build tools](https://danolner.github.io/RegionalEconomicTools/) to support that.
 
-As the [why 1st drafts post](../posts/why_sfd) explains, I'll also start topics here, laying out what I think the questions are with some untidy thoughts, and use that (in combination with github) as a repository for thinking it through and connecting it with other ideas. That is the plan at least, let's see what happens.
+As the [why 1st drafts post](posts/why_sfd) explains, I'll also start topics here, laying out what I think the questions are with some untidy thoughts, and use that (in combination with github) as a repository for thinking it through and connecting it with other ideas. That is the plan at least, let's see what happens.
 
 ----
 
@@ -82,7 +82,7 @@ Hahahaha. I jest. No. I did manage to [write a PhD](https://github.com/DanOlner/
 
 Slightly less flippantly... coveredinbees (and early C21st century blogging generally, a world that still survives at the margins) allowed a kind of free exploration and experimentation that I miss. That dovetails with the direction work is going in, as I'm playing with [opening up economic tools and ideas](https://danolner.github.io/RegionalEconomicTools/) through github. That site leans heavily towards the narrow how-to stuff - I want to open that up, connect to "so what" and arguments around things like how we measure, how we connect ideas through to tools.
 
-And why make things simple when they can be complicated? Setting this up to work through Quarto and github is considerably more faff than, say, signing up for substack. But as I [go on about here](../posts/why_sfd), there are practical and personal reasons for choosing this kind of path.
+And why make things simple when they can be complicated? Setting this up to work through Quarto and github is considerably more faff than, say, signing up for substack. But as I [go on about here](posts/why_sfd), there are practical and personal reasons for choosing this kind of path.
 
 So let's see how this goes...
 

@@ -18,15 +18,10 @@ What I like about github is all those things I mentioned above - openness, visib
 
 It's possible. Places *already exist* where this has worked. Wikipedia is straight-up brilliant (entirely unsurprising people like Musk should [attack it](muskpedia.png)), well-designed tech channelling collaboration into incremental improvements while keeping the idiots at bay.
 
-Also - why write when you can instead spend far too long setting up complex writing systems? What kind of fool just *writes*?
+Also - why write when you can instead spend far too long setting up complex writing systems? The [Douglas Adams principle of programming](https://www.reddit.com/r/quotes/comments/btuvib/i_am_rarely_happier_than_when_spending_an_entire):
 
+> "I am rarely happier than when spending an entire day programming my computer to perform automatically a task that would otherwise take me a good ten seconds to do by hand."
 
-
-
-
-
-
- 
 
 [^2]: Not quite as ridiculous as it sounds - github is one of the few collab platforms I've found that works across both universities and UK public bodies, where often many websites are blocked (I presume because it's Microsoft owned).
 
