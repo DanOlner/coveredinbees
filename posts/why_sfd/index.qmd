@@ -1,6 +1,5 @@
 ---
 title: "Draft v final plus bonus TLDR"
-author: "Dan Olner"
 date: "2025-08-18"
 categories: [draft]
 ---

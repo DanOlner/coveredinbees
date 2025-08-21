@@ -8,7 +8,7 @@ website:
   description: "A hive of TLDR and villainy"
   margin-header: subscribe.html
   navbar:
-    logo: images/x.png
+    logo: images/cib_stripes.png
     right:
       - about.qmd
       - icon: github

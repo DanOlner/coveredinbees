@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Reader, I have missed you.",
+    "title": "About",
     "section": "",
-    "text": "Where have you been?\nWhat’s that? Speak up! Buried under an inconceivably vast and metastasizing word-mountain, you say? Only a shrinking fraction of which is now human-produced, you say? The noise an unbearable tinnitus that makes you want to set your own head in concrete, you say?\nWhat you need, I think, is another blog."
+    "text": "Reader, I have missed you. Where have you been?\nWhat’s that? Speak up! Buried under an inconceivably vast and metastasizing word-mountain, you say? Only a shrinking fraction of which is now human-produced, you say? The noise an unbearable tinnitus that makes you want to set your own head in concrete, you say?\nWhat you need, I think, is another blog."
   },
   {
     "objectID": "posts/FromDraftToFinal/index.html",
@@ -53,20 +53,27 @@
     "href": "index.html",
     "title": "COVEREDINBEES / A hive of TLDR & villainy",
     "section": "",
-    "text": "A final post RSS test\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 21, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nFrom draft to final\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 21, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nFrom draft to final [draft]\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nDraft v final plus bonus TLDR\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\nDan Olner\n\n\n\n\n\nNo matching items"
+    "text": "A final post RSS test\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 21, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nFrom draft to final\n\n\n\nfinal\n\n\n\n\n\n\n\n\n\nAug 21, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nFrom draft to final [draft]\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 20, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\n21st Century peer review\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 19, 2025\n\n\nDan Olner\n\n\n\n\n\n\n\n\n\n\n\n\nDraft v final plus bonus TLDR\n\n\n\ndraft\n\n\n\n\n\n\n\n\n\nAug 18, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html#contractual-what-to-expect-section",
     "href": "about.html#contractual-what-to-expect-section",
-    "title": "Reader, I have missed you.",
+    "title": "About",
     "section": "Contractual “what to expect” section",
-    "text": "Contractual “what to expect” section\nMy older writing is a pretty good guide - political economy, spatial stuff, economic history, climate change, “are we more than just mindless ants” arguments over and over.\nFrom now on, expect more ramblings about how economic ideas connect (or don’t) through to ‘dig where you stand’ regional economic outcomes, as I try to build tools to support that."
+    "text": "Contractual “what to expect” section\nMy older writing is a pretty good guide - political economy, spatial stuff, economic history, climate change, “are we more than just mindless ants” arguments on repeat.\nFrom now on, expect more ramblings about how economic ideas connect (or don’t) through to ‘dig where you stand’ regional economic outcomes, as I try to build tools to support that.\nAs the why 1st drafts post explains, I’ll also start topics here, laying out what I think the questions are with some untidy thoughts, and use that (in combination with github) as a repository for thinking it through and connecting it with other ideas. That is the plan at least, let’s see what happens."
   },
   {
     "objectID": "about.html#musings",
     "href": "about.html#musings",
-    "title": "Reader, I have missed you.",
+    "title": "About",
     "section": "Musings",
-    "text": "Musings\nI called my first ever blog ‘coveredinbees’ back in 2006 before embarking on a PhD. The name was an Izzard-flavoured hat-tip to the emergence / self-organisation ideas I planned to study. (Someone later pointed out I could also have linked to the Fable of the Bees, didn’t think of that at the time.) Early posts (a few surviving on the wayback machine) like this were largely unstructured rambles of faintly connected thoughts. Various incarnations survived over the years; this archive was the last one and this page lists my favourite bits.\nTwenty years later, of course, through diligent practice and academic training, my writing is now like a scalpel. Hahahaha. I jest. No. I did manage to write a PhD (in twice the time I was supposed to) and a sci-fi book (more on that soon). But from those early puppyish, over-enthusiastic ramblings of youth, I have passed into the autumn years of once again thinking, “Aaaaa just get on with the rambling. Who cares? We’ll all be dead soon.”\nSlightly less flippantly… coveredinbees (and early C21st century blogging generally, a world that still survives at the margins) allowed a kind of free exploration and experimentation that I miss. That dovetails with the direction work is going in, as I’m playing with opening up economic tools and ideas through github. That site leans heavily towards the narrow how-to stuff - I want to open that up, connect to “so what” and arguments around things like how we measure, how we connect ideas through to tools.\nAnd why make things simple when they can be complicated? Setting this up to work through Quarto and github is considerably more faff than, say, signing up for substack. But as I go on about here, there are practical and personal reasons for choosing this kind of path.\nSo let’s see how this goes…\n\np.s. that pic is a killer onion I made for the Sharrow Lantern Carnival in 2006. The teeth flashed and everything."
+    "text": "Musings\nI called my first ever blog ‘coveredinbees’ back in 2006 before embarking on a PhD. The name was an Izzard-flavoured hat-tip to the emergence / self-organisation ideas I planned to study. (Someone later pointed out I could also have linked to the Fable of the Bees, didn’t think of that at the time.)\nEarly posts (a few surviving on the wayback machine) like this were largely unstructured rambles of faintly connected thoughts. Various incarnations survived over the years; this archive was the last one and this page lists my favourite bits.\nTwenty years later, of course, through diligent practice and academic training, my writing is now like a scalpel.\nHahahaha. I jest. No. I did manage to write a PhD (in twice the time I was supposed to) and a sci-fi book (more on that soon). But from those early puppyish, over-enthusiastic ramblings of youth, I have passed through trying to be something I’m not, back in my autumn years1 to “Aaaaa just get on with the rambling. Who cares? We’ll all be dead soon.”\nSlightly less flippantly… coveredinbees (and early C21st century blogging generally, a world that still survives at the margins) allowed a kind of free exploration and experimentation that I miss. That dovetails with the direction work is going in, as I’m playing with opening up economic tools and ideas through github. That site leans heavily towards the narrow how-to stuff - I want to open that up, connect to “so what” and arguments around things like how we measure, how we connect ideas through to tools.\nAnd why make things simple when they can be complicated? Setting this up to work through Quarto and github is considerably more faff than, say, signing up for substack. But as I go on about here, there are practical and personal reasons for choosing this kind of path.\nSo let’s see how this goes…\n\np.s. that pic is a killer onion I made for the Sharrow Lantern Carnival in 2006. The teeth flashed and everything."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI’m not that old. I am quite old.↩︎"
   }
 ]
