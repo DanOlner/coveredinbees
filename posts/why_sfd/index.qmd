@@ -6,9 +6,11 @@ categories: [final]
 
 On this site, you've got the option of subscribing to [first drafts](https://danolner.github.io/coveredinbees/index.xml), as well as [final drafts](https://danolner.github.io/coveredinbees/index-final.xml) (RSS links). 
 
-The email subscription option defaults to final pieces only - tick the '1st draft' box you want in on everything. 
+If you stick your email in the 'subscribe' box, that defaults to final pieces only - tick the '1st draft' button you want both 1st and final.
 
-Why on Earth would I be giving you the option to read 1st drafts? Isn't life short enough already? 
+If you subscribe to both, you get notified once when I **start** a topic/piece, and once again when I decide it's done.
+
+Sooo. Why on Earth would I be giving you the option to read 1st drafts? Isn't life short enough already? Reasons ⇉
 
 * I'm using "1st draft" here to mean: the start of an idea or topic, in a post that I'll continue to edit, ramble in, add links and connected thoughts, keeping it all in one place and regularly [pushing to github](https://github.com/DanOlner/coveredinbees).
 * In "1st drafts" I'll try and lay out what I think the questions are and get some first points down. These may just be snippets that never go anywhere or they may grow. Though it absolutely will include [shitty first drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) along the way, the point is to get stuff out there, experiment with it and let it grow.

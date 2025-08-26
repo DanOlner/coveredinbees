@@ -10,26 +10,7 @@
 <atom:link href="https://coveredinbees.org/index-final.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.7.33</generator>
-<lastBuildDate>Thu, 21 Aug 2025 23:00:00 GMT</lastBuildDate>
-<item>
-  <title>RSS round and ROUND we go</title>
-  <link>https://coveredinbees.org/posts/RSS_roundandroundandROUNDwego/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>So I’ve just changed the word ‘draft’ in three places. Not the most robust way of doing this maybe. Still, hacky works!</p>
-<p>Old: This would be the draft doc AGAIN AGAIN. This time disabled the old feeds to see if that’s the issue. Quick change to try pushing again.</p>
-
-
-
- ]]></description>
-  <category>final</category>
-  <guid>https://coveredinbees.org/posts/RSS_roundandroundandROUNDwego/</guid>
-  <pubDate>Thu, 21 Aug 2025 23:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Sun, 17 Aug 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Why 1st drafts?</title>
   <link>https://coveredinbees.org/posts/why_sfd/</link>
@@ -40,8 +21,9 @@
 
 
 <p>On this site, you’ve got the option of subscribing to <a href="https://danolner.github.io/coveredinbees/index.xml">first drafts</a>, as well as <a href="https://danolner.github.io/coveredinbees/index-final.xml">final drafts</a> (RSS links).</p>
-<p>The email subscription option defaults to final pieces only - tick the ‘1st draft’ box you want in on everything.</p>
-<p>Why on Earth would I be giving you the option to read 1st drafts? Isn’t life short enough already?</p>
+<p>If you stick your email in the ‘subscribe’ box, that defaults to final pieces only - tick the ‘1st draft’ button you want both 1st and final.</p>
+<p>If you subscribe to both, you get notified once when I <strong>start</strong> a topic/piece, and once again when I decide it’s done.</p>
+<p>Sooo. Why on Earth would I be giving you the option to read 1st drafts? Isn’t life short enough already? Reasons ⇉</p>
 <ul>
 <li>I’m using “1st draft” here to mean: the start of an idea or topic, in a post that I’ll continue to edit, ramble in, add links and connected thoughts, keeping it all in one place and regularly <a href="https://github.com/DanOlner/coveredinbees">pushing to github</a>.</li>
 <li>In “1st drafts” I’ll try and lay out what I think the questions are and get some first points down. These may just be snippets that never go anywhere or they may grow. Though it absolutely will include <a href="https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf">shitty first drafts</a> along the way, the point is to get stuff out there, experiment with it and let it grow.</li>
