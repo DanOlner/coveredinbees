@@ -12,7 +12,7 @@
 <generator>quarto-1.7.33</generator>
 <lastBuildDate>Wed, 20 Aug 2025 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>What happened to words?</title>
+  <title>A better world for words</title>
   <link>https://coveredinbees.org/posts/what_happened_to_words_DRAFT/</link>
   <description><![CDATA[ 
 
@@ -60,15 +60,24 @@
   <pubDate>Wed, 20 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>21st Century peer review</title>
-  <link>https://coveredinbees.org/posts/peer_review_C21st/</link>
+  <title>Ideas dumping ground</title>
+  <link>https://coveredinbees.org/posts/ideas_dumping_ground/</link>
   <description><![CDATA[ 
 
 
 
 
 
+<section id="nurturing-the-knowledge-body-not-letting-it-atrophy-and-die-formerly-21st-century-peer-review" class="level2">
+<h2 class="anchored" data-anchor-id="nurturing-the-knowledge-body-not-letting-it-atrophy-and-die-formerly-21st-century-peer-review">Nurturing the knowledge-body / not letting it atrophy and die [formerly: 21st Century peer review]</h2>
+<p>Other relevant posts: “What happened to words?”</p>
 <p>21st century peer review, how to make it work. Separate out all the different types e.g.&nbsp;tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g.&nbsp;open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. <a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf">constructive stupidity</a>.)</p>
+<ul>
+<li>How to avoid the “I am Galileo” problem</li>
+<li>How to avoid the “I am an oil company and would like science to show climate change isn’t a problem” problem</li>
+<li>How to avoid the “I am a billionaire narcissist and would like to be Emperor and the only source of truth” problem</li>
+</ul>
+<p>Also: * Do we know what actually makes science as successful as it is? Oh no, this is philosophy of science / the demarcation problem. What’s useful here for the predicament we find ourselves in? * Authority plays a part, but that authority needs some foundations. You can’t be an engineering authority if you make planes that don’t fly or bridges that fall down. But how much of science is like that? Climate science obviously has a timescales problem there.</p>
 <p>Other random points:</p>
 <ul>
 <li>Now equivalent of DDOS attack via LLMs…?</li>
@@ -77,10 +86,11 @@
 </ul>
 
 
+</section>
 
  ]]></description>
   <category>draft</category>
-  <guid>https://coveredinbees.org/posts/peer_review_C21st/</guid>
+  <guid>https://coveredinbees.org/posts/ideas_dumping_ground/</guid>
   <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
@@ -101,9 +111,10 @@
 <li>In “1st drafts” I’ll try and lay out what I think the questions are and get some first points down. These may just be snippets that never go anywhere or they may grow. Though it absolutely will include <a href="https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf">shitty first drafts</a> along the way, the point is to get stuff out there, experiment with it and let it grow.</li>
 <li>This is also part of having <strong>more control and ownership</strong> as well as using a structure that <strong>leaves an accountability trail</strong> by being as open as possible. Everything here is on my own machine as well as <a href="https://github.com/DanOlner/coveredinbees">stored on Github</a> (admittedly, owned by Microsoft). If anyone so desires - why would you, that’d be mad, but if you <em>wanted</em> to- you could look at the history of any file (<a href="https://github.com/DanOlner/coveredinbees/commits/master/posts/why_sfd/index.qmd">here’s</a> this one’s) and see what’s changed (e.g.&nbsp;a <a href="https://github.com/DanOlner/coveredinbees/commit/78788d0ca8ecbc5e46305a3849a196bf17e16165#diff-b4ac3c529b00f3e9f57376c3dd67f1700d6c2c70e2f62874c67ae7307faf0dae">recent commit difference</a>). You could even sign up to github and <a href="https://github.com/DanOlner/coveredinbees/issues/new?permalink=https%3A%2F%2Fgithub.com%2FDanOlner%2Fcoveredinbees%2Fblob%2F4426c86ade5bd504d01a72e2ab3df02becc26a5d%2Fposts%2Fwhy_sfd%2Findex.qmd%23L1">add comments</a>.<sup>1</sup></li>
 </ul>
-<p>What I like about github is all those things I mentioned above - openness, visibility, accountability, ownership. (Shhh about Microsoft, shhhh.) But in these systems, one can also see ways to make knowledge in a distributed way, in a place where there’s enough of a level of control to balance collaboration and safety. I can warm my bones late at night imagining that, in some tiny way, I’m contributing to a <a href="../what_happened_to_words_DRAFT">better world for words</a>.</p>
-<p>It’s possible. Places <em>already exist</em> where this has worked. Wikipedia is straight-up brilliant (entirely unsurprising people like Musk should <a href="muskpedia.png">attack it</a>), well-designed tech channelling collaboration into incremental improvements while keeping the idiots at bay.</p>
-<p>Also - why write when you can instead spend far too long setting up complex writing systems? The <a href="https://www.reddit.com/r/quotes/comments/btuvib/i_am_rarely_happier_than_when_spending_an_entire">Douglas Adams principle of programming</a>:</p>
+<p>What I like about github is all those things I mentioned above - openness, visibility, accountability, ownership. (Shhh about Microsoft, shhhh.) In our bold new LLM world, it’s one way to show that it’s a slow, dumb, stumbling human doing the thinking behind the words.</p>
+<p>One can also see ways to make knowledge in a distributed way, in a place where there’s enough of a level of control to balance collaboration and safety. I can warm my bones late at night imagining that, in some tiny way, I’m contributing to a <a href="../what_happened_to_words_DRAFT">better world for words</a>.</p>
+<p>It’s really a very old, idealistic/borderline naïve notion of what the internet could be. And it <em>is</em> possible. Places <em>already exist</em> where it’s worked. Wikipedia is straight-up brilliant (entirely unsurprising people like Musk should <a href="muskpedia.png">attack it</a>), well-designed tech channelling collaboration into incremental improvements while keeping the barbarians at bay.</p>
+<p>Aaaaand - why <em>write</em> when you can instead spend far too long setting up complex writing systems? The <a href="https://www.reddit.com/r/quotes/comments/btuvib/i_am_rarely_happier_than_when_spending_an_entire">Douglas Adams principle of programming</a>:</p>
 <blockquote class="blockquote">
 <p>“I am rarely happier than when spending an entire day programming my computer to perform automatically a task that would otherwise take me a good ten seconds to do by hand.”</p>
 </blockquote>

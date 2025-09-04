@@ -12,7 +12,7 @@
 <generator>quarto-1.7.33</generator>
 <lastBuildDate>Wed, 20 Aug 2025 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>What happened to words?</title>
+  <title>A better world for words</title>
   <link>https://coveredinbees.org/posts/what_happened_to_words_DRAFT/</link>
   <description><![CDATA[ 
 
@@ -60,15 +60,24 @@
   <pubDate>Wed, 20 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>21st Century peer review</title>
-  <link>https://coveredinbees.org/posts/peer_review_C21st/</link>
+  <title>Ideas dumping ground</title>
+  <link>https://coveredinbees.org/posts/ideas_dumping_ground/</link>
   <description><![CDATA[ 
 
 
 
 
 
+<section id="nurturing-the-knowledge-body-not-letting-it-atrophy-and-die-formerly-21st-century-peer-review" class="level2">
+<h2 class="anchored" data-anchor-id="nurturing-the-knowledge-body-not-letting-it-atrophy-and-die-formerly-21st-century-peer-review">Nurturing the knowledge-body / not letting it atrophy and die [formerly: 21st Century peer review]</h2>
+<p>Other relevant posts: “What happened to words?”</p>
 <p>21st century peer review, how to make it work. Separate out all the different types e.g.&nbsp;tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g.&nbsp;open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. <a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf">constructive stupidity</a>.)</p>
+<ul>
+<li>How to avoid the “I am Galileo” problem</li>
+<li>How to avoid the “I am an oil company and would like science to show climate change isn’t a problem” problem</li>
+<li>How to avoid the “I am a billionaire narcissist and would like to be Emperor and the only source of truth” problem</li>
+</ul>
+<p>Also: * Do we know what actually makes science as successful as it is? Oh no, this is philosophy of science / the demarcation problem. What’s useful here for the predicament we find ourselves in? * Authority plays a part, but that authority needs some foundations. You can’t be an engineering authority if you make planes that don’t fly or bridges that fall down. But how much of science is like that? Climate science obviously has a timescales problem there.</p>
 <p>Other random points:</p>
 <ul>
 <li>Now equivalent of DDOS attack via LLMs…?</li>
@@ -77,10 +86,11 @@
 </ul>
 
 
+</section>
 
  ]]></description>
   <category>draft</category>
-  <guid>https://coveredinbees.org/posts/peer_review_C21st/</guid>
+  <guid>https://coveredinbees.org/posts/ideas_dumping_ground/</guid>
   <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
 </item>
 </channel>

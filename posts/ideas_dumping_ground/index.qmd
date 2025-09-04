@@ -1,10 +1,24 @@
 ---
-title: "21st Century peer review"
+title: "Ideas dumping ground"
 date: "2025-08-19"
 categories: [draft]
 ---
 
+
+## Nurturing the knowledge-body / not letting it atrophy and die [formerly: 21st Century peer review]
+
+Other relevant posts: "What happened to words?"
+
 21st century peer review, how to make it work. Separate out all the different types e.g. tiny incremental technical progress in papers (some patenting to get IP) is a very different world to e.g. open urban work. Structures vastly different. Or exploratory thought pieces vs medical testing. Put in context of what we do not want to happen: what happened with supposed ‘citizen science’ for climate change, which was just idiots shouting “I am Galileo!” Some but not all of those oil-funded, some but not all of those with raging Dunning-Kruger. (Cf. [constructive stupidity](https://web.stanford.edu/~fukamit/schwartz-2008.pdf).) 
+
+* How to avoid the "I am Galileo" problem
+* How to avoid the "I am an oil company and would like science to show climate change isn't a problem" problem
+* How to avoid the "I am a billionaire narcissist and would like to be Emperor and the only source of truth" problem
+
+Also:
+* Do we know what actually makes science as successful as it is? Oh no, this is philosophy of science / the demarcation problem. What's useful here for the predicament we find ourselves in?
+* Authority plays a part, but that authority needs some foundations. You can't be an engineering authority if you make planes that don't fly or bridges that fall down. But how much of science is like that? Climate science obviously has a timescales problem there.
+
 
 Other random points:
 
