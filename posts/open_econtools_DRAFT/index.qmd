@@ -13,7 +13,7 @@ And write what I want out of it:
 * Link to some organisations to collab with. Define what that collab will look like, get feedback on this plan early.
 
 
-Over the past couple of years, I've been building up a loose 'regional economic data' toolkit while trying to answer questions posed in my Y-PERN work (mainly with [SYMCA](https://www.southyorkshire-ca.gov.uk/)). Some of it's gathered on the [regionaleconomictools website](https://danolner.github.io/RegionalEconomicTools/), the rest in various places on [github](https://github.com/DanOlner).
+Over the past couple of years, I've been building up a loose 'regional economic data' toolkit while trying to answer questions posed in my Y-PERN work (mainly with [SYMCA](https://www.southyorkshire-ca.gov.uk/)). Some of it's gathered on the [regionaleconomictools website](https://danolner.github.io/RegionalEconomicTools/), the rest in various places on [github](https://github.com/DanOlner). The [live outputs page](https://danolner.github.io/posts/outputs_livelist/) on the techie blog has gathered most of it in one place.
 
 I want to have a go at making these tools better in collaboration with others, adding to the toolbox as we learn. 
 
@@ -22,29 +22,29 @@ But I am hoping there are ways to dig deeper.
 This is perfect '[blind men and elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)' parable territory ([example](https://jetzek.wordpress.com/2016/07/19/first-blog-post/) applied to economics). Let's apply it to regional analysis.
 
 * At the top, we've got “What does the economy look like” questions. We want direct answers - how is the economy structured, what's growing, shrinking, why do we think this is happening, do we have any levers? We want to see as much of the elephant as we can.
-* Those lead straight to “What data/methods do we have to answer them?” Any data we have may help us grab one small part of the pachiderm, but the whole beast will likely still elude us.
+* Those lead straight to “What data/methods do we have to answer them?” Any one data source may help us grab one small part of the pachiderm. We try using different sources to get a grip on different bits, but the whole beast will likely still elude us. 
 * Then there are awkward people saying things like, "Are we *sure* this is an elephant? I think maybe we have to go back to first principles here."
 
-The status of those last question types is tricky. As SYMCA's Alice Rubbra eloquently explains [here]() on the Y-PERN blog, it's a clash of wotsits
+The status of those last question types is tricky. As SYMCA's Alice Rubbra eloquently explains [here](https://y-pern.org.uk/blog/the-relationship-between-policymaking-and-research-how-it-works-sometimes/) on the Y-PERN blog, it's a clash of wotsits
 
 
 But this is one of the things I want to experiment with. It's a good time to try 
 
 because of the networks because of being able to create space for it
-Start with some humility - the world doesn't havea shortage of people who'll be willing to tell you they know The Answers.
+Start with some humility - the world doesn't have a shortage of people who'll be willing to tell you they know The Answers.
 
-What I think we have a chance to do collectively is a bit different - to create a shared sense of ground truth as we work together, built on the best understanding we can build between us.
+Black box vs network [can mention some of the hollowing-out issues here that have no quick fix cf. Bradford community data]
 
-A lot of that groundwork has been done already through regional networks. We have a decent chance of getting a handle on a good two-thirds to three-quarters of the elephant.
+What I think we have a chance to do collectively is a bit different - to create a shared sense of ground truth as we work together, built on the best understanding we can create between us.
+
+A lot of that groundwork has been done already through regional network building. We have a decent chance of getting a handle on a good two-thirds to three-quarters of the elephant.
 
 
 Why I think that comes under heading of "toolkit". Overused but effective word, and can include the ways we can dig into the theory... 
 
 
-
 Prototyping what this niche is
 What specific qualities these kinds of networks can bring and why they flow naturally from / are a good match for the direction of devolution
-
 
 
 And why openness is key.
@@ -55,9 +55,7 @@ And why openness is key.
 
 That last one covers both normative stuff and 'theory of data / theory of change' stuff.
 
-Use our tools with enough knowledge to know their limitations. Muuuch easier said than done. Krugman: "We just don't see what we can't formalise".
-
-
+We need enough knowledge to know our tools' limitations. Muuuch easier said than done. Krugman: "We just don't see what we can't formalise". Continued privileging of quant over lived experience / ground knowledge (see below)
 
 
 
@@ -72,7 +70,7 @@ This is the level one might imagine a toolkit lurks.
 
 
 
- Issues around avoiding data-driven questions, streetlight effect. Issue of developing our own internal model - not just infographic cf. x-ray
+Issues around avoiding data-driven questions, streetlight effect. Issue of developing our own internal model - not just infographic cf. x-ray
 What are we missing? What’s wrong with our data and methods?
 
 The limitations here include: “you need to leave the house and talk to people.” This is the quant data / reality gap...
@@ -135,10 +133,6 @@ I don’t have a dogmatic fealty to open source — I believe in a data/analysis
 1. Collaborative learning (or: bootstrapping our capacity building together)
 2. Shared-ground-truth-building
 3. Non-wheel-duplication (a facet of [reproducibility](https://www.ukrn.org/), which needs open methods; you can’t reproduce something if you can’t access it).
-
-
-
-
 
 
 
