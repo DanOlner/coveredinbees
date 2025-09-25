@@ -50,11 +50,11 @@ What you need, I think, is another blog.
 
 ## Contractual "what to expect" section
 
-My [other writing](https://www.danolner.net/#writing-anchor) is a pretty good guide - political economy, spatial stuff, economic history, climate change, "are we more than just mindless ants" arguments on repeat.
+My [other writing](https://www.danolner.net/#writing-anchor) is a pretty good guide. So that'll be things like:
 
-From now on, expect more ramblings about how economic ideas connect (or don't) through to 'dig where you stand' regional economic outcomes, as I try to [build tools](https://danolner.github.io/RegionalEconomicTools/) to support that.
-
-As the [why 1st drafts post](posts/why_sfd) explains, I'll also start topics here, laying out what I think the questions are with some untidy thoughts, and use that (in combination with github) as a repository for thinking it through and connecting it with other ideas. That is the plan at least, let's see what happens.
+* Political economy, spatial stuff, economic history and climate change, as well as ideas connected to my [spatial econ data-sciencing](https://danolner.github.io/) and [other work](https://www.danolner.net/). 
+* A common theme is asking, "Are we more than just mindless ants? What abilities and systems can humans build to determine our own destiny?" (Two examples of posts on that subject: how humans are [natural distributed systems makers](https://coveredinbees.org.archived.website/3adaptivelandscapes.html), what Balinese rice pest management, Peruvian potato growing and the market economy have in common, why it’s all tangled up with magic and why it means Hayek was wrong; [picking apart](https://www.danolner.net/2022/08/jordan-petersons-zombie-climate-ideas) Jordan Peterson's tediously shallow neoliberalism that underpins his climate nonsense, as a reminder that we are not, in fact, just mindless ants).
+* Also, I wrote a sci-fi book about AI, which I finished in the summer of 2022 after four years of research/writing... a couple of months before the 1st chatGPT public release. I'm examining LLM economic impacts in my dayjob, but I also want to return to the themes in the book, and mull the book's LLM 'before / after'. Does it still work, what doesn't? After failed attempts at trad publishing, I will doing the [self-publish](https://www.reddit.com/r/selfpublish/) thing, and writing about that process here too.
 
 ----
 

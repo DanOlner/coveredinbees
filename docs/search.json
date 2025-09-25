@@ -11,7 +11,7 @@
     "href": "about.html#contractual-what-to-expect-section",
     "title": "About",
     "section": "Contractual “what to expect” section",
-    "text": "Contractual “what to expect” section\nMy other writing is a pretty good guide - political economy, spatial stuff, economic history, climate change, “are we more than just mindless ants” arguments on repeat.\nFrom now on, expect more ramblings about how economic ideas connect (or don’t) through to ‘dig where you stand’ regional economic outcomes, as I try to build tools to support that.\nAs the why 1st drafts post explains, I’ll also start topics here, laying out what I think the questions are with some untidy thoughts, and use that (in combination with github) as a repository for thinking it through and connecting it with other ideas. That is the plan at least, let’s see what happens."
+    "text": "Contractual “what to expect” section\nMy other writing is a pretty good guide. So that’ll be things like:\n\nPolitical economy, spatial stuff, economic history and climate change, as well as ideas connected to my spatial econ data-sciencing and other work.\nA common theme is asking, “Are we more than just mindless ants? What abilities and systems can humans build to determine our own destiny?” (Two examples of posts on that subject: how humans are natural distributed systems makers, what Balinese rice pest management, Peruvian potato growing and the market economy have in common, why it’s all tangled up with magic and why it means Hayek was wrong; picking apart Jordan Peterson’s tediously shallow neoliberalism that underpins his climate nonsense, as a reminder that we are not, in fact, just mindless ants).\nAlso, I wrote a sci-fi book about AI, which I finished in the summer of 2022 after four years of research/writing… a couple of months before the 1st chatGPT public release. I’m examining LLM economic impacts in my dayjob, but I also want to return to the themes in the book, and mull the book’s LLM ‘before / after’. Does it still work, what doesn’t? After failed attempts at trad publishing, I will doing the self-publish thing, and writing about that process here too."
   },
   {
     "objectID": "about.html#other-websites-contacts",
@@ -117,20 +117,6 @@
     "title": "From draft to final",
     "section": "",
     "text": "New: and this would be the final draft, going to people who don’t want to see the wiring.\nOld: This would be the initial draft doc including all the planning.\nDraft materials are here (way to automate would be nice! Have a mull about that.)"
-  },
-  {
-    "objectID": "drafts/i_wrote_a_scifi_book/index.html",
-    "href": "drafts/i_wrote_a_scifi_book/index.html",
-    "title": "I wrote a sci-fi book. What now?",
-    "section": "",
-    "text": "On this site, you’ve got the option of subscribing to first drafts, as well as final drafts (RSS links).\nIf you stick your email in the ‘subscribe’ box, that defaults to final pieces only - tick the ‘1st draft’ button you want both 1st and final.\nIf you subscribe to both, you get notified once when I start a topic/piece, and once again when I decide it’s done.\nSooo. Why on Earth would I be giving you the option to read 1st drafts? Isn’t life short enough already? Reasons ⇉\nWhat I like about github is all those things I mentioned above - openness, visibility, accountability, ownership. (Shhh about Microsoft, shhhh.) In our bold new LLM world, it’s one way to show that it’s a slow, dumb, stumbling human doing the thinking behind the words.\nOne can also see ways to make knowledge in a distributed way, in a place where there’s enough of a level of control to balance collaboration and safety. I can warm my bones late at night imagining that, in some tiny way, I’m contributing to a better world for words.\nIt’s really a very old, idealistic/borderline naïve notion of what the internet could be. And it is possible. Places already exist where it’s worked. Wikipedia is straight-up brilliant (entirely unsurprising people like Musk should attack it), well-designed tech channelling collaboration into incremental improvements while keeping the barbarians at bay.\nAaaaand - why write when you can instead spend far too long setting up complex writing systems? The Douglas Adams principle of programming:"
-  },
-  {
-    "objectID": "drafts/i_wrote_a_scifi_book/index.html#footnotes",
-    "href": "drafts/i_wrote_a_scifi_book/index.html#footnotes",
-    "title": "I wrote a sci-fi book. What now?",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nNot quite as ridiculous as it sounds - github is one of the few collab platforms I’ve found that works across both universities and UK public bodies, where often many websites are blocked (I presume because it’s Microsoft owned).↩︎"
   },
   {
     "objectID": "posts/open_econtools/index.html",
