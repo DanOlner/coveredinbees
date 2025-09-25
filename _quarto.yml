@@ -22,8 +22,6 @@ website:
       - text: "{{< iconify simple-icons:wordpress title=wordpress_site >}}"
         href: https://www.danolner.net/
       - icon: rss
-        href: index-final.xml
-      - text: "{{< iconify pepicons-pencil:pen-circle-filled title=rss_firstplusfinaldrafts >}}"
         href: index.xml
 format:
   html:

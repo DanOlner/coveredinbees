@@ -1,7 +1,8 @@
 ---
 title: "Prototyping open econ tools"
 date: "2025-09-04"
-categories: [draft]
+categories: [econ]
+draft: true
 ---
 
 OUTLINE AIMS

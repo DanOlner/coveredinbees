@@ -21,11 +21,7 @@ What’s that? Speak up! Buried under an inconceivably vast and metastasizing wo
 
 What you need, I think, is another blog. 
 
-### And look down there! A subscribe button! Aaah go on. 
-
-If you're really keen, too keen, click the 'send me 1st drafts' button as well ([see here](posts/why_sfd) for why this option's available).
-
-Direct RSS feeds are top right for ["final drafts only please"](https://coveredinbees.org/index-final.xml) and ["give me everything"](https://coveredinbees.org/index.xml).
+### And look down there! A subscribe button! Aaah go on. (Or the RSS feed link is top right.)
 
 ----
 
@@ -37,21 +33,13 @@ Direct RSS feeds are top right for ["final drafts only please"](https://coveredi
   method="post"
   class="form-label mt-4"
 >
-  <label for="email">Email</label>
+  <label for="email">Email ⇉</label>
   <input type="email" name="email" placeholder="" class="form-control" id="exampleInputEmail1"  />
-  <input type="checkbox" id="bd-wip" name="tag" value="first-draft" class="form-check-input" />
-    <label for="bd-wip" class="form-check-label">
-      Tick to get 1st drafts
-    </label>
-    </br>
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" class="btn btn-primary" />
   <p>
     <a href="https://buttondown.com" target="_blank">
       Powered by Buttondown.
-    </a></br>
-    <a href="https://coveredinbees.org/posts/why_sfd/">
-      Why 1st drafts?
     </a>
   </p>
 </form>

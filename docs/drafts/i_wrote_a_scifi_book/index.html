@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-09-25">
 
-<title>COVEREDINBEES / A hive of TLDR &amp; villainy</title>
+<title>I wrote a sci-fi book. What now? – COVEREDINBEES / A hive of TLDR &amp; villainy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e2ad2eddb07b91596255a2ebdffef4c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e2ad2eddb07b91596255a2ebdffef4c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,80 +69,22 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="COVEREDINBEES / A hive of TLDR &amp; villainy" href="index.xml" data-external="1"></head>
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/cib_stripes.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/cib_stripes.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">COVEREDINBEES / A hive of TLDR &amp; villainy</span>
     </a>
   </div>
@@ -154,7 +95,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -176,7 +117,7 @@ window.Quarto = {
 <span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:wordpress" aria-label="Icon wordpress from simple-icons Iconify.design set." title="wordpress_site"></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -188,7 +129,7 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
@@ -207,76 +148,65 @@ window.Quarto = {
 </form>
 </div></div>
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZHJhZnQ=">draft <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZWNvbg==">econ <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">I wrote a sci-fi book. What now?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">fiction</div>
+    <div class="quarto-category">scifi</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 25, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>On this site, you’ve got the option of subscribing to <a href="https://danolner.github.io/coveredinbees/index.xml">first drafts</a>, as well as <a href="https://danolner.github.io/coveredinbees/index-final.xml">final drafts</a> (RSS links).</p>
+<p>If you stick your email in the ‘subscribe’ box, that defaults to final pieces only - tick the ‘1st draft’ button you want both 1st and final.</p>
+<p>If you subscribe to both, you get notified once when I <strong>start</strong> a topic/piece, and once again when I decide it’s done.</p>
+<p>Sooo. Why on Earth would I be giving you the option to read 1st drafts? Isn’t life short enough already? Reasons ⇉</p>
+<ul>
+<li>I’m using “1st draft” here to mean: the start of an idea or topic, in a post that I’ll continue to edit, ramble in, add links and connected thoughts, keeping it all in one place and regularly <a href="https://github.com/DanOlner/coveredinbees">pushing to github</a>.</li>
+<li>In “1st drafts” I’ll try and lay out what I think the questions are and get some first points down. These may just be snippets that never go anywhere or they may grow. Though it absolutely will include <a href="https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf">shitty first drafts</a> along the way, the point is to get stuff out there, experiment with it and let it grow.</li>
+<li>This is also part of having <strong>more control and ownership</strong> as well as using a structure that <strong>leaves an accountability trail</strong> by being as open as possible. Everything here is on my own machine as well as <a href="https://github.com/DanOlner/coveredinbees">stored on Github</a> (admittedly, owned by Microsoft). If anyone so desires - why would you, that’d be mad, but if you <em>wanted</em> to- you could look at the history of any file (<a href="https://github.com/DanOlner/coveredinbees/commits/master/posts/why_sfd/index.qmd">here’s</a> this one’s) and see what’s changed (e.g.&nbsp;a <a href="https://github.com/DanOlner/coveredinbees/commit/78788d0ca8ecbc5e46305a3849a196bf17e16165#diff-b4ac3c529b00f3e9f57376c3dd67f1700d6c2c70e2f62874c67ae7307faf0dae">recent commit difference</a>). You could even sign up to github and <a href="https://github.com/DanOlner/coveredinbees/issues/new?permalink=https%3A%2F%2Fgithub.com%2FDanOlner%2Fcoveredinbees%2Fblob%2F4426c86ade5bd504d01a72e2ab3df02becc26a5d%2Fposts%2Fwhy_sfd%2Findex.qmd%23L1">add comments</a>.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></li>
+</ul>
+<p>What I like about github is all those things I mentioned above - openness, visibility, accountability, ownership. (Shhh about Microsoft, shhhh.) In our bold new LLM world, it’s one way to show that it’s a slow, dumb, stumbling human doing the thinking behind the words.</p>
+<p>One can also see ways to make knowledge in a distributed way, in a place where there’s enough of a level of control to balance collaboration and safety. I can warm my bones late at night imagining that, in some tiny way, I’m contributing to a <a href="../what_happened_to_words_DRAFT">better world for words</a>.</p>
+<p>It’s really a very old, idealistic/borderline naïve notion of what the internet could be. And it <em>is</em> possible. Places <em>already exist</em> where it’s worked. Wikipedia is straight-up brilliant (entirely unsurprising people like Musk should <a href="muskpedia.png">attack it</a>), well-designed tech channelling collaboration into incremental improvements while keeping the barbarians at bay.</p>
+<p>Aaaaand - why <em>write</em> when you can instead spend far too long setting up complex writing systems? The <a href="https://www.reddit.com/r/quotes/comments/btuvib/i_am_rarely_happier_than_when_spending_an_entire">Douglas Adams principle of programming</a>:</p>
+<blockquote class="blockquote">
+<p>“I am rarely happier than when spending an entire day programming my computer to perform automatically a task that would otherwise take me a good ten seconds to do by hand.”</p>
+</blockquote>
 
 
 
 
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ZWNvbg==" data-listing-date-sort="1756940400000" data-listing-file-modified-sort="1758791233052" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1665">
-<div class="thumbnail"><a href="./posts/open_econtools/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/open_econtools/index.html" class="no-external">Prototyping open econ tools</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZWNvbg=='); return false;">econ</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/open_econtools/index.html" class="no-external">
-OUTLINE AIMS
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/open_econtools/index.html" class="no-external">
-<div class="listing-date">
-Sep 4, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="ZHJhZnQ=" data-listing-date-sort="1755730800000" data-listing-file-modified-sort="1756981361524" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="880">
-<div class="thumbnail"><a href="./posts/what_happened_to_words/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/what_happened_to_words/index.html" class="no-external">A better world for words</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZHJhZnQ='); return false;">draft</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/what_happened_to_words/index.html" class="no-external">
-Words have been getting a bit of a kicking lately. LLMs are looming in everyone’s vision right now. As a few people have put it (e.g.&nbsp;here, here, here) humans just lost…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/what_happened_to_words/index.html" class="no-external">
-<div class="listing-date">
-Aug 21, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+<ol>
+<li id="fn1"><p>Not quite as ridiculous as it sounds - github is one of the few collab platforms I’ve found that works across both universities and UK public bodies, where often many websites are blocked (I presume because it’s Microsoft owned).<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -2,38 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coveredinbees.org/about.html</loc>
-    <lastmod>2025-08-22T09:11:29.380Z</lastmod>
+    <lastmod>2025-09-24T21:10:47.997Z</lastmod>
   </url>
   <url>
-    <loc>https://coveredinbees.org/posts/what_happened_to_words_DRAFT/index.html</loc>
+    <loc>https://coveredinbees.org/index.html</loc>
+    <lastmod>2025-09-24T20:44:22.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coveredinbees.org/posts/what_happened_to_words/index.html</loc>
     <lastmod>2025-09-04T10:22:41.524Z</lastmod>
   </url>
   <url>
-    <loc>https://coveredinbees.org/posts/why_sfd/index.html</loc>
-    <lastmod>2025-09-04T10:24:20.824Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coveredinbees.org/archive/RSS_roundandroundandROUNDwego/index.html</loc>
-    <lastmod>2025-08-21T20:34:07.433Z</lastmod>
-  </url>
-  <url>
-    <loc>https://coveredinbees.org/archive/FromDraftToFinal_DRAFT/index.html</loc>
-    <lastmod>2025-08-20T08:02:37.336Z</lastmod>
+    <loc>https://coveredinbees.org/archive/ideas_dumping_ground/index.html</loc>
+    <lastmod>2025-09-04T09:57:07.664Z</lastmod>
   </url>
   <url>
     <loc>https://coveredinbees.org/archive/a_finalpost_rss_test/index.html</loc>
     <lastmod>2025-08-20T11:18:44.145Z</lastmod>
   </url>
   <url>
+    <loc>https://coveredinbees.org/archive/why_sfd/index.html</loc>
+    <lastmod>2025-09-04T10:24:20.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coveredinbees.org/archive/FromDraftToFinal_DRAFT/index.html</loc>
+    <lastmod>2025-08-20T08:02:37.336Z</lastmod>
+  </url>
+  <url>
+    <loc>https://coveredinbees.org/archive/RSS_roundandroundandROUNDwego/index.html</loc>
+    <lastmod>2025-08-21T20:34:07.433Z</lastmod>
+  </url>
+  <url>
     <loc>https://coveredinbees.org/archive/FromDraftToFinal/index.html</loc>
     <lastmod>2025-08-20T08:51:56.650Z</lastmod>
   </url>
   <url>
-    <loc>https://coveredinbees.org/posts/ideas_dumping_ground/index.html</loc>
-    <lastmod>2025-09-04T09:57:07.664Z</lastmod>
+    <loc>https://coveredinbees.org/drafts/i_wrote_a_scifi_book/index.html</loc>
+    <lastmod>2025-09-24T21:15:37.415Z</lastmod>
   </url>
   <url>
-    <loc>https://coveredinbees.org/index.html</loc>
-    <lastmod>2025-08-18T13:32:05.718Z</lastmod>
+    <loc>https://coveredinbees.org/posts/open_econtools/index.html</loc>
+    <lastmod>2025-09-25T09:07:13.052Z</lastmod>
   </url>
 </urlset>
