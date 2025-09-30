@@ -1,10 +1,8 @@
 ---
 title: "A better world for words"
 date: "2025-08-21"
-categories: [draft]
+categories: [sos]
 ---
-
-* So I've had a good rant, and linked different styles of the right to the same undermining of our ability to use words to form stable, supple, strengthening sinews. Next bit needs to be: so what? Where do we go from here? It might be enough for a post just to ask that question and come back to it later?
 
 ## MAIN
 
@@ -14,7 +12,10 @@ But the machinery of language has been radically rewiring for decades, as [infor
 
 Words are the sinews of social and scientific progress. Informatics has already upended older ways these sinews stay supple and strengthen. It's also opened us up to human-comms equivalents of distributed [denial of service attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack) - really nothing more sophisticated than a bunch of people constantly shouting nonsense while others in the room try to think. But it's been dismayingly effective ([climate example](https://www.nature.com/articles/s41598-024-74032-0) in Nature), and LLMs may be pouring petrol on that (see e.g. openAI [here](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/), [here](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf), also [here](https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/)). 
 
-Science (and all other knowledge flavours that accrete around universities) is a still-surviving modernist structure built up layer by layer through argument and counter-argument[^1], a somehow-functioning mix of reason and chance. Science is struggling. It's trying to adapt to new tech, or through inertia failing to. It's shaken by Language DDOS (climate science under attack; 'sick of experts'; in the U.S., direct authoritarian attacks).
+Science (and all knowledge flavours that accrete around universities and other research sites) is a still-surviving modernist structure built up layer by layer through argument and counter-argument[^1], a somehow-functioning mix of reason and chance. Science is struggling. It's trying to adapt to new tech, or through inertia failing to. It's shaken by Language DDOS (climate science under attack; 'sick of experts'; in the U.S., direct authoritarian attacks).
+
+
+## BITS
 
 This is all deeply political, of course. Authoritarians want to be the sole source of truth, and twist words accordingly. The internet age suits them just fine. But there's a lot of weird Venn diagram overlap with its apparent opposite, libertarian truthiness[^libauth]. See Peter [Thiel talking about](https://archive.ph/PvS6B#selection-1971.190-1971.446) Eric Weinstein's [term](https://theportal.wiki/wiki/The_Distributed_Idea_Suppression_Complex_(The_DISC)), the 'Distributed Idea Suppression Complex'. As Thiel puts it, 'The internet has already begun our liberation from the DISC prison... the media organisations, bureaucracies, universities and government-funded NGOs that traditionally delimited public conversation".
 

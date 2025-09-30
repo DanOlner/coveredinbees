@@ -4,16 +4,8 @@ date: "2025-09-04"
 categories: [econ]
 ---
 
-OUTLINE AIMS
 
-Just ramble some stuff because this is a draft post! For God's sake!
-
-And write what I want out of it:
-
-* Link to some organisations to collab with. Define what that collab will look like, get feedback on this plan early.
-
-
-Over the past couple of years, I've been building up a loose 'regional economic data' toolkit while trying to answer questions posed in my Y-PERN work (mainly with [SYMCA](https://www.southyorkshire-ca.gov.uk/)). Some of it's gathered on the [regionaleconomictools website](https://danolner.github.io/RegionalEconomicTools/), the rest in various places on [github](https://github.com/DanOlner). The [live outputs page](https://danolner.github.io/posts/outputs_livelist/) on the techie blog has gathered most of it in one place.
+Over the past couple of years, I've been building up a loose 'regional economic data' toolkit while trying to answer questions posed in my Y-PERN work (mainly with [SYMCA](https://www.southyorkshire-ca.gov.uk/)). I am working on pulling this all together onto a [regionaleconomictools website](https://danolner.github.io/RegionalEconomicTools/), though there are bits elsewhere (the [live outputs page](https://danolner.github.io/posts/outputs_livelist/) on the techie blog has gathered most of it in one place).
 
 I want to have a go at making these tools better in collaboration with others, adding to the toolbox as we learn. 
 
