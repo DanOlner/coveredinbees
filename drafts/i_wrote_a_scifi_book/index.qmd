@@ -4,3 +4,131 @@ date: "2025-09-25"
 categories: [fiction, scifi]
 ---
 
+I wrote a sci-fi book. I started the research for it in 2018, from an idea I’d had in 2012. I had a first draft by mid 2021. After no luck pitching to agents, I disassembled that draft and put it back together by the following summer in 2022, and then churned it through another round of agent pitches (also nope).
+
+A few months later, at the end of 2022, openAI released chatGPT for public use. It saw the most rapid adoption ever for a new information technology. As I write in 2025, space-race levels of nation-state competition are underway to gain AI dominance. It’s being inserted into our daily lives whether we ask for it or no. The hype is… well, it’s stratospheric. Bumping into satellites. Past the moon.
+
+
+Things to say next
+I want closure on the book. I’m going to do an indiegogo campaign leading up to self-publishing.
+I’m going to attempt one last re-draft, and here on the blog I’ll talk about how our pre- and post- LLM world has (a) changed how I think about the book and (b) changed how I think about AI, and its impact on us. I will absolutely, definitely be shoehorning that into my economic geography wafflings.
+
+Anyone who knows me knows I struggle to see the value of my own work, so I find myself in a highly unusual situation with this book - I think it's really good. I'm super-proud of it. This *never* happens.
+
+So while I failed to persuade anyone it was commercial enough for traditional publishing, I feel baffingly confident that a certain kind of sci-fi fan will dig it. 
+
+It's not without its flaws, some of which are far too baked in... but.
+
+Like running through the streets wearing nothing but a fez and a feather boa: equally mortifying and liberating.
+
+
+
+It’s not a good idea to allow current events to blow one’s ideas around like a weathervane – the book has to remain a product of its pre-chatGPT time. But coming back to it now, equidistant on the other side, does offer a chance to reflect on everything that’s happened. If I can just strike a good balance between disassembling the whole thing and insisting nothing needs to change...
+
+The central idea – that AI’s impact would be felt most strongly in our relationship with language – obviously still has legs. And we’re equally clearly only in the foothills of those changes now.
+
+
+
+There’s no way around how fascinated we are by the idea of AI as ‘other mind’ and the questions that raises, all while several actual AI researchers beg us to please stop talking about it (not the ones trying to raise capital by fuelling the AGI bandwagon). 
+
+Other issue: there’s just so much analysis and discussion of AI now! How to stand out against that noise? Is it possible to be interesting? E.g. https://bsky.app/profile/sarahkendzior.bsky.social/post/3lo7srsyvoc27
+
+
+
+One of the central things the book explores is how deeply artificial intelligence could get tangled in human language use. 
+
+
+I'm going to try and make these posts of interest to two to three types of reader:
+
+1. You're interested in the nuts and bolts of fiction writing and self-publishing (including things like using Scrivener) and want to follow along with my journey as I get this thing out into the world.
+2. You're into the political economy of technological change. You may be trying to get under the skin of what's actually happening with AI, but I'm probably going to argue - despite the book's themes - that we shouldn't understand it as a radical break. But that'll all be up for grabs.
+
+(Do a much shorter version of those two, don't be so over the top about it!)
+
+That'll include “How I’d change this scene / why I might just leave alone” is worth writing up. I doubt I'll be going through every chapter one by one like this, but there's some it'll be fun to unpick here.
+
+Probably very spoilery, on the offchance anyone wants there to still be surprises in the final book.
+
+AI is regularly the [MacGuffin](https://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin) in movies ([latest example](https://www.reddit.com/r/Mission_Impossible/comments/14bw6s2/what_is_the_macguffin_in_dead_reckoning/)) but it’s also become a policy and economy MacGuffin. “How to improve productivity? AI. How to make public services better? AI. How can I stop my male pattern balding? AI.” Etc. Every second article on LinkedIn is now either “AI must be resisted / resistance is futile”.
+
+It’s tricky to chart a sane course through all this. 
+
+Compare to Coyle’s point about BIP and AIP (before and after the iphone). Quote:
+Coyle quote on smartphone world
+
+I had a few things I wanted to try and do. Artificial Intelligence and sci-fi are obviously joined at the hip; the two have grown together, feeding off each other. The common instinct has been to push it to its extremes: AI living among us has almost always been either heaven, liberating humans from all Earthly drudgery, or a glowing-red-eyed machine hell where the best humans can hope for is that AI wants us as pets.
+
+But it won’t happen that way. Or more accurately, it hasn’t and isn’t happening that way, and it will continue to not happen like that. It’ll be as it’s always been – an almost entirely unpredictable mess. People and our technology have always grown together, changing each other in tandem. 
+
+Speculative fiction has to speculate, but it doesn’t need to be trying to forecast. The speculation has other purposes.
+Fiction has to try and predict, it can’t avoid it – but it’s the mess that interests me, not the extremes.
+
+As Le Guin has said, science fiction isn’t about prediction… no, she said something better than this! Err what was it?
+https://www.goodreads.com/topic/show/1294820-introduction-left-hand-of-darkness
+
+> "Prediction is the business of prophets, clairvoyants, and futurologists. It is not the business of novelists. A novelist's business is lying. The weather bureau will tell you what next Tuesday will be like, and the Rand Corporation will tell you what the twenty-first century will be like. I don't recommend that you turn to the writers of fiction for such information. It's none of their business."
+
+
+
+
+I started with two seeds and let them grow together, to see what mess emerged.
+
+If neuro knowledge is a vast, carefully curated palace full of the most delicate paintings (see e.g. Damasio’s Self Comes to Mind, a book I leaned on heavily for brain ideas), then I broke into that palace in the dead of night with a swagbag, cut as many pictures out of frames with a stanley knife that I could in the time and scarpered.
+
+Start from the premise that there’s nothing in principle stopping a genuinely artificial intelligence being created. After all, we know intelligence can arise from matter – so it’s just about how the matter is arranged, right? (I am rejecting any ghosts in the machine.. well almost all of them. There might be room for a sort of fudged mystical notion of consciousness, but probably not).
+
+Cf. https://www.psychologytoday.com/gb/blog/the-digital-self/202504/fossilized-cognition-and-the-strange-intelligence-of-ai
+
+What I wanted to try and do with all those stanley knife’d ideas: convey just how phenomenally difficult it would be a re-create something as complex as a human mind.
+
+Part of the issue there: what exactly is it we’d be trying to recreate? What’s the fascination here? (That we see in sci-fi all the time – the compelling, uncanny-almost-human...)
+
+Vs what it takes to make a person accept something as an emotional connection? That’s absolutely a side issue I raise quickly and move on, because it’s obvious enough to see everywhere – humans have emotional connections to non-humans all the time; there’s a kind of emotional turing test that bears no relation to “actually on a par with human” intelligence [care home example; black mirror’s various dolls]
+
+Point: the idea of a ‘singularity’ is beside the point, largely. We already have super intelligence – actually, Zuck put this well [fridman interview].
+
+The sense here is: the moment superhuman intelligence arrives, it’ll start a feedback loop that will quickly leave us far behind, cognitive insects to its vast, god like eye.
+
+Two things: (1) if that were true, it would already have happened in the systems we’ve built that use humans as their components. Or – that kind of collective intelligence falsifies the feedback idea, or puts a cap on its expansion. (2) Actually, it did happen. This is Hayek’s point: humans created superintelligence, but we usually fail to see it, and so believe we can tinker with the machinery, not understanding – again – that we are mere ants (the insect parallel works on so many levels here...)
+
+i.e. no single human could create a 747 or an iphone or Canterbury (which I pick because same number of people as 747) even if given infinite time. Equally, no group of humans could if they were dropped into an isolated desert alone, even with an instruction manual: our collective intelligence is made of material and history, it's a living fabric we carry.
+
+But might be that collective human intelligence is just a very limited “aura”, an intimation of something smarter than individuals, but still highly limited in its bounds?
+
+Compare to a Turing or a Von Neuman. The idea that once AI bypasses… and then we get to several superintelligence tropes: star trek’s awkward guy / moriarty / flowers for algenon / that short story by Ted Chiang – the Infallible, the God. The perfect manipulator behind the scenes, controlling everything (Westworld, Deus Ex) [Oh I could do with playing with that trope, having IPAI make clear it really doesn’t...]
+
+Which presents a bit of a problem for the fiction writer – given we’re not superintelligent, how to write a superintelligence? Iain Banks’ approach was maybe sensible – the vastest multidimensional Minds, one escapes in his first book, and the only thing we ever hear it say is, “Uh oh.”
+
+So don't try, and that's OK. Back to Le Guin's point - these are thought experiments. Shelley didn't need to be a superstrong monster to write about one. [Not sure that parallel works!]
+
+And THAT then feeds back into the politics very quickly. “Not power of AI but what power will do with AI.”
+
+Cf. Hayek’s bastards too – the point has never been the theory, it’s been the cover for telling the rest of us to pipe down, accept it, accept having the social justice educated out of us for the benefit of the superintelligent system we live in.
+
+but they don’t understand collective intelligence because they deny the possibility of understanding it and worship it instead, assuming it’s like some kind of spirit that can be summoned by destroying organised systems – see e.g. what Twitter turned into, contrast with wikipedia. But note how they also justify this with a particular take on “truth”… cf. https://en.wikipedia.org/wiki/Dark_Enlightenment
+
+Oh god and then there’s “truth”. Cf. https://bsky.app/profile/wolvendamien.bsky.social/post/3louunglyts2u
+
+LLM success shows – truth is somewhat of a side issue to productivity, output-of-words.
+
+And that overlaps with tyrannical AI futures, which again want to avoid. Cf. https://en.wikipedia.org/wiki/Dark_Enlightenment
+
+And the excellent chinese short story that has a perfect take on a very similar AI tech to the one I use in mine – but goes to the authoritarian extreme of all words slowly being banned. 
+
+Somehow it’s now the summer of 2025. I want closure on this. It was always obviously a not particularly commercial proportion (you learn how absolutely indispensable that is as you dig into traditional publishing).
+
+
+
+
+
+
+Got to "things to talk about" in the writing doc
+
+![](larsonmouse.png)
+
+
+## CUTTINZ
+
+> "Fortunately, though extrapolation is an element in science fiction, it isn't the name of the game by any means. It is far too rationalist and simplistic to satisfy the imaginative mind, whether the writer's or the reader's. Variables are the spice of life."
+
+> "This book is not extrapolative. If you like you can read it, and a lot of other science fiction, as a thought-experiment. Let's say (says Mary Shelley) that a young doctor creates a human being in his laboratory; let's say (says Philip K. Dick) that the Allies lost the second world war; let's say this or that is such and so, and see what happens..."

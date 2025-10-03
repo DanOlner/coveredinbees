@@ -4,6 +4,9 @@ date: "2025-09-04"
 categories: [econ]
 ---
 
+Should I add something saying: nothing hugely sophisticated, concentrating on trying to extract as much info as possible from data we have, not build complex models. That may change but... many of the open questions are still quite basic and unsolved e.g. proper productivity data, MAUP, etc. List some of those. [Point to new post, suggest subscribing!]
+
+
 
 Over the past couple of years, I've been building up a loose 'regional economics' toolkit while digging into UK sectors, growth and other econ-adjacent data (working mainly with [SYMCA](https://www.southyorkshire-ca.gov.uk/) wearing my [Y-PERN](https://y-pern.org.uk/) hat)[^githublink].
 
