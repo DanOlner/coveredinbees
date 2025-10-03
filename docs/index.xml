@@ -55,52 +55,15 @@
 <p>So, what next? I’ll need to keep things fairly narrow to achieve anything at all, most likely by testing some different basic ONS and Companies house economy measures, see what could be improved, what blind spots there are. I’ll also try to find two or three focused problems to apply this to - including, I’m hoping, something on how we close the gap between quant views of sector mix and ground level knowledge of how firms interact, and what difference that makes to their success.</p>
 <p>Underlying-idea-wise, there’s a whole lot of prior technical change ideas that can help shed light on current AI fears (I’m also working on an AI impact project) and could help think through where we want economic progress to come from.</p>
 <p>Let’s see how contact with reality changes things…</p>
-<section id="cuttinz" class="level2">
-<h2 class="anchored" data-anchor-id="cuttinz">CUTTINZ</h2>
-<p>Not deny reality of austerity-hit LAs lack of bodies but can we move a few more notches to breaking down distinctions in the networks we make, getting past institutional diffs?</p>
-<p>Experience has shown doing that has to start with people - those willing to work together on the same problems…</p>
-<p>It wouldn’t be possible or wise to try and do all things econ-toolkit-wise (see e.g.&nbsp;this synthesis of inclusive econ measures; there are so many!)</p>
-<p>Prototyping what this niche is What specific qualities these kinds of networks can bring and why they flow naturally from / are a good match for the direction of devolution</p>
-<p>That last one covers both normative stuff and ‘theory of data / theory of change’ stuff.</p>
-<p>But this is one of the things I want to experiment with. It’s a good time to try</p>
-<p>because of the networks because of being able to create space for it Start with some humility - the world doesn’t have a shortage of people who’ll be willing to tell you they know The Answers.</p>
-<p>Black box vs network [can mention some of the hollowing-out issues here that have no quick fix cf.&nbsp;Bradford community data]</p>
-<p>What I think we have a chance to do collectively is a bit different - to create a shared sense of ground truth as we work together, built on the best understanding we can create between us.</p>
-<p>(Also, these last two points are rarely so cleanly separated - back to that in a moment.)</p>
-<p>Issues around avoiding data-driven questions, streetlight effect. Issue of developing our own internal model - not just infographic cf.&nbsp;x-ray What are we missing? What’s wrong with our data and methods?</p>
-<p>The limitations here include: “you need to leave the house and talk to people.” This is the quant data / reality gap…</p>
-<p>Then, somewhere in here: what do we want? That’s the normative stuff. Try to unpick examples here. E.g. assumptions around how to make everyone more wealthy are key there, right?</p>
-<p>But open methods are more aligned with what I think is the reality of data-driven policymaking: everyone involved are experts in what they do. This is a deeply collaborative endeavour. We don’t all have the same knowledge, but we also won’t progress much without bringing everyone’s together. Contrast to the <a href="https://en.wikipedia.org/wiki/Information_deficit_model">deficit model</a>, which imagines a “transfer of information from experts to non-experts”. (This is a fairly common view of e.g.&nbsp;the university / policy relationship.)</p>
-<p>Sometimes there’s straightforward transmission - if I’m teaching R coding methods to people who are new to it, say. But it’s never just that. I’ve seen this again and again in different settings - <a href="https://www.danolner.net/2019/02/sheffields-first-data-for-good-hack-day">here</a>, we bought some data skills but had little insight into what that Sheffield homelessness charity’s data actually meant. They made it make sense.</p>
-<p>In regional policy, it’s been a little different but with the same outcome.</p>
-<p>Two things, the above then also capacity building / why open methods = learning/collab = capacity building (I think)</p>
-<p>You probably wouldn’t want collaborative heart surgery for example</p>
-<p>Because it’s open, anyone can contribute, copy, re-use etc</p>
-<p>So the more we build relationships and share tools and ideas, the better. Y-PERN’s helped grow the strength of those relationships in Yorkshire &amp; Humber</p>
-<p>A lot of that groundwork has been done already through regional network building. We have a decent chance of getting a handle on a good two-thirds to three-quarters of the pachyderm.</p>
-<p>The status of those last question types is tricky. As SYMCA’s Alice Rubbra eloquently explains <a href="https://y-pern.org.uk/blog/the-relationship-between-policymaking-and-research-how-it-works-sometimes/">here</a> on the Y-PERN blog, it’s a clash of wotsits</p>
-<p>Remain tool agnostic, code, no-code. I’m an R person, others won’t be, and there are up and downsides to going that route. Thinking agnostically, I can still provide links to processed data sources that others can use, and provide easy-ish-to-run examples…</p>
-<p>I’ve already seen the value of openness for my own process of getting from numbers to things-in-front-of-policymakers [frame better?]. But how to deepen the collaboration part?</p>
-<p>The ‘shared ground truth’ thing has a couple of elements. I’ve heard more than once about data ‘black boxes’ that can result from some commissioned work. You get an analysis, but no access to the data and no way to really know how conclusions have been reached. It’s a one-time hit - once the commission’s done, you decide to either take the results on face value or not, and then have to re-commission if more is needed later. [ties to point above about this not being a purely client rel - about that ‘shared truth’ thing between us where data is one facet… oh I do say this below!]</p>
-<p>Again — I’m not saying that can’t be valuable and necessary, as organisations can supply expert analyses that often can’t be done in-house. I also carry out that kind of interpretation.</p>
-<p>Build on open data, make the tools, build the capacity, link people together, do it questioningly, allow ways to get to the root and feed that back into the policy cycle, “walk asking”.</p>
-<p>There are reasons why data work can’t be done openly (datasets that contain private information) or won’t be done openly (data/methods are IP a firm earns its living from; researchers protecting a lovingly curated dataset). But in regional policy, and with the vast body of data the ONS among others hold, there’s plenty of scope for it.</p>
-<p>This is in GVA post and should connect:</p>
-<p>And then something on: why the orig data sources are not enough. Just supplying openly isn’t enough. Without capacity to see what’s in that data, you’re still blind. What exactly does that capacity look like and how do we build it?</p>
-<p>More recently, I’ve been re-using these tools to help other Yorkshire government bodies get insights quickly. This came about quite serendipitously, but it’s helped convince me it’s a good way to work. [Explain something about how much it speeds things up / how cost effective it is]</p>
-<p>(This is all on my github where I’m trying to corral more of it into the regionalecontools site, itself a github repo; the website’s all generated using R.)</p>
-<p>I’m not suggesting how I’ve approached this is anything like the best way - but I am arguing that building these pipelines openly leads to good things that otherwise couldn’t happen. What I’d love to see is what others can do, and what kind of tools we could build together.</p>
-<p>I will now proceed to go on about this at length, starting with a mildly trite statement that I’ll then unpick.</p>
-<p>By building pipelines like this, we can speed up reports, maps, dashboards etc, and share them easily (that last link collects a bunch of these in one place).</p>
+<p><img src="https://coveredinbees.org/posts/open_econtools/Blind_men_and_elephant.jpg" class="img-fluid"></p>
 
 
-</section>
 
 
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1"><p><a href="https://github.com/DanOlner/coveredinbees/commits/master/posts/open_econtools/index.qmd">Github file history</a> for previous drafts / cuttings.↩︎</p></li>
+<li id="fn1"><p><a href="https://github.com/DanOlner/coveredinbees/blob/831f2cde89f016bf81fa550c9b6202f7c718613a/posts/open_econtools/index.qmd">Github commit of this doc</a> with cuttings at the bottom.↩︎</p></li>
 <li id="fn2"><p>Not an endorsement of Valve’s supposedly desk-on-wheels culture or anything similar. As <a href="https://www.theguardian.com/commentisfree/2018/jul/30/no-bosses-managers-flat-hierachy-workplace-tech-hollywood">this article explores</a>, structures like this (including some co-ops without explicit rules) can mask a “neo-feudal workplace culture”.↩︎</p></li>
 <li id="fn3"><p>Elephant parable <a href="https://jetzek.wordpress.com/2016/07/19/first-blog-post/">example</a> applied to economics.↩︎</p></li>
 <li id="fn4"><p>Krugman: “We just don’t see what we can’t formalise”. [citation forgotten!]↩︎</p></li>
