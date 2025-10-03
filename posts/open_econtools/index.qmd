@@ -5,7 +5,7 @@ categories: [econ]
 ---
 
 
-Over the past couple of years, I've been building up a loose 'regional economics' toolkit while digging into UK sectors, growth and other data (working mainly with [SYMCA](https://www.southyorkshire-ca.gov.uk/) wearing my [Y-PERN](https://y-pern.org.uk/) hat). 
+Over the past couple of years, I've been building up a loose 'regional economics' toolkit while digging into UK sectors, growth and other data (working mainly with [SYMCA](https://www.southyorkshire-ca.gov.uk/) wearing my [Y-PERN](https://y-pern.org.uk/) hat)[^githublink].
 
 Over the next six months or so, I want to try and make this a more focused project. The plan is roughly this:
 
@@ -14,7 +14,7 @@ Over the next six months or so, I want to try and make this a more focused proje
 * Build on existing relationships and make new ones to prototype a better tools/ideas/questions cycle.
 * Help build capacity through things like [this ONS Local session](https://vimeo.com/user99857619/review/1103090076/32e50123d2) I ran introducing R for regional economic analysis ([the online slides here](https://danolner.github.io/RegionalEconomicTools/R_regecon_taster_2025_revealjs.html#/title-slide) work as a how-to guide, including how to use R easily in a browser).
 
-Data/code/explanations are slowly being gathered into a [regecontools website](https://danolner.github.io/RegionalEconomicTools/), though bits are spread all over (this [live outputs page](https://danolner.github.io/posts/outputs_livelist/) on the techie blog has gathered most of it in one place).
+Data/code/explanations are slowly being gathered into a [regecontools website](https://danolner.github.io/RegionalEconomicTools/), though bits are spread all over (this [live outputs page](https://danolner.github.io/posts/outputs_livelist/) on the techie blog has gathered most of it in one place). By building pipelines like this, we can speed up reports, maps, dashboards etc, and share them easily (that last link collects a bunch of these in one place). 
 
 The least tested part of this for me, and maybe the most interesting, is the 'tools/ideas/questions' cycle. The tools/concepts we use to make sense of our regional economies have grown from a hodgepodge of ideas. These can be questioned at different levels - from narrowly methodological ("how much difference does it make to productivity if we exclude imputed rent? Do existing measures of public sector output capture their real value?") to deeper, more political ideas about what economies are and what/who they're for (see e.g. the [latest doughnut econs Nature paper](https://www.nature.com/articles/s41586-025-09385-1) or [this survey](https://www.sciencedirect.com/science/article/pii/S1470160X25010088?via%3Dihub#b0125) of over 200 eco-econs/wellbeing indicators).
 
@@ -32,26 +32,32 @@ The only way this works is if we prototype. Or call that [test and learn](https:
 
 > At its simplest [it] involves (1) developing something; (2) making contact with reality; (3) learning from the results.
 
+Sounds great in principle - but we have to be open to preconceptions being challenged when we smack into reality. The [Valve Games employee manual](https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)[^valvenope] puts it like this:
+
+> “-----ing up is a great way to find out that your assumptions were wrong or that your model of the world was a little bit off. As long as you update your model and move forward with a better picture, you’re doing it right. Look for ways to test your beliefs. Never be afraid to run an experiment or to collect more data.”
+
+While not always comfortable, this is part of how to grow our shared sense of ground truth. It's perfect '[blind people and elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)' parable territory[^econelephant]. Brace for an extremely mixed elephant/economy metaphor.
+
+* We want to see as much of the elephant as we can. How is the economy structured, what's growing, shrinking, changing? Why? 
+* Those lead naturally to “What data/methods do we have to answer them?” Any one data source helps us grab a single pachiderm part. Multiple sources give us a grip on different bits, but the whole beast still eludes us. We need enough knowledge to know our tools' limitations - we will regularly hit the [streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect), mistaking the data for the whole animal[^krug].
+
+Combining openness and prototyping, though, we can exchange what we think we've seen with others, maybe learn from our errors, and move a step or two closer to a collective sense of the shape.
+
+Then there are awkward people saying things like, "Are we *sure* this is an elephant? I think maybe we have to go back to first principles here." But again - an open, testing approach lets us argue our competing pachiderm theories out, and often discover diverse tools can be used in different places very effectively despite no total agreement.
+
+Coming back to the aims - these will necessarily have to be fairly narrow to achieve anything at all. I'll most likely start by testing some different basic ONS and Companies house economy measures, see what could be improved, what blind spots are. I'll also try to find two or three focused problems to apply this to - including, I'm hoping, something on how we close the gap between quant views of sector mix and ground level knowledge of how firms interact and what difference that makes to their success.
+
+Let's see how contact with reality changes things...
+
+[^githublink]: [Github file history](https://github.com/DanOlner/coveredinbees/commits/87fa6e586e9ff7bb64d735d4e36c08d006f171bd/posts/open_econtools/index.qmd) for previous drafts / cuttings.
+[^econelephant]: Elephant parable [example](https://jetzek.wordpress.com/2016/07/19/first-blog-post/) applied to economics. 
+[^krug]: Krugman: "We just don't see what we can't formalise". [citation forgotten!]
+[^valvenope]: Not an endorsement of Valve's supposedly desk-on-wheels culture or anything similar. As [this article explores](https://www.theguardian.com/commentisfree/2018/jul/30/no-bosses-managers-flat-hierachy-workplace-tech-hollywood), structures like this (including some co-ops without explicit rules) can mask a "neo-feudal workplace culture".
 
 
 
 
-
-
-
-
-This is perfect '[blind men and elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)' parable territory ([example](https://jetzek.wordpress.com/2016/07/19/first-blog-post/) applied to economics). Let's apply it to regional analysis.
-
-* At the top, we've got “What does the economy look like” questions. We want direct answers - how is the economy structured, what's growing, shrinking, why do we think this is happening, do we have any levers? We want to get eyes on as much of the elephant as we can.
-* Those lead naturally to “What data/methods do we have to answer them?” Any one data source helps us grab a single section of pachiderm. We use multiple sources to get a grip on different bits, but the whole beast will likely still elude us. 
-
-* Then there are awkward people saying things like, "Are we *sure* this is an elephant? I think maybe we have to go back to first principles here."
-
-[which ties to point above about competing theories of what the pachiderm is]
-
-
-
-
+## CUTTINZ
 
 Not deny reality of austerity-hit LAs lack of bodies
 but can we move a few more notches to breaking down distinctions in the networks we make, getting past institutional diffs?
@@ -61,64 +67,13 @@ Experience has shown doing that has to start with people - those willing to work
 It wouldn't be possible or wise to try and do all things econ-toolkit-wise (see e.g. this synthesis of inclusive econ measures; there are so many!)
 
 
-
-
-
 Prototyping what this niche is
 What specific qualities these kinds of networks can bring and why they flow naturally from / are a good match for the direction of devolution
 
-
-
-
-
-
 That last one covers both normative stuff and 'theory of data / theory of change' stuff.
 
-We need enough knowledge to know our tools' limitations. Muuuch easier said than done. Krugman: "We just don't see what we can't formalise". Continued privileging of quant over lived experience / ground knowledge (see below)
 
 
-
-
-
-
-
-
-
-
-But… so what? Realistic discussion about where that leaves us, regionally, trying to get through to shared things. What are the barriers? Where have my preconceptions been challenged? Why am I still holding on to this idea? What needs prototyping next?
-
-[I can mention it’s now being re-used, which is what I was aiming for, but so far just by me…]
-
-Build on open data, make the tools, build the capacity, link people together, do it questioningly, allow ways to get to the root and feed that back into the policy cycle, “walk asking”.
-
-There are reasons why data work can’t be done openly (datasets that contain private information) or won’t be done openly (data/methods are IP a firm earns its living from; researchers protecting a lovingly curated dataset). But in regional policy, and with the vast body of data the ONS among others hold, there’s plenty of scope for it.
-
-This is in GVA post and should connect:
-
-And then something on: why the orig data sources are not enough. Just supplying openly isn’t enough. Without capacity to see what’s in that data, you’re still blind. What exactly does that capacity look like and how do we build it?
-
-
-
-
-
-
-
-Using the same pipeline, and all in code, we can build reports, maps, dashboards etc. and share them easily. Once we have that, we can puzzle our way to what it means for our regions, what theories of change we believe it supports, what blindspots and problems the data has — but a  data platform like this underpinning it smooths the path considerably.
-
-
-
-
-
-More recently, I’ve been re-using these tools to help other Yorkshire government bodies get insights quickly. This came about quite serendipitously, but it’s helped convince me it’s a good way to work. [Explain something about how much it speeds things up / how cost effective it is]
-
-(This is all on my github where I’m trying to corral more of it into the regionalecontools site, itself a github repo; the website’s all generated using R.) 
-
-I’m not suggesting how I’ve approached this is anything like the best way - but I am arguing that building these pipelines openly leads to good things that otherwise couldn’t happen. What I’d love to see is what others can do, and what kind of tools we could build together. 
-
-I will now proceed to go on about this at length, starting with a mildly trite statement that I’ll then unpick. 
-
-
-## CUTTINZ
 
 But this is one of the things I want to experiment with. It's a good time to try 
 
@@ -171,3 +126,22 @@ The ‘shared ground truth’ thing has a couple of elements. I’ve heard more 
 
 Again — I’m not saying that can’t be valuable and necessary, as organisations can supply expert analyses that often can’t be done in-house. I also carry out that kind of interpretation. 
 
+
+
+
+Build on open data, make the tools, build the capacity, link people together, do it questioningly, allow ways to get to the root and feed that back into the policy cycle, “walk asking”.
+
+There are reasons why data work can’t be done openly (datasets that contain private information) or won’t be done openly (data/methods are IP a firm earns its living from; researchers protecting a lovingly curated dataset). But in regional policy, and with the vast body of data the ONS among others hold, there’s plenty of scope for it.
+
+This is in GVA post and should connect:
+
+And then something on: why the orig data sources are not enough. Just supplying openly isn’t enough. Without capacity to see what’s in that data, you’re still blind. What exactly does that capacity look like and how do we build it?
+
+
+More recently, I’ve been re-using these tools to help other Yorkshire government bodies get insights quickly. This came about quite serendipitously, but it’s helped convince me it’s a good way to work. [Explain something about how much it speeds things up / how cost effective it is]
+
+(This is all on my github where I’m trying to corral more of it into the regionalecontools site, itself a github repo; the website’s all generated using R.) 
+
+I’m not suggesting how I’ve approached this is anything like the best way - but I am arguing that building these pipelines openly leads to good things that otherwise couldn’t happen. What I’d love to see is what others can do, and what kind of tools we could build together. 
+
+I will now proceed to go on about this at length, starting with a mildly trite statement that I’ll then unpick. 
