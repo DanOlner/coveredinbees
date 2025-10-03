@@ -4,6 +4,34 @@ date: "2025-08-21"
 categories: [sos]
 ---
 
+## OTHER BITS
+
+Is it possible for us to live happily in seemingly opposed word worlds? I'm thinking of 'two cultures' adjacent ideas. Lay out the different aspects, with the 'adaptive landscapes' piece prob my best take on it.
+
+What role truth, when language was never built for that? Parallel to the surprising success of maths in physics [where was I reading about that?]
+
+[Cf. legal system where representing opposing realities is built in]
+
+Does it help if we see building sinews of a reality-body as only one facet of how language works? The Balinese case - one can be blind, destroy the other. How to not be blind?
+
+History is absolute mishmash, truth elusive. ([Example from today](https://www.theguardian.com/world/2025/oct/01/irish-critics-netflix-series-house-of-guinness-ireland) re. adding to : "the majority of our popular history is fiction, and quite dangerous fiction at that. We don’t need any more of it"; [imagined](https://en.wikipedia.org/wiki/Imagined_Communities) history).
+
+But also then how to have some role for truth? Not a word science likes, of course, there's no such thing, only current evidence.
+
+All to say, I do have some understanding of the breadth of skies our language allows us to flock together in. That includes understanding the overlap of scientific and state power and its Scottian ability to blot out what it can't or won't see.
+
+["The metaphorical value of this brief account of scientific production forestry is that it illustrates the dangers of dismembering an exceptionally complex and poorly understood set of relations and processes in order to isolate a single element of instrumental value."]
+
+Cf. what's close to a perfectly simple example, though it has a lot of layers. Mel Gibson on Joe Rogan: melting ice can't increase sea levels. Look - when it melts in a glass, it doesn't go over the glass' edge, does it? (He looks very pleased with himself here.)
+
+What's great about this example: it doesn't have the complexity of some climate science (e.g. the greenhouse effect itself). The actual facts are super-easy to grasp, as John Stewart demonstrated several years earlier. 
+
+Yes, it's known that sea ice melt won't directly raise sea levels. The issue is ice melting on land going into the oceans.
+
+[That needs its own post.]
+
+
+
 ## MAIN
 
 Words have been getting a bit of a kicking lately. LLMs are looming in everyone's vision right now. As a few people have put it (e.g. [here](https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals), [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/), [here](https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai)) humans just lost their monopoly on written language to robots that digested everything ever written, [Johnny-5 style](https://youtu.be/WnTKllDbu5o?t=42) (OK, not like that).
