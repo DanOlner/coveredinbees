@@ -10,10 +10,10 @@
 <atom:link href="https://coveredinbees.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.7.33</generator>
-<lastBuildDate>Wed, 03 Sep 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Prototyping open econ tools</title>
-  <link>https://coveredinbees.org/posts/open_econtools/</link>
+  <link>https://coveredinbees.org/posts/prototyping_open_econ_tools/</link>
   <description><![CDATA[ 
 
 
@@ -56,7 +56,7 @@
 <p>So, what next? I’ll need to keep things fairly narrow to achieve anything at all, most likely by testing some ONS and Companies-House-extracted economy measures, see what can be improved, what blind spots there are. I’ll also try to find two or three focused problems to apply this to - including, I’m hoping, something on how we close the gap between quant views of sector mix and ground level knowledge of how firms interact, and what difference that makes to their success.</p>
 <p>Underlying-idea-wise, I’d like to see how older theories of technical changes in production can help shed light on current AI fears (I’m also working on an AI impact project). That could help think through where we want economic progress to come from.</p>
 <p>Let’s see how contact with reality changes things. Stick your email in the <a href="https://coveredinbees.org/about.html">subscribe box</a> to follow along…</p>
-<p><img src="https://coveredinbees.org/posts/open_econtools/Blind_men_and_elephant.jpg" class="img-fluid"></p>
+<p><img src="https://coveredinbees.org/posts/prototyping_open_econ_tools/Blind_men_and_elephant.jpg" class="img-fluid"></p>
 
 
 
@@ -72,8 +72,8 @@
 </ol>
 </section></div> ]]></description>
   <category>econ</category>
-  <guid>https://coveredinbees.org/posts/open_econtools/</guid>
-  <pubDate>Wed, 03 Sep 2025 23:00:00 GMT</pubDate>
+  <guid>https://coveredinbees.org/posts/prototyping_open_econ_tools/</guid>
+  <pubDate>Mon, 06 Oct 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>A better world for words</title>

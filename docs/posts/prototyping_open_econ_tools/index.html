@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-10-07">
 
-<title>COVEREDINBEES / A hive of TLDR &amp; villainy</title>
+<title>Prototyping open econ tools – COVEREDINBEES / A hive of TLDR &amp; villainy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e2ad2eddb07b91596255a2ebdffef4c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e2ad2eddb07b91596255a2ebdffef4c8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,68 +69,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="COVEREDINBEES / A hive of TLDR &amp; villainy" href="index.xml" data-external="1"></head>
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
 <body class="nav-fixed quarto-light">
 
@@ -140,10 +81,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/cib_stripes.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/cib_stripes.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">COVEREDINBEES / A hive of TLDR &amp; villainy</span>
     </a>
   </div>
@@ -154,7 +95,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -176,7 +117,7 @@ window.Quarto = {
 <span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:wordpress" aria-label="Icon wordpress from simple-icons Iconify.design set." title="wordpress_site"></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -188,7 +129,32 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Prototyping open econ tools</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">econ</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">October 7, 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
@@ -207,76 +173,65 @@ window.Quarto = {
 </form>
 </div></div>
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZWNvbg==">econ <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c29z">sos <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>Over the past couple of years, I’ve been building up a loose ‘regional economics’ toolkit while digging into UK sectors, growth and other econ-adjacent data (working mainly with <a href="https://www.southyorkshire-ca.gov.uk/">SYMCA</a> wearing my <a href="https://y-pern.org.uk/">Y-PERN</a> hat)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
+<p>I’m gathering data/code/explanations onto a <a href="https://danolner.github.io/RegionalEconomicTools/">regecontools website</a>, though bits are spread all over. This <a href="https://danolner.github.io/posts/outputs_livelist/">live outputs page</a> on the techie blog has gathered most of it in one place. (Fun<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> example interactive: <a href="https://danolner.github.io/RegionalEconomicTools/miscdocs/SYLAs_CompaniesHouse2025_treemap.html">South Yorkshire’s job count</a> from 2023 BRES data; click to drill down through local authority and sector granularity.)</p>
+<p>Over the next six months or so, I want to make this a more focused project. The plan is roughly this:</p>
+<ul>
+<li>Using open data/methods, test and improve these tools (and prototype new ones) so they’re as useful as they can be</li>
+<li>Dig deeper into the ideas and questions we’re pursuing - iterate between these and the tools.</li>
+<li>Build on existing relationships and search out new ones to refine the tools/ideas/questions cycle.</li>
+<li>Help build capacity through things like <a href="https://vimeo.com/user99857619/review/1103090076/32e50123d2">this ONS Local session</a> I ran introducing R for regional economic analysis (video <a href="https://vimeo.com/user99857619/review/1103090076/32e50123d2">here</a>; the <a href="https://danolner.github.io/RegionalEconomicTools/R_regecon_taster_2025_revealjs.html#/title-slide">online slides here</a> work as a how-to guide, including how to use R easily in a browser).</li>
+</ul>
+<p>The least tested part of this for me, and maybe the most interesting, is the ‘tools/ideas/questions’ cycle. The tools/concepts we use to make sense of our regional economies have grown from a hodgepodge of ideas. These can be questioned at different levels - from narrowly methodological (“Do existing measures of public sector output capture their real value? Have we understood what impact <a href="https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem">boundary choice</a> has?”) through to deeper, more political ideas about what economies are and what/who they’re for (see e.g.&nbsp;the <a href="https://www.nature.com/articles/s41586-025-09385-1">latest doughnut economics Nature paper</a> or <a href="https://www.sciencedirect.com/science/article/pii/S1470160X25010088?via%3Dihub#b0125">this survey</a> of over 200 eco-econs/wellbeing indicators).</p>
+<p>Y-PERN’s whole purpose has been to experiment with breaking down barriers in this cycle - trying to push past <a href="https://en.wikipedia.org/wiki/Information_deficit_model">deficit model</a> thinking that just sees that cycle as a “transfer of information from experts to non-experts”. This is still a pretty entrenched view: academics toil in the dark for years, emerge pale and blinking, clutching new insights. A separate ‘knowledge exchange’ process then commences.</p>
+<p>But that doesn’t align with the reality of data-driven policymaking: <em>everyone involved</em> are experts in what they do. It’s a deeply collaborative endeavour. We don’t all share the same knowledge, but we also won’t progress much without bringing everyone’s together.</p>
+<p>The ‘open’ part of the toolkit is in symbiosis with the ‘ideas/questions’ part. Regions face many of the same economic questions, including identical asks from central government (e.g.&nbsp;to produce <a href="https://www.gov.uk/government/publications/local-growth-plans-england">Local Growth Plans</a>). The same data sources are re-used, the same assumptions. At the same time, we’re all working to develop our own identities as devolution deepens. Given that, here’s the philosophy I want to work with:</p>
+<blockquote class="blockquote">
+<p>Do data work openly where we can. It will support collaboration and learning. It will help build a shared sense of ground truth. It will avoid wheel reinvention.</p>
+</blockquote>
+<p>I don’t have a dogmatic fealty to open source — we have a data/analysis mixed economy where private providers can do things other can’t, and that’s a good thing. There are also essential datasets that can’t be open, for good reason. But <em>where we can</em>, working in the open just goes better with the grain of those three things: (1) collaborative learning/capacity building across silos; (2) developing our shared sense of ground truth; (3) avoiding wheel reinvention (a facet of <a href="https://www.ukrn.org/">reproducibility</a>, which needs open methods; you can’t reproduce something if you can’t access it).</p>
+<p>The only way this works is if we prototype. Or call that <a href="https://www.bi.team/publications/test-and-learn-a-playbook-for-mission-driven-government/">test and learn</a> if you prefer. As that doc says:</p>
+<blockquote class="blockquote">
+<p>At its simplest [it] involves (1) developing something; (2) making contact with reality; (3) learning from the results.</p>
+</blockquote>
+<p>Sounds great in principle - but we have to be open to our preconceptions being challenged when we smack into reality. The <a href="https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf">Valve Games employee manual</a> puts it like this<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>:</p>
+<blockquote class="blockquote">
+<p>“—–ing up is a great way to find out that your assumptions were wrong or that your model of the world was a little bit off. As long as you update your model and move forward with a better picture, you’re doing it right. Look for ways to test your beliefs. Never be afraid to run an experiment or to collect more data.”</p>
+</blockquote>
+<p>While not always comfortable, this is part of how to grow our shared sense of ground truth by working together. It’s perfect ‘<a href="https://en.wikipedia.org/wiki/Blind_men_and_an_elephant">blind people and elephant</a>’ parable territory<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>. Brace for an extremely mixed elephant/economy metaphor.</p>
+<ul>
+<li>We want to see as much of the elephant as we can. How is the economy structured, what’s growing, shrinking, changing? Why? (And a whole bag of less narrow questions, of course.)</li>
+<li>Those lead naturally to “What data/methods do we have to answer these questions?” Any one data source helps us grab a single pachyderm part. Multiple sources give us a grip on different bits, but the whole beast still eludes us. We need enough knowledge to know our tools’ limitations - we will regularly hit the <a href="https://en.wikipedia.org/wiki/Streetlight_effect">streetlight effect</a>, mistaking the data for the whole animal<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>.</li>
+</ul>
+<p>Combining openness and prototyping, though, we can exchange what we think we’ve seen with others, maybe learn from our errors, and move a step or two closer to a collective sense of shape.</p>
+<p>Then there are awkward people saying things like, “Are we <em>sure</em> this is an elephant? I think maybe we have to go back to first principles here.” But again - an open, testing approach lets us argue our competing pachyderm theories out, and often discover diverse tools can be used in different places very effectively despite no total agreement.</p>
+<p>That can hit up against very different incentives and cadences across academia and policymaking (as SYMCA’s Alice Rubbra <a href="https://y-pern.org.uk/blog/the-relationship-between-policymaking-and-research-how-it-works-sometimes/">lays out here</a> really clearly) - but those are other elements to test as we go. What mix of relationships and structures can we grow to get closer to truly learning, adaptive regions?</p>
+<p>So, what next? I’ll need to keep things fairly narrow to achieve anything at all, most likely by testing some ONS and Companies-House-extracted economy measures, see what can be improved, what blind spots there are. I’ll also try to find two or three focused problems to apply this to - including, I’m hoping, something on how we close the gap between quant views of sector mix and ground level knowledge of how firms interact, and what difference that makes to their success.</p>
+<p>Underlying-idea-wise, I’d like to see how older theories of technical changes in production can help shed light on current AI fears (I’m also working on an AI impact project). That could help think through where we want economic progress to come from.</p>
+<p>Let’s see how contact with reality changes things. Stick your email in the <a href="https://coveredinbees.org/about.html">subscribe box</a> to follow along…</p>
+<p><img src="Blind_men_and_elephant.jpg" class="img-fluid"></p>
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ZWNvbg==" data-listing-date-sort="1759791600000" data-listing-file-modified-sort="1759746021356" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1189">
-<div class="thumbnail"><a href="./posts/prototyping_open_econ_tools/index.html" class="no-external">
 
-<p class="card-img-top"><img src="posts/prototyping_open_econ_tools/Blind_men_and_elephant.jpg"  class="thumbnail-image card-img"/></p>
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/prototyping_open_econ_tools/index.html" class="no-external">Prototyping open econ tools</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZWNvbg=='); return false;">econ</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/prototyping_open_econ_tools/index.html" class="no-external">
-Over the past couple of years, I’ve been building up a loose ‘regional economics’ toolkit while digging into UK sectors, growth and other econ-adjacent data (working mainly…<sup></sup>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/prototyping_open_econ_tools/index.html" class="no-external">
-<div class="listing-date">
-Oct 7, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="c29z" data-listing-date-sort="1755730800000" data-listing-file-modified-sort="1759532274934" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1198">
-<div class="thumbnail"><a href="./posts/what_happened_to_words/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/what_happened_to_words/index.html" class="no-external">A better world for words</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('c29z'); return false;">sos</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/what_happened_to_words/index.html" class="no-external">
-Is it possible for us to live happily in seemingly opposed word worlds? I’m thinking of ‘two cultures’ adjacent ideas. Lay out the different aspects, with the ‘adaptive…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/what_happened_to_words/index.html" class="no-external">
-<div class="listing-date">
-Aug 21, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+<ol>
+<li id="fn1"><p><a href="https://github.com/DanOlner/coveredinbees/blob/831f2cde89f016bf81fa550c9b6202f7c718613a/posts/open_econtools/index.qmd">Github commit of this doc</a> with cuttings at the bottom.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>If you find this kind of thing entertaining…<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Not an endorsement of Valve’s supposedly desk-on-wheels culture or anything similar. As <a href="https://www.theguardian.com/commentisfree/2018/jul/30/no-bosses-managers-flat-hierachy-workplace-tech-hollywood">this article explores</a>, structures like this (including some co-ops without explicit rules) can often just obscure hidden hierarchies, making them harder to navigate or challenge.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Elephant parable <a href="https://jetzek.wordpress.com/2016/07/19/first-blog-post/">example</a> applied to economics.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Krugman: “We just don’t see what we can’t formalise”. [citation forgotten!]<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
