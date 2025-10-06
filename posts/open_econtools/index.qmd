@@ -6,7 +6,7 @@ categories: [econ]
 
 Should I add something saying: nothing hugely sophisticated, concentrating on trying to extract as much info as possible from data we have, not build complex models. That may change but... many of the open questions are still quite basic and unsolved e.g. proper productivity data, MAUP, etc. List some of those. [Point to new post, suggest subscribing!]
 
-
+..
 
 Over the past couple of years, I've been building up a loose 'regional economics' toolkit while digging into UK sectors, growth and other econ-adjacent data (working mainly with [SYMCA](https://www.southyorkshire-ca.gov.uk/) wearing my [Y-PERN](https://y-pern.org.uk/) hat)[^githublink].
 
@@ -19,7 +19,7 @@ Over the next six months or so, I want to try and make this a more focused proje
 * Build on existing relationships and search out new ones to prototype a better tools/ideas/questions cycle.
 * Help build capacity through things like [this ONS Local session](https://vimeo.com/user99857619/review/1103090076/32e50123d2) I ran introducing R for regional economic analysis ([the online slides here](https://danolner.github.io/RegionalEconomicTools/R_regecon_taster_2025_revealjs.html#/title-slide) work as a how-to guide, including how to use R easily in a browser).
 
-The least tested part of this for me, and maybe the most interesting, is the 'tools/ideas/questions' cycle. The tools/concepts we use to make sense of our regional economies have grown from a hodgepodge of ideas. These can be questioned at different levels - from narrowly methodological ("How much difference does it make to productivity if we exclude imputed rent? Do existing measures of public sector output capture their real value?") to deeper, more political ideas about what economies are and what/who they're for (see e.g. the [latest doughnut economics Nature paper](https://www.nature.com/articles/s41586-025-09385-1) or [this survey](https://www.sciencedirect.com/science/article/pii/S1470160X25010088?via%3Dihub#b0125) of over 200 eco-econs/wellbeing indicators).
+The least tested part of this for me, and maybe the most interesting, is the 'tools/ideas/questions' cycle. The tools/concepts we use to make sense of our regional economies have grown from a hodgepodge of ideas. These can be questioned at different levels - from narrowly methodological ("Do existing measures of public sector output capture their real value? Have we understood what impact [boundary choice](https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem) has?") through to deeper, more political ideas about what economies are and what/who they're for (see e.g. the [latest doughnut economics Nature paper](https://www.nature.com/articles/s41586-025-09385-1) or [this survey](https://www.sciencedirect.com/science/article/pii/S1470160X25010088?via%3Dihub#b0125) of over 200 eco-econs/wellbeing indicators).
 
 Y-PERN's whole purpose has been to experiment with breaking down barriers in this cycle - trying to push past [deficit model](https://en.wikipedia.org/wiki/Information_deficit_model) thinking that just sees that cycle as a “transfer of information from experts to non-experts”. This is still a pretty entrenched view: academics toil in the dark for years, emerge pale and blinking, clutching new insights. A separate 'knowledge exchange' process then commences.
 
@@ -39,7 +39,7 @@ Sounds great in principle - but we have to be open to our preconceptions being c
 
 > “-----ing up is a great way to find out that your assumptions were wrong or that your model of the world was a little bit off. As long as you update your model and move forward with a better picture, you’re doing it right. Look for ways to test your beliefs. Never be afraid to run an experiment or to collect more data.”
 
-While not always comfortable, this is part of how to grow our shared sense of ground truth. It's perfect '[blind people and elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)' parable territory[^econelephant]. Brace for an extremely mixed elephant/economy metaphor.
+While not always comfortable, this is part of how to grow our shared sense of ground truth by working together. It's perfect '[blind people and elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)' parable territory[^econelephant]. Brace for an extremely mixed elephant/economy metaphor.
 
 * We want to see as much of the elephant as we can. How is the economy structured, what's growing, shrinking, changing? Why? 
 * Those lead naturally to “What data/methods do we have to answer them?” Any one data source helps us grab a single pachyderm part. Multiple sources give us a grip on different bits, but the whole beast still eludes us. We need enough knowledge to know our tools' limitations - we will regularly hit the [streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect), mistaking the data for the whole animal[^krug].
@@ -59,4 +59,4 @@ Let's see how contact with reality changes things...
 [^krug]: Krugman: "We just don't see what we can't formalise". [citation forgotten!]
 [^valvenope]: Not an endorsement of Valve's supposedly desk-on-wheels culture or anything similar. As [this article explores](https://www.theguardian.com/commentisfree/2018/jul/30/no-bosses-managers-flat-hierachy-workplace-tech-hollywood), structures like this (including some co-ops without explicit rules) can mask a "neo-feudal workplace culture".
 
-![](Blind_men_and_elephant.jpg) 
+![](Blind_men_and_elephant.jpg)
