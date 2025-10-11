@@ -4,11 +4,22 @@ date: "2025-09-25"
 categories: [fiction, scifi]
 ---
 
+
+## Planz
+
+Aiming for intro scifi post, but it's a braindump at the moment. Pick out:
+
+* Which bits for this 1st post, which for later ones, thoughts on overall plan. What do we want to get across in a 1st one?
+
+
+## Main
+
 ![](verytiredofAI.png)
 
-I wrote a sci-fi book. I started the research for it in 2018, from an idea I’d had in 2012. I had a first draft by mid 2021. After no luck pitching to agents, I disassembled that draft and put it back together by the following summer in 2022, and then churned it through another round of agent pitches (also nope).
+I wrote a sci-fi book. I started the research for it in 2018, from an idea I’d had in 2012. A first draft was done by mid 2021. After no luck pitching to agents, I disassembled that draft and put it back together by the following summer in 2022, and then churned it through another round of agent pitches (also nope).
 
-A few months later, at the end of 2022, openAI [released](https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/) chatGPT 3.5 for public use. 
+A few months later, at the end of 2022, openAI [released](https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/) chatGPT 3.5 for public use. Three years have passed since. That Oatmeal panel from [this piece](https://theoatmeal.com/comics/ai_art) nicely captures the moment - there's a decent chance you're done with hearing a another ****ing word about AI. By now, you may well be willing to pay cash if companies would please God stop shoving it into every single product.
+
 
 
 
@@ -174,22 +185,21 @@ I'm just reading two 'computer runs everything' sci-fi books from quite opposite
 
 Punchlines??
 
-Actually, turned out to be accidentally good training for the period we currently find ourselves in. Handy.
 
 So yeah, I did have a go at making a ripping yarn based on copyright and intellectual property law. I’ll let you judge the success of that, but I personally had a wild time.
 
-A period where AI has move from ... to centre stage of every single discussion, with daily news headlines and opinions, every other linkedin post about how it’ll transform work, usually a seminar titled something like “Will AI allow us to live like Wallace and Gromit / will AI keep everyone’s sock drawers organised” etc.
+A period where AI has moved from ... to centre stage of every single discussion, with daily news headlines and opinions, every other linkedin post about how it’ll transform work, usually a seminar titled something like “Will AI allow us to live like Wallace and Gromit / will AI keep everyone’s sock drawers organised” etc.
 
 A lot people now would likely happily pay money if companies stopped shoving “AI” in our products and if it would make everyone stop using the phrase online.
 
 There’s no way around how fascinated we are by the idea of AI as ‘other mind’, maybe 'alien mind' and the questions that raises, all while several actual AI researchers beg us to please stop talking about it like that (not the ones trying to raise capital by fuelling the AGI bandwagon). 
 
 
-# Other topics
+# For later posts
 
 ## Learning
 
-https://bsky.app/profile/alexvont.bsky.social/post/3lolgkvlsis2q – on the NY Mag piece and what’s happening to academia, the universal-acid nature of it. I do need to rethink a bit (while really just bolting on…)
+https://bsky.app/profile/alexvont.bsky.social/post/3lolgkvlsis2q – on the NY Mag piece and what’s happening to academia, the universal-acid nature of it. I do need to rethink a bit what the book's doing with this. Simplenotes has some thoughts...
 
 Luckily, enough of the book was already going along these grains, it’s not as hard as it might have been.
 
@@ -197,14 +207,22 @@ Archived version of the full article if needed: https://bsky.app/profile/hypervi
 
 And me commenting on that - maybe it'll alter cognitive costs in weird ways. https://bsky.app/profile/danolner.bsky.social/post/3lonucyhzu222
 
-More in "other links" - check!
 
 
 
+# Other bits of uncertain home
 
 
-## CUTTINZ
+
+More in "other links" in writingtraining doc - check!
+
+
+# CUTTINZ
+
+[From Le Guin LHOD intro]
 
 > "Fortunately, though extrapolation is an element in science fiction, it isn't the name of the game by any means. It is far too rationalist and simplistic to satisfy the imaginative mind, whether the writer's or the reader's. Variables are the spice of life."
 
 > "This book is not extrapolative. If you like you can read it, and a lot of other science fiction, as a thought-experiment. Let's say (says Mary Shelley) that a young doctor creates a human being in his laboratory; let's say (says Philip K. Dick) that the Allies lost the second world war; let's say this or that is such and so, and see what happens..."
+
+Actually, turned out to be accidentally good training for the period we currently find ourselves in. Handy.
