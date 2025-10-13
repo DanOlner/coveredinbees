@@ -14,11 +14,14 @@ Aiming for intro scifi post, but it's a braindump at the moment. Pick out:
 
 ## Main
 
-![](verytiredofAI.png)
+::: {.center}
+![](verytiredofAI.png){width="400px"}
+:::
+
 
 I wrote a sci-fi book. I started the research for it in 2018, from an idea I’d had in 2012. A first draft was done by mid 2021. After no luck pitching to agents, I disassembled that draft and put it back together by the following summer in 2022, and then churned it through another round of agent pitches (also nope).
 
-A few months later, at the end of 2022, openAI [released](https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/) chatGPT 3.5 for public use. Three years have passed since. That Oatmeal panel from [this piece](https://theoatmeal.com/comics/ai_art) nicely captures the moment - there's a decent chance you're done with hearing a another ****ing word about AI. By now, you may well be willing to pay cash if companies would please God stop shoving it into every single product.
+A few months later, at the end of 2022, openAI [released](https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/) chatGPT 3.5 for public use. Three years have passed since. That Oatmeal panel above (from [this piece](https://theoatmeal.com/comics/ai_art)) nicely captures where we are now - there's a decent chance you're done with hearing a another ****ing word about AI. By now, you may well be willing to pay cash if companies would please God stop shoving it into every single product.
 
 
 
@@ -29,6 +32,11 @@ A few months later, at the end of 2022, openAI [released](https://www.searchengi
 It saw the [most rapid tech adoption](https://benjamintodd.substack.com/p/when-people-say-ai-isnt-finding-real) ever. As I write in 2025, space-race levels of nation-state competition are underway to gain AI dominance. It’s being inserted into our daily lives whether we ask for it or no. The hype is... well, it’s stratospheric. Bumping into satellites. Past the moon.
 
 
+
+
+I am **also** working on the impact of AI in the workplace as part of my day job. 
+So say something about threading a line between what that's trying to do - i.e. steer our way through something intrinsically unpredictable
+And what fiction should or can do. Le Guin. Then onward. 
 
 
 
