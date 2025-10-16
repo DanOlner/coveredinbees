@@ -9,7 +9,7 @@
 <link>https://coveredinbees.org/</link>
 <atom:link href="https://coveredinbees.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
-<generator>quarto-1.7.33</generator>
+<generator>quarto-1.7.32</generator>
 <lastBuildDate>Mon, 06 Oct 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Prototyping open econ tools</title>
