@@ -4,99 +4,79 @@ date: "2025-09-25"
 categories: [fiction, scifi]
 ---
 
-## Planz
-
-Aiming for intro scifi post, but it's a braindump at the moment. Pick out:
-
--   Which bits for this 1st post, which for later ones, thoughts on overall plan. What do we want to get across in a 1st one?
--   Get across the following:
-    -   I wrote a scifi book.
-    -   Jesus, AI. Christ.
-    -   Here's why you might want to read it, here's the main strands.
-    -   Here's a rough plan of what next.
-    -   Here's some topics I'll be covering as we go.
-    -   Pic of the cork board!
-
-First bits done. What else do I want to get in this one?
-
--   Bullet points on future posts (where I can say I'm working on it in day job and why that's different).
-
--   A quick hint at what the book does.
-
--   That might be enough for now?
-
-## Main
-
 ::: center
 ![](verytiredofAI.png){width="400px"}
 :::
 
-I wrote a sci-fi book about artificial intelligence. I started the research for it in 2018, from an idea I’d had in 2012. A first draft was done by mid 2021. After no luck pitching to agents, I lovingly disassembled that draft and put it back together by the following summer in 2022, and then churned through another round of agent pitches (also nope).
+I wrote a sci-fi book about artificial intelligence. I started the research for it in 2018, from an idea I’d had in 2012. A first draft was done by mid 2021. After no luck pitching to agents, I lovingly disassembled that draft and put it back together by the following summer in 2022, then churned through another round of agent pitches (also nope).
 
-A few months later, at the end of 2022, openAI [released](https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/) chatGPT 3.5 for public use. Three years later, that Oatmeal panel above (from [this piece](https://theoatmeal.com/comics/ai_art)) is how a lot of people feel about AI - there's a decent chance you'd be willing to pay to make everyone please shut up about it, please stop inserting it into our lives whether we ask for it or no.
+A few months later, at the end of 2022, openAI [released](https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/) chatGPT 3.5 for public use. Three years have since passed. That Oatmeal panel above (from [this piece](https://theoatmeal.com/comics/ai_art)) is how a lot of people feel now about AI - there's a decent chance you'd be willing to pay to make everyone please shut up about it, stop inserting it into our lives whether we ask for it or no.
 
-This post is about my plan to get the book out into the world amid this cacophony. There'll be ample time to add to the noise in later posts. I'm now working on analysis of AI job impacts as part of my day-job, so that's a fun twist. I'm going to insist mixing this with fiction isn't only OK, it's actively a good thing. Obviously, that feels a bit like running through the streets wearing nothing but a fez and a feather boa: equally mortifying and liberating, potentially illegal. But it's how I was schooled - in my Sheffield politics degree, [Mike Kenny](https://www.bennettschool.cam.ac.uk/about-us/person/michael-kenny-2/) paired social theory with sci-fi every week[^1]. (I was introduced there to what's arguably still my favourite book, Le Guin's [Dispossessed](https://en.wikipedia.org/wiki/The_Dispossessed).)
+Amid this ceaseless cacophony, I am planning to get the book out into the world. Great timing. There'll be ample time to add to the AI noise in later posts. For now, I've set myself this aim:
 
-[^1]: Daily Mail headline: "Woke university teaching science fiction! This is why we lost the Empire!"
+> **Self-publish it, after one more churn cycle, and** **chart the process here on coveredinbees**. I'm guessing it'll take six to nine months. We'll see how optimistic that is[^1]. I may possibly attempt an Indiegogo launch campaign in the final weeks.
 
-Anyone who knows me knows I struggle to see the value of my own work. I think the book is really good. I'm super-proud of it. This *never* happens. I feel baffingly, [DunningKrugerly](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) confident that a certain kind of sci-fi fan (i.e. people like me) will dig it. I'm going to roll with the feeling before it wears off.
+[^1]: I've also committed to not drinking alcohol until the book is out. I really want a beer, this is very motivating.
 
-So I'm setting myself two simple targets:
+I'll be re-assessing the book scene by scene in this final loop, using that to write about the ideas and the construction of it. It has to remain a product of its pre-chatGPT time. It’s a bad idea to let current events blow one’s ideas around like a weathervane. But our brave new LLM world (bubble pop or not) does offer a chance to reflect. How much has it (a) changed how I think about the book and (b) changed how I think about AI and its impact on us?
 
-1.  **Self-publish it, after one more churn cycle.** I'll chart the process here on coveredinbees. I'm guessing it'll take six to nine months. We'll see how optimistic that is[^2]. I may possibly attempt an Indiegogo launch campaign in the final weeks.
-2.  **Just *one* person reads the book who I've never met** (and who isn't too close in degrees of separation from friends). That will give me closure. Obviously, I secretly want thousands of readers and calls from Hollywood producers. But mainly I just want closure.
+Anyone who knows me knows I struggle to see the value of my own work. The book has plenty of flaws, but I'm super-proud of it. This *never* happens. I feel baffingly, [DunningKrugerly](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) confident in it. I've worked hard to mix ideas with pace, to write something fun. Your definition of fun may differ, but I think a certain kind of sci-fi fan (i.e. people like me) will dig it. I'm going to roll with that feeling before my brain notices.
 
-[^2]: I've also committed to not drinking alcohol until the book is out. I really want a beer, this is very motivating.
+So stick your email in the [subscribe box](https://coveredinbees.org/about.html) if...
 
-I'll aim to make these sci-fi posts of interest to two types of reader (you may well be both of these):
-
--   You're interested in the nuts and bolts of fiction writing and self-publishing (a pretty [convoluted process](https://www.reddit.com/r/selfpublish/wiki/index/)) and want to follow my journey as I get this thing out into the world. Maybe you're especially into sci-fi.
+-   You're interested in the nuts and bolts of fiction writing and self-publishing (a pretty [convoluted process](https://www.reddit.com/r/selfpublish/wiki/index/)) and want to follow along as I get this thing out into the world. Maybe you're especially into sci-fi.
 -   You're into ideas about how technology and society thread through each other. You may be trying to get under the skin of what's actually happening with AI. You might also find yourself drawn to the questions it raises about minds and intelligence, including the collective kind (despite exasperated protests from [several](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/) / [AI](https://www.ft.com/content/304b6aa6-7ed7-4f18-8c55-f52ce1510565) / [researchers](https://en.wikipedia.org/wiki/Stochastic_parrot) that things like AGI are a dumb distraction).
 
-If this is you, stick your email in the subscribe box. Aaah go on. (Note [what else](https://coveredinbees.org/about.html) you'll get on this blog though.)
+Aaah go on.
 
-I'll be re-assessing the book scene by scene in this final loop, using that as a chance to write about some of the key ideas. It has to remain a product of its pre-chatGPT time. It’s a bad idea to let current events blow one’s ideas around like a weathervane. But our brave new LLM world (bubble pop or not) does offer a chance to reflect. How much has it (a) changed how I think about the book and (b) changed how I think about AI and its impact on us.
+In my day-job, I'm now working on analysis of AI job impacts. Given that, writing about sci-fi feels a bit like running through town wearing nothing but a fez and a feather boa: equally mortifying and liberating, potentially illegal. But it's how I was schooled - in the last year of my Sheffield politics degree, [Mike Kenny](https://www.bennettschool.cam.ac.uk/about-us/person/michael-kenny-2/) paired social theory with sci-fi every week[^2]. I was introduced there to what's arguably still my favourite book, Le Guin's [Dispossessed](https://en.wikipedia.org/wiki/The_Dispossessed). Causal arrows between our imaginations and reality go in all directions (though that has issues - see below). (We didn't have to wear just a fez and feather boa though.)
+
+[^2]: Daily Mail headline: "Woke university teaching science fiction! This is why we lost the Empire!"
 
 ### What's the book about?
 
-People and technology co-evolve. The path they forge together is messy and unpredictable. Sci-fi slips to the edges of this a lot: AI heaven, liberating us from all Earthly drudgery; or a glowing-red-eyed hell where the best we can hope for is that AI wants us as pets. (Or the inevitable descent of the former into the latter.) I wanted to dig into the mess more.
+Here are the broad strokes.
 
-It's a "two strands turn into one" book. Strand #1 explores just how intractably difficult it would be a re-create something as complex as a human mind. It's the opposite of Matrix-style "just stick a cable in this hole and you're good to go".
+People and technology co-evolve. The path they forge together is messy and unpredictable. Sci-fi slips to the edges of this a lot: AI heaven, liberating us from all Earthly drudgery; or a glowing-red-eyed hell where the best we can hope for is that AI wants us as pets. I wanted to dig into the mess more.
 
-Now, I'm very not a neuroscientist. But this is fiction, so here's what I did. If brain knowledge is a vast, carefully curated palace full of the most subtle, inscrutable paintings (see e.g. Damasio’s amazing [Self Comes to Mind](https://www.penguin.co.uk/books/389315/self-comes-to-mind-by-antonio-damasio/9780099498025), a book I leaned on a lot), then I broke into that palace at 3am with a swagbag, cut as many pictures out of frames with a Stanley knife as I could and scarpered before the cops arrived.
+It's a "two strands turn into one" book. Strand #1 explores just how intractably difficult it would be a re-create something as complex as a human mind. It's the opposite of Matrix-style "stick a cable in this hole and you're good to go" and other "[brain upload](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrainUploading) = just pop this cap on / lie on this table" takes that make it look as clean as scanning an item at the checkout. (Recent example: Alien Earth.) Those do have an advantage - just do the mind upload and get on with the plot. I made a story out of the process itself.
 
-With that sack of goodies in hand, strand #1 is about what [brain upload](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrainUploading) looks like if we take the complexity of the human [meatsack](https://www.youtube.com/watch?v=T6JFTmQCFHg) remotely seriously. It naturally fits a [wake up in a room](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouWakeUpInARoom)[^3] setting - arguably a steep challenge for a first time fiction author to make that compelling, but I've tried. The dreaded C word[^4] does arise, but in a slightly novel way I hope.
+Now, I'm very very not a neuroscientist. But this is fiction, so here's what I did. If brain knowledge is a vast, carefully curated palace full of the most subtle, inscrutable paintings (see e.g. Damasio’s amazing [Self Comes to Mind](https://www.penguin.co.uk/books/389315/self-comes-to-mind-by-antonio-damasio/9780099498025), a book I leaned on a lot), then I broke into that palace at 3am with a swagbag, cut as many pictures out of frames with a Stanley knife as I could and scarpered before the cops arrived.
+
+With that contraband in hand, strand #1 is about what brain upload looks like if we take the complexity of the human [meatsack](https://www.youtube.com/watch?v=T6JFTmQCFHg) remotely seriously. It naturally fits a [wake up in a room](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouWakeUpInARoom)[^3] setting - arguably a steep challenge for a first time fiction author to make that compelling, but I gave it a go. The dreaded C word[^4] does arise, but in a slightly novel way I hope.
 
 [^3]: Two TV Tropes links there, you may notice. Yep. I've read a lot of stuff on story structure - plenty of people want to sell you the *one* framework for how stories work - but out of everything I've looked at, TV Tropes is still top. It doesn't mess around, and is way more up to date on how classic tropes have converted themselves into modern media. And the writing is comic genius.
 
-[^4]: I met with a few friends in a little meaning-and-nature-of-consciousness discussion group for a while. You end up chasing yourself in circles very quickly indeed. I'll come back to this, though. I have Things To Say.
+[^4]: I met with a few friends in a little meaning-and-nature-of-consciousness discussion group for a while. You end up chasing yourself in circles very quickly indeed. I'll come back to this, though. I have Things To Say. (See the list of possible topics too.)
 
-Strand #2: a ripping yarn built on copyright and intellectual property law. Wild. No, stay with me. The idea is that AI’s impact will be felt intensely in our relationship with language. We're seeing an aspect of that erupting into the world right now with LLMs, firmly in "whoa what an unpredictable mess" territory.
+Strand #2: a ripping yarn built on copyright and intellectual property law. Wild. No, stay with me. The idea is that AI will radically alter our relationship with language. We're seeing an argument for that erupting into the world right now with LLMs, firmly in "whoa what an unpredictable mess" territory.
 
 Again, sci-fi's natural grain leans to the extremes, authoritarian in this case - e.g. Ma Boyong's "City of Silence" short story in [Invisible Planets](https://en.wikipedia.org/wiki/Invisible_Planets) or more recently [Where the Axe is Buried](https://www.hive.co.uk/Product/Ray-Nayler/Where-the-Axe-is-Buried/31577435); amazing takes on the "AI + [1984 style](https://www.goodreads.com/quotes/553001-it-s-a-beautiful-thing-the-destruction-of-words-of-course) control and destruction of language = what?" question.
 
-But if we start from *where we are now*, with the hodgepodge of politics, law and money we swim in, where might the evolving mess take us? The book is a thought experiment about one of those possible destinations. There's plenty enough darkness in the result, but I've tried to get other shades in there.
+But if we start from *where we are now*, with the mire of politics, law and money we swim in, where might the evolving mess take us? The book is a thought experiment about one of those possible destinations. There's plenty enough darkness in the result, but I've tried to get other shades in there.
 
-That all said, there ended up being a fair dose of Evil Robot. It was difficult to avoid. You'll see why if you read it.
+There also ended up being a fair dose of Evil Robot. Turns out it's really difficult to avoid.
 
 ### Self-publishing?
 
-Yep. And not just because all those failed agent pitches mean it's the only option, no sirree. This is in no way like a jilted lover wailing, "I never wanted you anyway." Here's how I comfort myself: self-publishing does actually have some advantages. The book may have its niche - TBC - but it was probably never a very commercial proportion[^5]. While I've worked very hard to make the plot bounce along, I have also given all the ideas-y stuff pride of place. That's *why* I wrote it - I wanted that challenge of trying to make ideas and plot work together. Kill your darlings schmill your schmarlings. I love my darlings and want them to *live.* There's also a level of control - including what I hope to do here on the blog in the coming months - that would be difficult otherwise. Control, yes. Fame, wealth, accolades, less of that. So it goes.
+Yep. And not just because all those failed agent pitches mean it's the only option, no sirree. This is in no way like a jilted lover wailing, "I never wanted you anyway." Here's how I comfort myself: self-publishing does actually have some advantages. ("I don't need you, my life's better now!") The book may have its niche - TBC - but it was probably never a very commercial proportion[^5]. While I've worked very hard to make the plot bounce along, I have also given all the ideas-y stuff pride of place. That's *why* I wrote it - I wanted that challenge of trying to make ideas and plot work together. Kill your darlings schmill your schmarlings. I love my darlings and want them to *live.* (May have to revisit that arrogance.) There's also a level of control - including what I hope to do here on the blog in the coming months - that would be difficult otherwise. Control, yes. Fame, wealth, accolades, less of that. [So it goes](https://coveredinbees.org.archived.website/node/483.html).
 
 [^5]: You learn how indispensable that is as you dig into traditional publishing - agents have to convince publishers with projected sales numbers alone, usually with "x is similar to y and z, and those two are selling well right now".
 
-### Possible future posts
+### What next?
 
-As well as general progress reports, here's some things I might try and write about.
+Stick around for sci-fi and [other ramblings](https://coveredinbees.org/about.html). There'll be other topics on this blog, but I'll let you know so you can filter out what you want. As well as general progress reports, here's some things I might try and write about.
 
--   **Forecasting versus thought experiments in science fiction**. Bouncing off [Le Guin's brilliant short intro](https://www.goodreads.com/topic/show/1294820-introduction-left-hand-of-darkness) to the Left Hand of Darkness. As I write, part of my day job is actually attempting some predictive scenarios of AI's impact on jobs (there's a little over 30 other reports on this subject I've found, most out in the last two years - everyone's at it). Le Guin makes a forceful case that sci-fi shouldn't be splashing about in those waters: "Prediction is the business of prophets, clairvoyants, and futurologists. It is not the business of novelists. A novelist's business is lying." But the genre's role in shaping how we conceive the future (for better or worse) is an interesting tangle.
--   **Creativity**. There's a lot of insistence that AI can't be creative like wot a human can. "Like a human" is probably true, but it's harder to dismiss AI creativity entirely. There are overlaps between how AI and humans create. A common line: "AI can't go beyond its training like we can." Really? I've written a very-much-same-ballpark [short story](https://www.dropbox.com/scl/fi/ebm5onpwj8bkf3q3nfzdy/The_Material_I_Work_With_Dan_Olner.docx?rlkey=c8odoc341mgnlygxzjwz0ew04&dl=1) that explores this. The issue isn't the creative divide, it's how the structures we inhabit use and abuse creativity. I should read something by the late [Prof. Margaret Boden](https://en.wikipedia.org/wiki/Margaret_Boden) before I write anything about this.
--   **Intelligence.** AI engenders some odd views about it. The [singularity](https://en.wikipedia.org/wiki/Technological_singularity), for example - the notion that once AI surpasses humans, it'll start a positive feedback process that'll make us to AI as ants are to humans etc etc blah. Uh huh. But we *already have* systems more intelligent than a human - they're called 'collections of humans' and their organisations. Who do you think built London or the 747? That brings up some interesting views though - people who think, yes, we've built superintelligences like the market system, but only in the way that ants build complex nests, and mustn't presume to interfere etc etc blah. Uh huh. So yeah, fun to be had here.
--   **Consciousness.** Why there's (almost) no point talking about it. We can mark out a space around it - what's left after we’ve cut away what can rationally be discussed. But the thing itself? Consciousness is that kid in the Mickey Mouse hat in the Larson cartoon below. Don't be one of the snakes. (Actually, that might be all there is to say on this subject. I may well still go on about it.)
+-   **Forecasting versus thought experiments in science fiction**. Bouncing off [Le Guin's brilliant short intro](https://www.goodreads.com/topic/show/1294820-introduction-left-hand-of-darkness) to the Left Hand of Darkness. As I mentioned, part of my day job is attempting some predictive scenarios of AI's impact on jobs (there's a little over 30 other reports on this subject I've found, most out in the last two years - everyone's at it). Le Guin makes a forceful case that sci-fi shouldn't be splashing about in those waters: "Prediction is the business of prophets, clairvoyants, and futurologists. It is not the business of novelists. A novelist's business is lying." But the genre's role in shaping how we conceive the future (for better or worse) is an interesting tangle.
+-   **Creativity**. There's a lot of insistence that AI can't be creative like wot a human can. "Like a human" is probably true, but it's harder to dismiss AI creativity entirely. There are overlaps between how AI and humans create. A common line: "AI can't go beyond its training like we can." Really? I've written a very-much-same-ballpark [short story](https://www.dropbox.com/scl/fi/ebm5onpwj8bkf3q3nfzdy/The_Material_I_Work_With_Dan_Olner.docx?rlkey=c8odoc341mgnlygxzjwz0ew04&dl=1) that explores this. The issue isn't the creative divide between meatsack and machine, it's how the structures we inhabit use and abuse creativity. I should read something by the late [Prof. Margaret Boden](https://en.wikipedia.org/wiki/Margaret_Boden) before I write anything about this.
+-   **Intelligence.** AI engenders some odd views about it. The [singularity](https://en.wikipedia.org/wiki/Technological_singularity), for example - the notion that once AI surpasses humans, it'll start an exponential feedback that'll make us to AI as ants are to humans etc etc blah. Uh huh. But we *already have* systems more intelligent than a human - they're called 'collections of humans' and their organisations. Who do you think built London or the 747? Why didn't *they* start exponential feedbacks? Positive feedbacks, yes, but they seemed to stabilise - why? What, if anything, does that say about intelligence? That brings up some interesting views though - people who think, yes, we've made superintelligences like the market system, but only in the way that ants (them again) build complex nests, and we mustn't presume to interfere etc etc blah. Uh huh. So yeah, fun to be had here.
+-   **Consciousness.** Why there's (almost) no point talking about it. We can mark out a space around it - what's left after we’ve cut away what can rationally be discussed. But the thing itself? Consciousness is that kid in the Mickey Mouse hat in the Larson cartoon below. Don't be one of the snakes. (Actually, that might be all there is to say on this subject. I will probably still go on about it.)
 
 ::: center
 ![](larsonmouse.png){width="400px"}
 :::
+
+# CUTTINZ
 
 AI is regularly the [MacGuffin](https://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin) in movies ([latest example](https://www.reddit.com/r/Mission_Impossible/comments/14bw6s2/what_is_the_macguffin_in_dead_reckoning/)) but it’s also become a policy and economy MacGuffin. “How to improve productivity? AI. How to make public services better? AI. How can I stop my male pattern balding? AI.” Etc. Every second article on LinkedIn is now either “AI must be resisted / resistance is futile” (see [Ursula von der Leyen](https://www.linkedin.com/feed/update/urn:li:activity:7381720419516452864/) for example of the latter).
 
@@ -198,8 +178,6 @@ With anything as unpredictable as this - and most technology is - all we can do 
 
 More in "other links" in writingtraining doc - check!
 
-# CUTTINZ
-
 \[From Le Guin LHOD intro\]
 
 > "Fortunately, though extrapolation is an element in science fiction, it isn't the name of the game by any means. It is far too rationalist and simplistic to satisfy the imaginative mind, whether the writer's or the reader's. Variables are the spice of life."
@@ -235,3 +213,5 @@ there’s just so much analysis and discussion of AI now! How to stand out again
 https://bsky.app/profile/sarahkendzior.bsky.social/post/3lo7srsyvoc27
 
 nicely captures where we are now - LLMs are being inserted . As Brian Merchant says [here](https://www.bloodinthemachine.com/p/this-is-the-gentle-singularity), the level of awe with which AI bosses ponder the imminent arrival of beyond-human AI correlates strongly to funding round timings.
+
+1.  **Just *one* person reads the book who I've never met** (and who isn't too close in degrees of separation from friends). That will give me closure. Obviously, I secretly want thousands of readers and calls from Hollywood producers. But mainly I just want closure.
