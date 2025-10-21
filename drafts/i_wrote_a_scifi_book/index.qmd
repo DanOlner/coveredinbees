@@ -12,7 +12,7 @@ I wrote a sci-fi book about artificial intelligence. I started the research for 
 
 A few months later, at the end of 2022, openAI [released](https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/) chatGPT 3.5 for public use. Three years have since passed. That Oatmeal panel above (from [this piece](https://theoatmeal.com/comics/ai_art)) is how a lot of people feel now about AI - there's a decent chance you'd be willing to pay to make everyone please shut up about it, stop inserting it into our lives whether we ask for it or no.
 
-Amid this ceaseless cacophony, I am planning to get the book out into the world. Great timing. There'll be ample time to add to the AI noise in later posts. For now, I've set myself this aim:
+Amid this ceaseless cacophony, I am planning to get the book out into the world. Great timing. I've set myself this aim:
 
 > **Self-publish it, after one more churn cycle, and** **chart the process here on coveredinbees**. I'm guessing it'll take six to nine months. We'll see how optimistic that is[^1]. I may possibly attempt an Indiegogo launch campaign in the final weeks.
 
