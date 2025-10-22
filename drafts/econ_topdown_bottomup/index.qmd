@@ -1,0 +1,47 @@
+---
+title: "Econ top down bottom up"
+date: "2025-10-21"
+categories: [econ]
+---
+
+::: center
+![](){width="400px"}
+:::
+
+## Planz / ramblinz
+
+I don't want this just to be going back over the same things (see bits below). What's the actual plan for getting out of the office and digging into what's going on out there in Sheffield and Yorkshire? On how people are making their pay packet, or not? Time taken to do that's going to be interesting. But that's what this needs to be about.
+
+Just staring at the SY companies house numbers here: https://danolner.github.io/RegionalEconomicTools/miscdocs/SYLAs_CompaniesHouse2025_treemap.html
+
+Two things: how accurate? What's it missing? What can't we see?
+
+Blindspots/inaccuracies not just in the data, but in what it means for people's working lives in those jobs I'm counting, who those people are, what the history of the firms is. \[And issue of not seeing all firms - Bradford's most famous space tech firm no longer registered there\].
+
+One rabbit hole it could be good to go down to find answers: what I can find out about a Sheffield firm's role in assessing the metallurgy flaws in the Cornish man engine's failure. Strong start to a story there (and why history's so important).
+
+## Research
+
+### Sheffield Testing Company
+
+https://www.gracesguide.co.uk/Sheffield_Testing_Works
+
+"The Sheffield Testing Company (before they moved to Nursery Street) fronting Blonk Street occupied a corner of the Smithfield Market. (small building in front of Castle Grinding Wheel in the above photographs)" https://www.sheffieldhistory.co.uk/forums/topic/20026-smithfield-market/
+
+Founded by Thomas Nash: "In 1880 he conceived the idea of establishing an independent testing and experimenting works in Sheffield. He took great pride in turning out accurate work, with the result that his business grew rapidly, and he found it advisable to add a chemical laboratory to his mechanical testing laboratory. In the course of his work he was frequently consulted regarding breakdowns of various kinds." "Also a member of the Iron and Steel Institute." https://www.gracesguide.co.uk/Thomas_Nash
+
+His son Tom took over but only lived seven years longer than his father. <https://www.gracesguide.co.uk/Thomas_Nash_(d.1910)>
+
+<https://www.28dayslater.co.uk/threads/ferodo-house-sheffield-march-2018.112705/> Element used to be here (urban explorer)
+
+## BITS
+
+The democracy of it - default top down / Scottian etc.
+
+But how the opposite of that isn't nec democratisation - real time view of Trump destroying data for steering econ
+
+Via muscletraining doc
+
+Something around deepening understanding of actual sector connections and growth by linking qual and quant, plus working with LA. Include GRIT style goals of understanding wider connections. \[We just don't seem to have data on this stuff...\] "Devol and networks offers opportunity to address the current lack of any direct knowledge of interlinkages and their role, and what role policy can make, if any... vs dominance of top down data of untested relevance."
+
+How exactly do firms cluster, in theory, and where in practice? How does that change over time – what forces bring them together, push them apart? What’s the relationship between productivity and economic mix? Is it enough to understand parts of the economic system, or is there something about the whole connective tissue – localised connections, international, how it all links into people’s lives where they live - that’s vital to get sight of? How pliable and steerable are any of these forces and what tools do we have to steer with?
