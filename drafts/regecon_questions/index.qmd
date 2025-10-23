@@ -10,3 +10,15 @@ categories: [econ,geog]
 
 ## Planz / ramblinz
 
+Just looking at the Paul Swinney / Ed Cox WM agglom argument. And hitting up against maaany questions. WM seem to have done some amazing work for their LGP and loads of good links (the Steve Knightley intro is absolute genius – why on Earth don’t we have something like that for SY??)
+
+But – it occurs to me, it would be very good to be able to narrow down exactly what particular questions are. Perhaps I can start a draft of those. Actually, that’s a good idea – can then publish but make live too / indicate when there’s an update. Let’s start that.
+
+## Draft questions / sub-questions
+
+-   In a given region, either with multiple or a single main centre, how do you answer the following: should we promote growth of the 'core city' or main centre, as agglomeration effects will spread out into wider region? Or should we promote growth across regions in the same way? \[Bouncing off WM argument\]
+    -   The question here includes: if growth happens, where do the benefits flow? Who to? What makes a difference there? What data do we have to understand that and in what ways might be data be misleading or just plain wrong? \[That's a general one for everything...\]
+
+"Since his election last year, Mayor Richard Parker has been very clear that growth in the West Midlands must be [‘Growth for Everyone’](https://www.wmca.org.uk/mayor-of-the-west-midlands-more-information-about-the-role/mayor-of-the-west-midlands-priorities/). Despite agglomeration theories being the prevailing model of economic growth for several decades, they have very little to say about the distribution of wealth and we see stark economic inequalities as a consequence."
+
+Via [Ed Cox](https://www.linkedin.com/pulse/dealing-realties-theories-how-west-midlands-creating-growth-ed-cox-e1snc/) responding to [Paul Swinney's CFC post](https://www.centreforcities.org/blog/is-the-west-midlands-really-the-exception-to-the-rule/). Other links: [LinkedIn, Adam Brown's original post](https://www.linkedin.com/feed/update/urn:li:activity:7367288999092076544/) that gets to all the others. ("This is excellent and I'm glad one of our most important economic geographies is smart enough to see through the usual simplistic (and now massively outdated) agglomeration theories.")
