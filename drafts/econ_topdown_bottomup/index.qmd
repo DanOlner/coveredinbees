@@ -10,6 +10,8 @@ categories: [econ]
 
 ## Planz / ramblinz
 
+### Getting going 
+
 I don't want this just to be going back over the same things (see bits below). What's the actual plan for getting out of the office and digging into what's going on out there in Sheffield and Yorkshire? On how people are making their pay packet, or not? Time taken to do that's going to be interesting. But that's what this needs to be about.
 
 Just staring at the SY companies house numbers here: https://danolner.github.io/RegionalEconomicTools/miscdocs/SYLAs_CompaniesHouse2025_treemap.html
@@ -19,6 +21,14 @@ Two things: how accurate? What's it missing? What can't we see?
 Blindspots/inaccuracies not just in the data, but in what it means for people's working lives in those jobs I'm counting, who those people are, what the history of the firms is. \[And issue of not seeing all firms - Bradford's most famous space tech firm no longer registered there\].
 
 One rabbit hole it could be good to go down to find answers: what I can find out about a Sheffield firm's role in assessing the metallurgy flaws in the Cornish man engine's failure. Strong start to a story there (and why history's so important).
+
+### Some ways to approach this
+
+This is a first bunch of thoughts. But one thing that would be good to do sometimes:
+
+-   Start with the data, follow breadcrumbs, see where that story takes me when I dig deeper.
+
+So the Sheffield Testing Company story doesn't follow that pattern, but then it doesn't need to. That can be its own thing. I'd love to know what and who else they were testing for and how much has changed.
 
 ## Research
 
