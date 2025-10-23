@@ -17,3 +17,39 @@ Skip to the end for the latest; it's a working doc.
 # Journal
 
 ## First bits of telling people about the self-publish plan \[23.10.25\]
+
+I [have a post](https://coveredinbees.org/posts/i_wrote_a_scifi_book/) about the plan. Err. Who to tell? Let's start somewhere / keep a record.
+
+-   Facebook - starting with Sheffield sci-fi and fantasy group (not meeting at the mo but FB still going). Draft:
+
+    -   Hi folks, hope you don't mind me posting here - I'm a Sheffield first-time sci-fi author just embarking on a self-publishing mission. I've written a post about the plan on my blog ("I wrote a sci-fi book about AI before chatGPT came out. Now what?") If you fancy followng along with the ups and downs (I'm aiming for 6 -9 months, let's see if that becomes years!) go to the blog and stick your email in the subscribe box (via the about page or top right). Any thoughts and prayers welcome!
+
+-   On the reddit self-publish weekly self-promotion thread. I can stick later posts on there too (I think). Note to self: reddit will lose the text if you accidentally navigate away from the page! Drafting here...
+
+    -   Hi folks - first time poster here! I've written a science fiction book - the blog post below talks about how I got here, what it's about and my plan to self-publish (in 6 to 9 months I hope, will see...) The post is titled: "I wrote a sci-fi book about AI before chatGPT came out. Now what?" Will that (a) make it more likely to be appreciated or (b) is everyone sick of AI now? I'm planning to chart my progress on the blog, including one last full edit, while chewing over the ideas. It may end with an indiegogo launch campaign, not quite sure yet. If you'd like to follow along, please stick an email into the subscribe button (on the about page if you can't find). Really glad this community and all the incredible resources exists! <https://coveredinbees.org/posts/i_wrote_a_scifi_book/>
+
+OK, this didn't post. Need to work out why.
+
+Hi folks - first time poster here. I've written a science fiction book - huzzah! [This blog post](https://coveredinbees.org/posts/i_wrote_a_scifi_book/) talks about how I got here, what it's about and my plan to self-publish (in 6 to 9 months I hope, will see!)
+
+I'll be charting my progress on the blog, including one last full edit, while chewing over the ideas. It may end with an indiegogo launch campaign, not quite sure yet.
+
+If you'd like to follow along, please [stick an email in here](https://coveredinbees.org/about.html) to subscribe. Really glad this community and all the incredible resources exists!
+
+Here's an excerpt from the post on what the book's about:
+
+People and technology co-evolve. The path they forge together is messy and unpredictable. Sci-fi slips to the edges of this a lot: AI heaven, liberating us from all Earthly drudgery; or a glowing-red-eyed hell where the best we can hope for is that AI wants us as pets. I wanted to dig into the mess more.
+
+It’s a “two strands turn into one” book. Strand #1 explores just how intractably difficult it would be a re-create something as complex as a human mind. It’s the opposite of Matrix-style “stick a cable in this hole and you’re good to go” and other “[brain upload](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrainUploading) = just pop this cap on / lie on this table” takes that make it look as clean as scanning an item at the checkout. (Recent example: Alien Earth.) Those do have an advantage - just do the upload and get on with the plot. I made a story out of the process itself.
+
+Now, I’m very very not a neuroscientist. But this is fiction, so here’s what I did. If brain knowledge is a vast, carefully curated palace full of the most subtle, inscrutable paintings (see e.g. Damasio’s amazing [Self Comes to Mind](https://www.penguin.co.uk/books/389315/self-comes-to-mind-by-antonio-damasio/9780099498025), a book I leaned on a lot), then I broke into that palace at 3am with a swagbag, cut as many pictures out of frames with a Stanley knife as I could and scarpered before the cops arrived.
+
+With that contraband in hand, strand #1 is about what brain upload looks like if we take the complexity of the human [meatsack](https://www.youtube.com/watch?v=T6JFTmQCFHg) remotely seriously. It naturally fits a [wake up in a room](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouWakeUpInARoom) setting - arguably a steep challenge for a first time fiction author to make that compelling, but I gave it a go. The dreaded C word does arise, but in a slightly novel way I hope. \[Consciousness!\]
+
+Strand #2: a ripping yarn built on copyright and intellectual property law. Wild. No, stay with me. The idea is that AI will radically alter our relationship with language. We’re seeing an argument for that erupting into the world right now with LLMs, firmly in “whoa what an unpredictable mess” territory.
+
+Again, sci-fi’s natural grain leans to the extremes, authoritarian in this case - e.g. Ma Boyong’s “City of Silence” short story in [Invisible Planets](https://en.wikipedia.org/wiki/Invisible_Planets) or more recently [Where the Axe is Buried](https://www.hive.co.uk/Product/Ray-Nayler/Where-the-Axe-is-Buried/31577435); amazing takes on the “AI + [1984 style](https://www.goodreads.com/quotes/553001-it-s-a-beautiful-thing-the-destruction-of-words-of-course) control and destruction of language = what?” question.
+
+But if we start from *where we are now*, with the mire of politics, law and money we swim in, where might the evolving mess take us? Strand #2 is a thought experiment about one of those possible destinations. There’s plenty enough darkness in the result, but I’ve tried to get other shades in there.
+
+There also ended up being a fair dose of Evil Robot. Turns out it’s really difficult to avoid.
