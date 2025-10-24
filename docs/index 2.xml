@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>COVEREDINBEES / A hive of TLDR &amp; villainy</title>
+<link>https://coveredinbees.org/</link>
+<atom:link href="https://coveredinbees.org/index.xml" rel="self" type="application/rss+xml"/>
+<description>A hive of TLDR and villainy</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Tue, 21 Oct 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>I wrote a sci-fi book about AI before chatGPT came out. Now what?</title>
+  <link>https://coveredinbees.org/posts/i_wrote_a_scifi_book/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="center">
+<p><img src="https://coveredinbees.org/posts/i_wrote_a_scifi_book/verytiredofAI.png" class="img-fluid" width="400"></p>
+</div>
+<p>I wrote a sci-fi book about artificial intelligence. I started the research for it in 2018, from an idea I’d had in 2012. A first draft was done by mid 2021. After no luck pitching to agents, I lovingly disassembled that draft and put it back together by the following summer in 2022, then churned through another round of agent pitches (also nope).</p>
+<p>A few months later, at the end of 2022, openAI <a href="https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/">released</a> chatGPT 3.5 for public use. Three years have since passed. That Oatmeal panel above (from <a href="https://theoatmeal.com/comics/ai_art">this piece</a>) is how a lot of people feel now about AI - there’s a decent chance you’d be willing to pay to make everyone please shut up about it, please stop inserting it into our lives whether we ask for it or no.</p>
+<p>Amid this ceaseless cacophony, I am planning to get the book out into the world. Great timing. I’ve set myself this aim:</p>
+<blockquote class="blockquote">
+<p><strong>Self-publish it, after one more churn cycle, and</strong> <strong>chart the process here on coveredinbees</strong>. I’m guessing it’ll take six to nine months. We’ll see how optimistic that is<sup>1</sup>. I may possibly attempt an Indiegogo launch campaign in the final weeks.</p>
+</blockquote>
+<p>I’ll be re-assessing the book scene by scene in this final loop, writing about the ideas and the construction of it. It has to remain a product of its pre-chatGPT time. It’s a bad idea to let current events blow one’s ideas around like a weathervane. But our brave new LLM world (bubble pop or not) does offer a chance to reflect. How much has it (a) changed how I think about the book and (b) changed how I think about AI and its impact on us?</p>
+<p>I’ll be journaling progress as I go in <a href="https://coveredinbees.org/drafts/oldscript_journal/">this planning/work doc</a> (partly to be open, partly a post-LLM urge to demonstrate the flailing human frightfulness of the process).</p>
+<p>Anyone who knows me knows I struggle to see the value of my own work. The book has plenty of flaws, but I’m super-proud of it. This <em>never</em> happens. I feel baffingly, <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">DunningKrugerly</a> confident in it. I’ve worked hard to mix ideas with pace, to write something fun. Your definition of fun may differ, but I think a certain kind of sci-fi fan (i.e.&nbsp;people like me) will dig it. I’m going to roll with that feeling before my brain notices.</p>
+<p>So stick your email in the <a href="https://coveredinbees.org/about.html">subscribe box</a> if…</p>
+<ul>
+<li>You’re interested in the nuts and bolts of fiction writing and self-publishing (a pretty <a href="https://www.reddit.com/r/selfpublish/wiki/index/">convoluted process</a>) and want to follow along as I get this done. Maybe you’re especially into sci-fi.</li>
+<li>You’re into ideas about how technology and society thread through each other. You may be trying to get under the skin of what’s actually happening with AI. You might also find yourself drawn to the questions it raises about minds and intelligence, including the collective kind (despite exasperated protests from <a href="https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/">several</a> / <a href="https://www.ft.com/content/304b6aa6-7ed7-4f18-8c55-f52ce1510565">AI</a> / <a href="https://en.wikipedia.org/wiki/Stochastic_parrot">researchers</a> that things like AGI are a dumb distraction).</li>
+</ul>
+<p>(I’ll mark sci-fi related posts, in case you want to avoid <a href="https://coveredinbees.org/about.html">other stuff</a> I write about.)</p>
+<p>In my day-job, I’m now working on analysis of AI workplace impacts. Given that, writing about sci-fi feels a bit like running through town wearing nothing but a fez and a feather boa: equally mortifying and liberating, potentially illegal. But it’s how I was schooled - in the last year of my Sheffield politics degree, <a href="https://www.bennettschool.cam.ac.uk/about-us/person/michael-kenny-2/">Mike Kenny</a> paired social theory with sci-fi every week<sup>2</sup>. I was introduced there to what’s arguably still my favourite book, Le Guin’s <a href="https://en.wikipedia.org/wiki/The_Dispossessed">Dispossessed</a>. (We didn’t have to wear just a fez and feather boa in seminars though.) Causal arrows between our imaginations and reality go in all directions (though that has issues - see below).</p>
+<section id="whats-the-book-about" class="level3">
+<h3 class="anchored" data-anchor-id="whats-the-book-about">What’s the book about?</h3>
+<p>People and technology co-evolve. The path they forge together is messy and unpredictable. Sci-fi slips to the edges of this a lot: AI heaven, liberating us from all Earthly drudgery; or a glowing-red-eyed hell where the best we can hope for is that AI wants us as pets. I wanted to dig into the mess more.</p>
+<p>It’s a “two strands turn into one” book. Strand #1 explores just how intractably difficult it would be a re-create something as complex as a human mind. It’s the opposite of Matrix-style “stick a cable in this hole and you’re good to go” and other “<a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/BrainUploading">brain upload</a> = just pop this cap on / lie on this table” takes that make it look as clean as scanning an item at the checkout. (Recent example: Alien Earth.) Those do have an advantage - just do the upload and get on with the plot. I made a story out of the process itself.</p>
+<p>Now, I’m very very not a neuroscientist. But this is fiction, so here’s what I did. If brain knowledge is a vast, carefully curated palace full of the most subtle, inscrutable paintings (see e.g.&nbsp;Damasio’s amazing <a href="https://www.penguin.co.uk/books/389315/self-comes-to-mind-by-antonio-damasio/9780099498025">Self Comes to Mind</a>, a book I leaned on a lot), then I broke into that palace at 3am with a swagbag, cut as many pictures out of frames with a Stanley knife as I could and scarpered before the cops arrived.</p>
+<p>With that contraband in hand, strand #1 is about what brain upload looks like if we take the complexity of the human <a href="https://www.youtube.com/watch?v=T6JFTmQCFHg">meatsack</a> remotely seriously. It naturally fits a <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/YouWakeUpInARoom">wake up in a room</a><sup>3</sup> setting - arguably a steep challenge for a first time fiction author to make that compelling, but I gave it a go. The dreaded C word<sup>4</sup> does arise, but in a slightly novel way I hope.</p>
+<p>Strand #2: a ripping yarn built on copyright and intellectual property law. Wild. No, stay with me. The idea is that AI will radically alter our relationship with language. We’re seeing an argument for that erupting into the world right now with LLMs, firmly in “whoa what an unpredictable mess” territory.</p>
+<p>Again, sci-fi’s natural grain leans to the extremes, authoritarian in this case - e.g.&nbsp;Ma Boyong’s “City of Silence” short story in <a href="https://en.wikipedia.org/wiki/Invisible_Planets">Invisible Planets</a> or more recently <a href="https://www.hive.co.uk/Product/Ray-Nayler/Where-the-Axe-is-Buried/31577435">Where the Axe is Buried</a>; amazing takes on the “AI + <a href="https://www.goodreads.com/quotes/553001-it-s-a-beautiful-thing-the-destruction-of-words-of-course">1984 style</a> control and destruction of language = what?” question.</p>
+<p>But if we start from <em>where we are now</em>, with the mire of politics, law and money we swim in, where might the evolving mess take us? Strand #2 is a thought experiment about one of those possible destinations. There’s plenty enough darkness in the result, but I’ve tried to get other shades in there.</p>
+<p>There also ended up being a fair dose of Evil Robot. Turns out it’s really difficult to avoid.</p>
+</section>
+<section id="self-publishing" class="level3">
+<h3 class="anchored" data-anchor-id="self-publishing">Self-publishing?</h3>
+<p>Yep. And not just because all those failed agent pitches mean it’s the only option, no sirree. This is in no way like a jilted lover wailing, “I never wanted you anyway.” Here’s how I comfort myself: self-publishing does actually have some advantages. (“I don’t need you, my life’s better now!”) The book may have its niche - TBC - but it was probably never a very commercial proportion<sup>5</sup>. While I’ve worked very hard to make the plot bounce along, I have also given all the ideas-y stuff pride of place. That’s <em>why</em> I wrote it - I wanted that challenge of trying to make ideas and plot work together. Kill your darlings schmill your schmarlings. I love my darlings and want them to <em>live.</em> There’s also a level of control - including what I hope to do here on the blog in the coming months - that would be difficult otherwise. Control, yes. Fame, wealth, accolades, less of that. <a href="https://coveredinbees.org.archived.website/node/483.html">So it goes</a>.</p>
+</section>
+<section id="what-next" class="level3">
+<h3 class="anchored" data-anchor-id="what-next">What next?</h3>
+<p>Stick around for sci-fi and <a href="https://coveredinbees.org/about.html">other ramblings</a>. As well as general progress reports, here’s some things I might try and write about.</p>
+<ul>
+<li><strong>Forecasting versus thought experiments in science fiction</strong>. Bouncing off <a href="https://www.goodreads.com/topic/show/1294820-introduction-left-hand-of-darkness">Le Guin’s brilliant short intro</a> to the Left Hand of Darkness. As I mentioned, part of my day job is attempting some predictive scenarios of AI’s impact on work (there’s a little over 30 other reports on this subject I’ve found, most out in the last two years - everyone’s at it). Le Guin makes a forceful case that sci-fi shouldn’t be splashing about in those waters: “Prediction is the business of prophets, clairvoyants, and futurologists. It is not the business of novelists. A novelist’s business is lying.” But the genre’s role in shaping how we conceive our present and future (for better or worse) is an interesting tangle.</li>
+<li><strong>Creativity</strong>. There’s a lot of insistence that AI can’t be creative like wot a human can. “Like a human” is probably true, but it’s harder to dismiss AI creativity entirely. There are overlaps between how AI and humans do it. A common line: “AI can’t go beyond its training like we can.” Really? I’ve written a similar-ballpark <a href="https://www.dropbox.com/scl/fi/wa35kz4q0fitvsvw7op1g/The_Material_I_Work_With_Dan_Olner_2025.docx?rlkey=clved7yewb4ho87sg31qhql41&amp;e=1&amp;dl=0">short story</a> that explores this. The issue isn’t the creative divide between meatsack and machine, it’s how the structures we inhabit use and abuse creativity. I should read something by the late <a href="https://en.wikipedia.org/wiki/Margaret_Boden">Prof.&nbsp;Margaret Boden</a> before I write anything about this.</li>
+<li><strong>Intelligence.</strong> AI engenders some odd views about it. The <a href="https://en.wikipedia.org/wiki/Technological_singularity">singularity</a>, for example - the notion that once AI surpasses humans, it’ll start an exponential feedback that’ll make us to AI as ants are to humans etc etc blah. Uh huh. But we <em>already have</em> systems more intelligent than a human - they’re called ‘collections of humans’ and their organisations. Who do you think built London or the 747? Why didn’t <em>they</em> start exponential feedbacks? Positive feedbacks, yes, but they seemed to stabilise - why? What, if anything, does that say about intelligence? That brings up some curious viewpoints - people who think, yes, we’ve made superintelligences like the market system, but only in the way that ants (them again) build complex nests, and we mustn’t presume to interfere etc etc blah. Uh huh. So yeah, fun to be had here.</li>
+<li><strong>Consciousness.</strong> Why there’s (almost) no point talking about it. We can mark out a space around it - what’s left after we’ve cut away what can rationally be discussed. But the thing itself? Consciousness is that kid in the Mickey Mouse hat in the Larson cartoon below. Don’t be one of the snakes. (Actually, that might be all there is to say on this subject. I will probably still go on about it.)</li>
+</ul>
+<div class="center">
+<p><img src="https://coveredinbees.org/posts/i_wrote_a_scifi_book/larsonmouse.png" class="img-fluid" width="400"></p>
+</div>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>I’ve also committed to not drinking alcohol until the book is out. I really want a beer, this is very motivating. I hope it’s not three or more years.↩︎</p></li>
+<li id="fn2"><p>Daily Mail headline: “Woke university teaching science fiction! This is why we lost the Empire!”↩︎</p></li>
+<li id="fn3"><p>Two TV Tropes links there, you may notice. Yep. I’ve read a lot of stuff on story structure - plenty of people want to sell you the <em>one</em> framework for how stories work - but out of everything I’ve looked at, TV Tropes is still top. It doesn’t mess around, and is way more up to date on how classic tropes have converted themselves into modern media. And the writing is comic genius.↩︎</p></li>
+<li id="fn4"><p>I met with a few friends in a little meaning-and-nature-of-consciousness discussion group for a while. You end up chasing yourself in circles very quickly indeed. I’ll come back to this, though. I have Things To Say. (See the list of possible topics too.)↩︎</p></li>
+<li id="fn5"><p>You learn how indispensable that is as you dig into traditional publishing - agents have to convince publishers with projected sales numbers alone, usually with “x is similar to y and z, and those two are selling well right now”.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>fiction</category>
+  <category>scifi</category>
+  <guid>https://coveredinbees.org/posts/i_wrote_a_scifi_book/</guid>
+  <pubDate>Tue, 21 Oct 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Prototyping open econ tools</title>
+  <link>https://coveredinbees.org/posts/prototyping_open_econ_tools/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Over the past couple of years, I’ve been building up a loose ‘regional economics’ toolkit while digging into UK sectors, growth and other econ-adjacent data (working mainly with <a href="https://www.southyorkshire-ca.gov.uk/">SYMCA</a> wearing my <a href="https://y-pern.org.uk/">Y-PERN</a> hat)<sup>1</sup>.</p>
+<p>I’m gathering data/code/explanations onto a <a href="https://danolner.github.io/RegionalEconomicTools/">regecontools website</a>, though bits are spread all over. This <a href="https://danolner.github.io/posts/outputs_livelist/">live outputs page</a> on the techie blog has gathered most of it in one place. (Fun<sup>2</sup> example interactive: <a href="https://danolner.github.io/RegionalEconomicTools/miscdocs/SYLAs_CompaniesHouse2025_treemap.html">South Yorkshire’s job count</a> from 2023 BRES data; click to drill down through local authority and sector granularity.)</p>
+<p>Over the next six months or so, I want to make this a more focused project. The plan is roughly this:</p>
+<ul>
+<li>Using open data/methods, test and improve these tools (and prototype new ones) so they’re as useful as they can be</li>
+<li>Dig deeper into the ideas and questions we’re pursuing - iterate between these and the tools.</li>
+<li>Build on existing relationships and search out new ones to refine the tools/ideas/questions cycle.</li>
+<li>Help build capacity through things like <a href="https://vimeo.com/user99857619/review/1103090076/32e50123d2">this ONS Local session</a> I ran introducing R for regional economic analysis (video <a href="https://vimeo.com/user99857619/review/1103090076/32e50123d2">here</a>; the <a href="https://danolner.github.io/RegionalEconomicTools/R_regecon_taster_2025_revealjs.html#/title-slide">online slides here</a> work as a how-to guide, including how to use R easily in a browser).</li>
+</ul>
+<p>The least tested part of this for me, and maybe the most interesting, is the ‘tools/ideas/questions’ cycle. The tools/concepts we use to make sense of our regional economies have grown from a hodgepodge of ideas. These can be questioned at different levels - from narrowly methodological (“Do existing measures of public sector output capture their real value? Have we understood what impact <a href="https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem">boundary choice</a> has?”) through to deeper, more political ideas about what economies are and what/who they’re for (see e.g.&nbsp;the <a href="https://www.nature.com/articles/s41586-025-09385-1">latest doughnut economics Nature paper</a> or <a href="https://www.sciencedirect.com/science/article/pii/S1470160X25010088?via%3Dihub#b0125">this survey</a> of over 200 eco-econs/wellbeing indicators).</p>
+<p>Y-PERN’s whole purpose has been to experiment with breaking down barriers in this cycle - trying to push past <a href="https://en.wikipedia.org/wiki/Information_deficit_model">deficit model</a> thinking that just sees that cycle as a “transfer of information from experts to non-experts”. This is still a pretty entrenched view: academics toil in the dark for years, emerge pale and blinking, clutching new insights. A separate ‘knowledge exchange’ process then commences.</p>
+<p>But that doesn’t align with the reality of data-driven policymaking: <em>everyone involved</em> are experts in what they do. It’s a deeply collaborative endeavour. We don’t all share the same knowledge, but we also won’t progress much without bringing everyone’s together.</p>
+<p>The ‘open’ part of the toolkit is in symbiosis with the ‘ideas/questions’ part. Regions face many of the same economic questions, including identical asks from central government (e.g.&nbsp;to produce <a href="https://www.gov.uk/government/publications/local-growth-plans-england">Local Growth Plans</a>). The same data sources are re-used, the same assumptions. At the same time, we’re all working to develop our own identities as devolution deepens. Given that, here’s the philosophy I want to work with:</p>
+<blockquote class="blockquote">
+<p>Do data work openly where we can. It will support collaboration and learning. It will help build a shared sense of ground truth. It will avoid wheel reinvention.</p>
+</blockquote>
+<p>I don’t have a dogmatic fealty to open source — we have a data/analysis mixed economy where private providers can do things other can’t, and that’s a good thing. There are also essential datasets that can’t be open, for good reason. But <em>where we can</em>, working in the open just goes better with the grain of those three things: (1) collaborative learning/capacity building across silos; (2) developing our shared sense of ground truth; (3) avoiding wheel reinvention (a facet of <a href="https://www.ukrn.org/">reproducibility</a>, which needs open methods; you can’t reproduce something if you can’t access it).</p>
+<p>The only way this works is if we prototype. Or call that <a href="https://www.bi.team/publications/test-and-learn-a-playbook-for-mission-driven-government/">test and learn</a> if you prefer. As that doc says:</p>
+<blockquote class="blockquote">
+<p>At its simplest [it] involves (1) developing something; (2) making contact with reality; (3) learning from the results.</p>
+</blockquote>
+<p>Sounds great in principle - but we have to be open to our preconceptions being challenged when we smack into reality. The <a href="https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf">Valve Games employee manual</a> puts it like this<sup>3</sup>:</p>
+<blockquote class="blockquote">
+<p>“—–ing up is a great way to find out that your assumptions were wrong or that your model of the world was a little bit off. As long as you update your model and move forward with a better picture, you’re doing it right. Look for ways to test your beliefs. Never be afraid to run an experiment or to collect more data.”</p>
+</blockquote>
+<p>While not always comfortable, this is part of how to grow our shared sense of ground truth by working together. It’s perfect ‘<a href="https://en.wikipedia.org/wiki/Blind_men_and_an_elephant">blind people and elephant</a>’ parable territory<sup>4</sup>. Brace for an extremely mixed elephant/economy metaphor.</p>
+<ul>
+<li>We want to see as much of the elephant as we can. How is the economy structured, what’s growing, shrinking, changing? Why? (And a whole bag of less narrow questions, of course.)</li>
+<li>Those lead naturally to “What data/methods do we have to answer these questions?” Any one data source helps us grab a single pachyderm part. Multiple sources give us a grip on different bits, but the whole beast still eludes us. We need enough knowledge to know our tools’ limitations - we will regularly hit the <a href="https://en.wikipedia.org/wiki/Streetlight_effect">streetlight effect</a>, mistaking the data for the whole animal<sup>5</sup>.</li>
+</ul>
+<p>Combining openness and prototyping, though, we can exchange what we think we’ve seen with others, maybe learn from our errors, and move a step or two closer to a collective sense of shape.</p>
+<p>Then there are awkward people saying things like, “Are we <em>sure</em> this is an elephant? I think maybe we have to go back to first principles here.” But again - an open, testing approach lets us argue our competing pachyderm theories out, and often discover diverse tools can be used in different places very effectively despite no total agreement.</p>
+<p>That can hit up against very different incentives and cadences across academia and policymaking (as SYMCA’s Alice Rubbra <a href="https://y-pern.org.uk/blog/the-relationship-between-policymaking-and-research-how-it-works-sometimes/">lays out here</a> really clearly) - but those are other elements to test as we go. What mix of relationships and structures can we grow to get closer to truly learning, adaptive regions?</p>
+<p>So, what next? I’ll need to keep things fairly narrow to achieve anything at all, most likely by testing some ONS and Companies-House-extracted economy measures, see what can be improved, what blind spots there are. I’ll also try to find two or three focused problems to apply this to - including, I’m hoping, something on how we close the gap between quant views of sector mix and ground level knowledge of how firms interact, and what difference that makes to their success.</p>
+<p>Underlying-idea-wise, I’d like to see how older theories of technical changes in production can help shed light on current AI fears (I’m also working on an AI impact project). That could help think through where we want economic progress to come from.</p>
+<p>Let’s see how contact with reality changes things. Stick your email in the <a href="https://coveredinbees.org/about.html">subscribe box</a> to follow along…</p>
+<p><img src="https://coveredinbees.org/posts/prototyping_open_econ_tools/Blind_men_and_elephant.jpg" class="img-fluid"></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p><a href="https://github.com/DanOlner/coveredinbees/blob/831f2cde89f016bf81fa550c9b6202f7c718613a/posts/open_econtools/index.qmd">Github commit of this doc</a> with cuttings at the bottom.↩︎</p></li>
+<li id="fn2"><p>If you find this kind of thing entertaining…↩︎</p></li>
+<li id="fn3"><p>Not an endorsement of Valve’s supposedly desk-on-wheels culture or anything similar. As <a href="https://www.theguardian.com/commentisfree/2018/jul/30/no-bosses-managers-flat-hierachy-workplace-tech-hollywood">this article explores</a>, structures like this (including some co-ops without explicit rules) can often just obscure hidden hierarchies, making them harder to navigate or challenge.↩︎</p></li>
+<li id="fn4"><p>Elephant parable <a href="https://jetzek.wordpress.com/2016/07/19/first-blog-post/">example</a> applied to economics.↩︎</p></li>
+<li id="fn5"><p>Krugman: “We just don’t see what we can’t formalise”. [citation forgotten!]↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>econ</category>
+  <guid>https://coveredinbees.org/posts/prototyping_open_econ_tools/</guid>
+  <pubDate>Mon, 06 Oct 2025 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
