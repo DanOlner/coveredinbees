@@ -2,6 +2,7 @@
 title: "Old script / self publishing journal"
 date: "2025-10-23"
 categories: [scifi,selfpublish]
+bibliography: references.bib
 ---
 
 ::: center
@@ -14,7 +15,15 @@ A journal of progress (or lack of it) on getting the sci-fi book self-published 
 
 Skip to the end for the latest; it's a working doc.
 
-# Journal
+# Top bits
+
+## Title ideas (more of em)
+
+Sarracenia. (Bit beat over head with metaphor?)
+
+Your blood is our blood. (Anything with 'blood' in, hmmph.)
+
+# Getting-it-out journal
 
 ## First bits of telling people about the self-publish plan \[23.10.25\]
 
@@ -35,3 +44,39 @@ Writing community and help has been fckin vital in getting this thing done up to
 -   Chatting to Sheffield writers workshop peeps again (help get the slack lively again).
 
 If I try to chat to Gary though, I could do with being clear on what I want. Do I know that? It keeps on changing a little. From "Just get closure so I can stop thinking out it" to "Actually, I believe in the book and want to maximise my chances of people reading it, and I'm willing to take the time to try and get it right, including horrible amounts of self promotion."
+
+# Redraft journal
+
+## Figuring out changes #1 \[28.10.25\]
+
+First post on this. SInce the last time I printed off a draft, I've:
+
+1.  Gone through that, scribbled, made some notes on things that might change.
+2.  Been adding any random thoughts to an oldscript note in SImplenotes
+3.  Also got a bsquillion oldscript-tagged bookmarks / evernote notes (that I'd like to pull out and then get rid of that app; little actual use to me).
+
+What I need now is an actual sense of direction, maybe something resembling a plan. Otherwise this will go on forever and I'll never have a beer again.
+
+A key question: just how much work do I think is possible/realistic? Also, what's sensible? At a certain point we get firmly into flogging-dead-cheval territory. Yes, there are ways to make it better. But there are opportunity costs for other things I might want to write/do.
+
+Oooon the other hand... I do want to honour the book as much as I can. I do actually want to see if I can get it out there in some form that people might actually read.
+
+On point #1, I thought I'd already noted those down. Apparently not. So let's maybe start with that. I probably also need to just read through again and remind myself of anything in the structure that might have faded in my mind.
+
+### Notes from last read-through
+
+From the blue/red stripey notebook. Shit, I have to try and read my hand writing.
+
+-   Need better Ipai intro in first Hill section (think I've got plan for that, tying into making Tru better too).
+
+-   "Someone owns every concept and every story." ("Explain why seems dystopian but isn't," it says here!)
+
+-   More Tru: have him explain more about how exactly he got into debt. (Ties again to bigger aims for that char, the bet..) Who hard-sold him?
+
+-   Lab destruction - motivation is still tepid/opaque/out of the blue/out of place. Is it? All of that might need some rethinking, in combo with Tru. What actually are the stakes, is it possible to gain early understanding of why Hill might do that? (Or was it a pantsing too far?)
+
+    -   What would be compelling? What's whole hill structure/arc?
+
+-   p.84: Hill - "Work was destroyed". Can I think through a better thing to convey the hole she's in? What kind of hole is she actually in anyway? This is classic Princess falls on hard times type thing isn't it?
+
+    -   How to get the reader into Hill's head on this? Plus, does it actually make sense? (Did something else pre-date it, how does it fit with fam history?)

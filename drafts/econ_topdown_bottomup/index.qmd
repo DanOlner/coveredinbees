@@ -1,7 +1,7 @@
 ---
-title: "Econ top down bottom up"
+title: "From a Cornish tin mine to Sheffield Testing Works"
 date: "2025-10-21"
-categories: [econ]
+categories: [econ,history]
 ---
 
 ::: center
@@ -10,19 +10,9 @@ categories: [econ]
 
 ## Main
 
+On our summer hols, we visited the Levant copper and tin mine in Cornwall. The superbly knowledgeable guide created a picture in my mind of the miners' lives that got under my skin. The scale of the place at its peak - see the pic above of its cross section. When the miners had to use ladders, it would take an hour to climb to their shift and ninety minutes to get back (they weren't paid for that time).
+
 ## Planz / ramblinz
-
-### Getting going
-
-I don't want this just to be going back over the same things (see bits below). What's the actual plan for getting out of the office and digging into what's going on out there in Sheffield and Yorkshire? On how people are making their pay packet, or not? Time taken to do that's going to be interesting. But that's what this needs to be about.
-
-Just staring at the SY companies house numbers here: https://danolner.github.io/RegionalEconomicTools/miscdocs/SYLAs_CompaniesHouse2025_treemap.html
-
-Two things: how accurate? What's it missing? What can't we see?
-
-Blindspots/inaccuracies not just in the data, but in what it means for people's working lives in those jobs I'm counting, who those people are, what the history of the firms is. \[And issue of not seeing all firms - Bradford's most famous space tech firm no longer registered there\].
-
-One rabbit hole it could be good to go down to find answers: what I can find out about a Sheffield firm's role in assessing the metallurgy flaws in the Cornish man engine's failure. Strong start to a story there (and why history's so important).
 
 ### Some ways to approach this
 
@@ -31,6 +21,12 @@ This is a first bunch of thoughts. But one thing that would be good to do someti
 -   Start with the data, follow breadcrumbs, see where that story takes me when I dig deeper.
 
 So the Sheffield Testing Company story doesn't follow that pattern, but then it doesn't need to. That can be its own thing. I'd love to know what and who else they were testing for and how much has changed.
+
+..
+
+What kind of piece is this, and what do I want from it? I take the 'following breadcrumbs' point, but it might be nice to think about what focus I'd want and what the point is. I have ideas about trying to pitch pieces to the Shef Tribune. That would be something quite different to a free-form piece just exploring the sources.
+
+It's probably OK that I don't know what 'the story' is yet. The tricky part is allowing myself to explore freely without nagging voices: "What are the opportunity costs?? Why are you wasting time??"
 
 ## Snippets
 
@@ -135,3 +131,17 @@ Via muscletraining doc
 Something around deepening understanding of actual sector connections and growth by linking qual and quant, plus working with LA. Include GRIT style goals of understanding wider connections. \[We just don't seem to have data on this stuff...\] "Devol and networks offers opportunity to address the current lack of any direct knowledge of interlinkages and their role, and what role policy can make, if any... vs dominance of top down data of untested relevance."
 
 How exactly do firms cluster, in theory, and where in practice? How does that change over time – what forces bring them together, push them apart? What’s the relationship between productivity and economic mix? Is it enough to understand parts of the economic system, or is there something about the whole connective tissue – localised connections, international, how it all links into people’s lives where they live - that’s vital to get sight of? How pliable and steerable are any of these forces and what tools do we have to steer with?
+
+## CUTTINZ
+
+### Getting going
+
+I don't want this just to be going back over the same things (see bits below). What's the actual plan for getting out of the office and digging into what's going on out there in Sheffield and Yorkshire? On how people are making their pay packet, or not? Time taken to do that's going to be interesting. But that's what this needs to be about.
+
+Just staring at the SY companies house numbers here: https://danolner.github.io/RegionalEconomicTools/miscdocs/SYLAs_CompaniesHouse2025_treemap.html
+
+Two things: how accurate? What's it missing? What can't we see?
+
+Blindspots/inaccuracies not just in the data, but in what it means for people's working lives in those jobs I'm counting, who those people are, what the history of the firms is. \[And issue of not seeing all firms - Bradford's most famous space tech firm no longer registered there\].
+
+One rabbit hole it could be good to go down to find answers: what I can find out about a Sheffield firm's role in assessing the metallurgy flaws in the Cornish man engine's failure. Strong start to a story there (and why history's so important).
