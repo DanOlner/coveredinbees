@@ -8,6 +8,8 @@ categories: [econ]
 ![](){width="400px"}
 :::
 
+## Main
+
 ## Planz / ramblinz
 
 ### Getting going
@@ -50,11 +52,35 @@ The top 300 foot of the rod broke off and fell into the shaft.
 
 Interesting: fault identified in the bracket led to it being labelled an 'accident', owners not liable. Despite other places having much safer systems. So no compensation to families of dead and injured.
 
+..
+
 From the original Levant mine man engine report.
 
 <https://nmrs.org.uk/mines-map/accidents-disasters/cornwall-devon/accident-at-levant-tin-mine-1919/>
 
-### Sheffield Testing Company
+"The balanced load amounted to about 14 tons. When the shift of 150 men were on the rod their weight increased the unbalanced load to about 24 tons."
+
+150!!
+
+"A full investigation took place and the caps which were made of faggotted iron were tested at the Sheffield Testing Works was found to be not uniform in quality owing to the method of manufacture. The inquest and inquiry was opened in the Levant Mining Company’s Offices an occupied two full days and conducted by Mr. Edward Boase, H.M. Coroner for the Western District of the County. All interested parties were represented and the jury brought in the verdict that the men died due to-
+
+*Accidental Death, the cause being the breaking of a strap plate due to fatigue of a defective part of the metal."*
+
+..
+
+"Transport of copper ore to Penzance until the 1840s was by mule train, each mule carrying about three hundredweight (150 kilos) in two sacks slung across a wooden pack saddle. In 1836 the Reverend Symonds, visiting Levant, described how “*The ore……...is sent over the Channel to Swansea for smelting, in sacks about as the thick part of one's thigh.*” So Levant's first sale of 11 tons (a ton in this case being 21 cwt) would have required 77 mule loads to get it to Penzance. In fact the evidence indicates that the ore was taken to Penzance in sacks but shipped to Swansea loose."
+
+<https://www.penwithlocalhistorygroup.co.uk/on-this-day/?id=93>
+
+### Sheffield Testing Works
+
+[Here's the Companies House](https://find-and-update.company-information.service.gov.uk/company/00076383) entry for (now London registered) Element Materials Technology Sheffield. Note - list of older names includes the original Sheffield Testing Works, from 1903 when it was incorporated. Orig incorporation doc from 1903 [here](https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/o2t9W3-QKJujwj6ycPn_QUPMu2z6i6-9CDaiWiYDgw8/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAWRGBDBV3BN6SN32B%2F20251025%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251025T112224Z&X-Amz-Expires=60&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMiJGMEQCIHYC3X0ltTmFn97Mc2SVfpQC415J6rTy6lBxlRY9KO8qAiBZDpnZEoHnvfsO4kRjd8YEBmhXze7dygx4BYZm3yqVoiqBBAhyEAUaDDQ0OTIyOTAzMjgyMiIM1D6UekmMzq6OSB3jKt4DtdMjMd0PeDe36%2FhRRZo24KOCWrtl9NagD2HX8GmAdU8ak7onuP%2BWe2%2BSO%2BxYWdH489khNcLIq4WvjqfMJGijz7SeveCVtx6duFMxzYpqUGXX9xA2%2BvpogS5eQNW1CAI6Zzd19PxvSqS5kxwk1mFmR6%2BmAmrGDIuIBQIB3hNs3RpXOzE4978fGoeluTOKCKPTkM1wjl1HbTJJ3QRcrt9HiSlptFxejCEOEaNipKlx8QL%2FYI2%2FAMlwOwEpJ%2FZXCu8jV3lyPcihcc3QBBjqkKmprxKMmaGP%2FsOWV%2BLscCCCAyhLhZAzhhzTX7rKDvyx9l0E26zu4oPQBERlw3j%2BlT9NdMV%2FCu1oXHl5ucxUGODPZwPqd06e%2F0Zurr74Mi3Mfs7MM9gZGmKzHSCcLp8%2BMdHfop1xmlZ6j1KJon6jPugkof2dfXbWED0auTTeCbn4i%2Fs2u1DKO5uz3625JnPbiEo6wb%2Br6ohWxo9AsEkMB%2BEkKdVfjZLUJRYsMcagNl30s5CLpyW%2FDpWpZ%2FCWuePmd9FLej8S8Zj4XFUitqlWWUSiHNi71TpKBy4SAlj7I8Mkl9EWDKizYSWSa1vQbILcuSFa2e%2FFodOuSvl9ZgEOIOalNOUHyT2RGOkTMXgMc8ASITC%2Bm%2FLHBjqmARbFN9ioD5z9h7o4bSsyEpnEpVf5wy2Myiq%2BE9Mlb86Ov2KddvXoVDAryNMdaEW8T6pSX%2F41gItunkOC1WHBkD6yeYSAY2C%2FWWR3bgrl%2BK%2BxQgWeR9lx7udeNeS1OexJiu6diPeF1VJARabQxk6MTWtIlVA4dMbL7zNUwlAew0jiCS5%2FBq%2F14tV1tqCMP%2B5rcaq%2BDIwy5cPCKfZBqwYHJn9cytTL0SU%3D&X-Amz-SignedHeaders=host&response-content-disposition=inline%3Bfilename%3D%22companies_house_document.pdf%22&X-Amz-Signature=3b2131c993ad8139b939bd3810cb2ea3444dff46174b87ad07b9a1ad003c8c97). From that:
+
+The objects of the Company:
+
+"To carry on the business of general testers of the strength and quality of iron and steel and other metals, iron founders, mechanical engineers, and manufacturers of implements and other machinery, tool makers, brass founders, metal workers, boiler makers, millwrights, machinists, iron and steel converters, smiths, wood workers, builders, painters, metallurgists, electrical engineers, water supply engineers, carriers and merchants, and to buy, sell, manufacture, repair, convert, let on hire, and deal in machinery, implements, rolling stock, and hardward of all kinds, and to carry on any other business (manufacturing or otherwise) which may seem to the Company capable of being conveniently carried on in connection with the above, or otherwise calculated, directly or indirectly, to enhance the value of any of the Company's property and rights for the time being."
+
+..
 
 https://www.gracesguide.co.uk/Sheffield_Testing_Works
 
@@ -76,6 +102,12 @@ Element now owns it; though they bought Exova. Now Element is owned by Temasek H
 
 ..
 
+Pick of Sheffield Testing and Experimentation Works, 1928. Featuring many cows.
+
+<https://www.picturesheffield.com/frontend.php?action=printdetails&keywords=Ref_No_increment%3BEQUALS%3By00893&prevUrl=>
+
+..
+
 "For instance, nothing could be much more artistic than the view from the bridge across the Don at the Sheffield Testing Works. One does not generally associate with Sheffield, in one’s mind, anything quite so charming in its effect as this striking picture.
 
 "But if you enter one of the large manufactories for which Sheffield is famous, such as the Cyclops Works of Messrs. Charles Cammell and Co., or the Atlas Works of Messrs. John Brown and Co., or the Works of Messrs. Firth or Messrs. Vickers—names of firms which by no means exhaust the list—you will instantaneously receive a very different set of impressions. 
@@ -83,6 +115,14 @@ Element now owns it; though they bought Exova. Now Element is owned by Temasek H
 "It is not too much to say that the keynote of these impressions is one of terror."
 
 <https://decollected.net/novel/pearsons-main/sheffield/>
+
+..
+
+Later... now subsumed into UK firm Element Materials ([wikipedia](https://en.wikipedia.org/wiki/Element_Materials_Technology)), which has itself been conglomerated into a Singapore organisation, [Temasek holdings](https://en.wikipedia.org/wiki/Temasek_(company)). State owned multinational investment group. "While Temasek is largely considered as being a [sovereign wealth fund](https://en.wikipedia.org/wiki/Sovereign_wealth_fund "Sovereign wealth fund") (SWF), there are major differences as it invests mostly in equities, is the outright owner of many assets and companies."
+
+So it's now state-owned by Singapore. Wow. Net value as of March 2025 close to 0.5 TRILLION dollars... <https://www.temasek.com.sg/en/our-investments/our-portfolio>
+
+That portfolio site nicely shows what sectors it's spread across. UK-wise, 'major investments' only one other firm, and that one only 17% stake vs 88% for Element ("EM Topco LTD"). ("EM Topco Limited is the holding company for Element Materials Technology Group Limited.")
 
 ## BITS
 
