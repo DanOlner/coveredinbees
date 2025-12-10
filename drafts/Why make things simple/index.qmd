@@ -1,0 +1,25 @@
+---
+title: "Why make things simple"
+date: '2025-12-10'
+categories: [cib,brainsystems]
+---
+
+Douglas Adams [said](https://www.reddit.com/r/quotes/comments/btuvib/i_am_rarely_happier_than_when_spending_an_entire):
+
+> “I am rarely happier than when spending an entire day programming my computer to perform automatically a task that would otherwise take me a good ten seconds to do by hand.”
+
+This is exactly the kind of productivity thinking the country needs, I think. I've certainly been taking it to heart myself recently. I am currently trying to disassemble how I do things / why I'm doing them / whether there's any point in doing them / whether I should I just sit in my pants all day staring at the wall / what sort of task-environment-brain re-jigs might help answer any of those questions. 
+
+This is all part of joining in the currently very fashionable and exciting sport of "wondering what kind of brain I have and whether it really needs to have been so bloody difficult all this time."
+
+So rather than get on with, say, actually working on the [sci-fi book](https://coveredinbees.org/posts/i_wrote_a_scifi_book/) or writing about anything else, I've instead done the following:
+
+* Made this blog using [Quarto](https://quarto.org) in R and linked it to [buttondown](https://buttondown.com). Autonomy! Open source! No readers!
+* Spent a chunk of time reading about distributed knowledge systems, leading to
+* Moving to [Obsidian](https://obsidian.md) for all note-taking / thinking stuff (it can do lovely clever things like [collate tasks](https://publish.obsidian.md/tasks/Introduction) from all sources, and is generally just a delight to use, if you're already a bit markdown-leaning, and again lets you have transparent control over all your stuff).
+* Using the Digital Garden plugin to host a coveredinbees exobrain (what a super 2006 kind of word - see the ngram pic below, peaked in 2010 - though actually its first use was in 1970: 'Science and Technology in the World of the Future', Arthur B. Bronwell: "to carry out man's informational processing demands in much the same way that an exoskeleton carries out his powerful tasks.")
+
+
+
+
+![](exobrain_ngrams.png)

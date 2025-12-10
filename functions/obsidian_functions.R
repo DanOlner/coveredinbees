@@ -3,17 +3,39 @@ library(yaml)
 
 # Check the drafts_from_obsidian folder for any new entries
 # And make a quarto folder and formatted post from them if so
-make_obsidiandrafts = function(){
+# If make all, make em all again (might have updated file)
+# Or just make the named one
+make_obsidiandrafts = function(makeall = FALSE, makethisone = NULL){
   
   # Made the rds in the console
   # Check current filenames against it
-  lastsavedfilenames = readRDS('drafts/drafts_from_obsidian/listofalreadyprocessed.rds')
+  lastsavedfilenames = readRDS('drafts/drafts_from_obsidian/listofalreadyprocessed.rds') 
   
   currentfilenamesinfolder = list.files('drafts/drafts_from_obsidian/', pattern = "*.qmd")
   
   newfiles = currentfilenamesinfolder[!currentfilenamesinfolder %in% lastsavedfilenames]
   
-  for(i in newfiles) format_obsidianexport_forblog(str_split_i(i,"\\.",1))
+  # Make em all again (and record that we've done that, will add any new)
+  if(makeall){
+    
+    for(i in currentfilenamesinfolder) format_obsidianexport_forblog(str_split_i(i,"\\.",1))
+    saveRDS(currentfilenamesinfolder,'drafts/drafts_from_obsidian/listofalreadyprocessed.rds')
+    
+    
+    # Just compile a specific one
+  } else if(!is.null(makethisone)){
+    
+    format_obsidianexport_forblog(str_split_i(makethisone,"\\.",1))
+    
+    
+    # Or just do any new ones we find (the default)
+    # And keep a note of which compiled
+  } else {
+   
+    for(i in newfiles) format_obsidianexport_forblog(str_split_i(i,"\\.",1))
+    saveRDS(currentfilenamesinfolder,'drafts/drafts_from_obsidian/listofalreadyprocessed.rds')
+    
+  }
   
 }
 
