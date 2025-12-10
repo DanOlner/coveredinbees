@@ -50,6 +50,8 @@ If I try to chat to Gary though, I could do with being clear on what I want. Do 
 ## Random thoughts
 
 -   Wall in John's rooms should probably already be holographic. We go on to show it's a thing in the auction. Should be here too, right? Or give reasons why not. John can choose/ask to dial it back. But then segues into something else happening that means he knows it's getting in his brain. What would that be?
+-   Show what happens with parents. The final split, which is going to be after Hill gets into school - happens when she's young, remember, and may involve having to go to different place, be with dad. It could be drifting apart at the point. The red toy exchange happens after that - is hill too small there?
+-   Just reading hexaflex again. Am reminded - part of what makes John's thread work is being carried along with what John's going through, seeing this from this POV. That's compelling in itself, some internal justification for its existence. The difficult is the psychological realism. How could someone possibly react in a situation like that? How can that be written about?
 
 ## Figuring out changes #1 \[28.10.25\]
 
@@ -262,6 +264,8 @@ Across line, tru can make names up, other two refuse or become quiet. "Go on try
 
 Actually, expand this. Tie to point below about hierarchy in school itself. Tru illustrates point by making them play Band Names either side of the line. One addition: either an extra person, or probably Remzi doesn't have same privileges as Hill \[no he doesn't before Viva!\] - so actually it costs him on that side of the line. They don't know it's there. Remzi does.
 
+That's not a bad idea - viva can be Remzi getting extra privileges. Or Hill. Gonna have to piece that together.
+
 (Remzi makes sense as it'll give more opps for building in tensions between them, things to work from, rather than adding fourth person.)
 
 And it makes more sense why they always go outside line.
@@ -324,6 +328,8 @@ There's increasingly absolutely no way to separate AI output from human speech e
 
 The written word - did it die? Is that why writers' room so weird? It's why vivas happening.
 
+\[How does that tie into John reading the book / writing there?\]
+
 ..
 
 Bouncing off this: the "going into your mind to achieve some story goal" cliche. <https://youtu.be/4-pnloXSNrI?t=1787> How to do something with that that's actually interesting and useful and that does something good with the animal people? Hmmmm.
@@ -341,3 +347,7 @@ Including some thought on what's actually realistic and when to leave alone. Mos
     -   This needs more thought than I've given it. Hill wouldn't take a voice at face value. The simplenotes above cover a lot of this, but it might be an idea to make it foundational. E.g. the whole system is ostensibly built on protecting human IP, creation, provenance. And there's meant to be an impregnable line between that and automated systems. But... what have we got?
 
     -   E.g. bouncing off "used Bernard as a proxy, got far enough into the brain stuff to be able to use him": the skin, Ipai can argue, is exactly a way to deepen provenance, make sure any IP captures the true source's creativity in a way that protects them. Hill: you're the one that breached the entire system and you're trying to sell us the cure? \[That's a trope to IP too isn't it? I'll sell you the disease and the cure.\]
+
+-   The bet:
+
+    -   What is this going to be? How does it thread through the story? It starts with the outside line setup, and the band names but...

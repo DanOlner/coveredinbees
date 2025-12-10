@@ -1,0 +1,9 @@
+---
+title: "Why make things simple?"
+date: "2025-12-09"
+categories: [brainsystems, scifi]
+---
+
+Douglas Adams [said](https://www.reddit.com/r/quotes/comments/btuvib/i_am_rarely_happier_than_when_spending_an_entire):
+
+> “I am rarely happier than when spending an entire day programming my computer to perform automatically a task that would otherwise take me a good ten seconds to do by hand.”

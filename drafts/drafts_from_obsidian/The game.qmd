@@ -1,0 +1,22 @@
+---
+title: "The game"
+date: "2025-12-05"
+tags:
+  - socialoperatingsystems
+dg-publish: true
+
+---
+
+
+
+
+# Me on signal (2025): 
+
+"Two other thoughts on "the game": it demonstrates being able to build a simple model to predict a social outcome from a set of commonly agreed rules / heuristics. Says nothing about how those rules function psychologically or how they evolved, but can still show something key about how the resulting dynamic works. See also: modelling economic behaviour? Then, very very untested suggestion - the "magic" seen in Bali etc is same as "magic" of following market rules, both involving internalisation of heuristics over time. For market, see slow incremental move from physical guarantee (gold, no paper) to systems of trust / rules / heuristics.
+
+"Festival breakfasts: emergent phenomena? Where the boundary? Does our familiarity with language blind us to how often it enables emergent human interactions? [This may have been a stoned festival thought, around breakfast time, 15 or so years ago.]
+
+"Hayek shutting down the possibility of advancing knowledge on complex/emergent human systems (reflecting his view that scientists & engineers tend to lean authoritarian): "I do not believe that it is merely present ignorance, which we expect future advances in knowledge will remove, which makes a rational effort at central planning wholly impossible. I believe such a central utilization of necessarily widely dispersed knowledge of particular and temporary circumstances must forever remain impossible." From Knowledge, evolution and Society [lectures]"
+
+
+

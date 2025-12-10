@@ -8,9 +8,37 @@ categories: [econ,history]
 ![](){width="400px"}
 :::
 
-## Main
+## Things to do / thoughts
 
-On our summer hols, we visited the Levant copper and tin mine in Cornwall. The superbly knowledgeable guide created a picture in my mind of the miners' lives that got under my skin. The scale of the place at its peak - see the pic above of its cross section. When the miners had to use ladders, it would take an hour to climb to their shift and ninety minutes to get back (they weren't paid for that time).
+-   This is one of these: "Map the edges of what I don’t know: list questions, uncertainties, contradictions." Title can begin/end with "first thoughts / getting started / journal on..."
+
+## Bits and bobs
+
+On our summer hols, we visited the Levant copper and tin mine in Cornwall. The superbly knowledgeable guide created a picture in my mind of the miners' lives that got under my skin. The scale of the place at its peak - see the pic above of its cross section. When the miners had to use ladders, it would take an hour to climb down to their shift and ninety minutes to reach the surface again (they weren't paid for that time). Falling off those ladders through sheer exhaustion at the end of a shift was not uncommon.
+
+## Verbal VTT rambles:
+
+There's a [map from 1890](https://maps.nls.uk/geo/explore/#zoom=18.1&lat=53.38498&lon=-1.46272&layers=117746211&b=ESRIWorld&o=100) of the very centre of Sheffield where the testing works was originally based, partly on stilts over the river Don. It is surrounded on two sides by the Clyde and Mill Sands steel works. The opposite bank of the Don is lined with a huge number of slaughter houses, opposite that is the Alexandra Opera house (more music hall than opera). There are markets to the south and east, and the tendrils of rail and Canal connections reach right into all of it.
+
+::: center
+![](mapsheffieldcentre1890.png){width="400px"}
+:::
+
+This small detail that a single piece of faulty metal was sent all the way to Sheffield from Cornwall for testing intrigues me. It was happening at a time in Sheffield where there was both a tension and a joining of practical and scientific happening between steel producers metals and the emerging colleges and universities.
+
+The original articles of incorporation for Sheffield testing works are still available on the company's house website for download if you want to go and look at them. In his recent history, it's first been absorbed into a larger UK firm, moving off several times over this from the industrial Centre of Sheffield city into a more modern building further out in Rotherham. The majority stake in the UK firm is now owned by a Singapore sovereign wealth fund.
+
+The deep history of this firm is in no way captured in the single SIC code on companies's house: "74909 - Other professional, scientific and technical activities not elsewhere classified". I've scraped data for all live firms in companies house - there's a ton of incredible information hidden away in there, and using that you can make some fascinating maps of the UK's economic landscape. But it's important to remember how surface level this data is, what hidden history lies underneath. We can try and improve the accuracy of that data (for example, through tech analysis of firms websites to create more accurate industrial categories, as data city do). But that hidden history is still vital - not just a series of entertaining anecdotes, but an essential part of understanding why Sheffield's economy is the shape it is, how deep the roots of its connections go, and how we can build on them now.
+
+..
+
+I first heard about Sheffield Testing Works through a random Cornish connection. In 1919, a 16 foot metal rod was sent from the Levant tin and copper mine to be tested in Sheffield. It had failed, causing one of the worst mining disasters in British history.
+
+There are threads that run right from Sheffield and South Yorkshire's past into the present day that will play a role in where we go next. There's so much I don't know, so much to learn.
+
+Where did the original Sheffield testing Works get its DNA? What parts of that DNA still exist in the city? What did it come to be connected with?
+
+To understand the economic ecosystem of a place the data is one bit of the elephant...
 
 ## Planz / ramblinz
 

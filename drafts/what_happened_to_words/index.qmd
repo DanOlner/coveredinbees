@@ -8,9 +8,9 @@ categories: [sos]
 
 Is it possible for us to live happily in seemingly opposed word worlds? I'm thinking of 'two cultures' adjacent ideas. Lay out the different aspects, with the 'adaptive landscapes' piece prob my best take on it.
 
-What role truth, when language was never built for that? Parallel to the surprising success of maths in physics [where was I reading about that?]
+What role truth, when language was never built for that? Parallel to the surprising success of maths in physics \[where was I reading about that?\]
 
-[Cf. legal system where representing opposing realities is built in]
+\[Cf. legal system where representing opposing realities is built in\]
 
 Does it help if we see building sinews of a reality-body as only one facet of how language works? The Balinese case - one can be blind, destroy the other. How to not be blind?
 
@@ -20,34 +20,37 @@ But also then how to have some role for truth? Not a word science likes, of cour
 
 All to say, I do have some understanding of the breadth of skies our language allows us to flock together in. That includes understanding the overlap of scientific and state power and its Scottian ability to blot out what it can't or won't see.
 
-["The metaphorical value of this brief account of scientific production forestry is that it illustrates the dangers of dismembering an exceptionally complex and poorly understood set of relations and processes in order to isolate a single element of instrumental value."]
+\["The metaphorical value of this brief account of scientific production forestry is that it illustrates the dangers of dismembering an exceptionally complex and poorly understood set of relations and processes in order to isolate a single element of instrumental value."\]
 
 Cf. what's close to a perfectly simple example, though it has a lot of layers. Mel Gibson on Joe Rogan: melting ice can't increase sea levels. Look - when it melts in a glass, it doesn't go over the glass' edge, does it? (He looks very pleased with himself here.)
 
-What's great about this example: it doesn't have the complexity of some climate science (e.g. the greenhouse effect itself). The actual facts are super-easy to grasp, as John Stewart demonstrated several years earlier. 
+What's great about this example: it doesn't have the complexity of some climate science (e.g. the greenhouse effect itself). The actual facts are super-easy to grasp, as John Stewart demonstrated several years earlier.
 
 Yes, it's known that sea ice melt won't directly raise sea levels. The issue is ice melting on land going into the oceans.
 
-[That needs its own post.]
+\[That needs its own post.\]
 
-Margaret Atwood: “Words are our earliest human technology, like water they appear insubstantial, but like water they can generate tremendous power.” https://www.theguardian.com/books/2025/may/12/margaret-atwood-words-under-threat-freedom-to-publish-british-book-awards  	
-
-
+Margaret Atwood: “Words are our earliest human technology, like water they appear insubstantial, but like water they can generate tremendous power.” https://www.theguardian.com/books/2025/may/12/margaret-atwood-words-under-threat-freedom-to-publish-british-book-awards
 
 ## MAIN
 
 Words have been getting a bit of a kicking lately. LLMs are looming in everyone's vision right now. As a few people have put it (e.g. [here](https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals), [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/), [here](https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai)) humans just lost their monopoly on written language to robots that digested everything ever written, [Johnny-5 style](https://youtu.be/WnTKllDbu5o?t=42) (OK, not like that).
 
-But the machinery of language has been radically rewiring for decades, as [informatics](https://en.wikipedia.org/wiki/Informatics_(disambiguation)) have worked their way into every cell[^informatics].
+But the machinery of language has been radically rewiring for decades, as [informatics](https://en.wikipedia.org/wiki/Informatics_(disambiguation)) have worked their way into every cell[^1].
 
-Words are the sinews of social and scientific progress. Informatics has already upended older ways these sinews stay supple and strengthen. It's also opened us up to human-comms equivalents of distributed [denial of service attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack) - really nothing more sophisticated than a bunch of people constantly shouting nonsense while others in the room try to think. But it's been dismayingly effective ([climate example](https://www.nature.com/articles/s41598-024-74032-0) in Nature), and LLMs may be pouring petrol on that (see e.g. openAI [here](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/), [here](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf), also [here](https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/)). 
+[^1]: Strictly, informatics is "the *branch of study* that deals with the structure, properties, and communication of information and with means of storing or processing information" ([OED def](oed_informatics.png)) so it's wrong, but short. All other options are horrible e.g. [information ecosystem](https://mitpress.mit.edu/9780262640428/information-ecologies/) was about the best I could find, not great. Anything better?
 
-Science (and all knowledge flavours that accrete around universities and other research sites) is a still-surviving modernist structure built up layer by layer through argument and counter-argument[^1], a somehow-functioning mix of reason and chance. Science is struggling. It's trying to adapt to new tech, or through inertia failing to. It's shaken by Language DDOS (climate science under attack; 'sick of experts'; in the U.S., direct authoritarian attacks).
+Words are the sinews of social and scientific progress. Informatics has already upended older ways these sinews stay supple and strengthen. It's also opened us up to human-comms equivalents of distributed [denial of service attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack) - really nothing more sophisticated than a bunch of people constantly shouting nonsense while others in the room try to think. But it's been dismayingly effective ([climate example](https://www.nature.com/articles/s41598-024-74032-0) in Nature), and LLMs may be pouring petrol on that (see e.g. openAI [here](https://openai.com/index/disrupting-a-covert-iranian-influence-operation/), [here](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf), also [here](https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/)).
 
+Science (and all knowledge flavours that accrete around universities and other research sites) is a still-surviving modernist structure built up layer by layer through argument and counter-argument[^2], a somehow-functioning mix of reason and chance. Science is struggling. It's trying to adapt to new tech, or through inertia failing to. It's shaken by Language DDOS (climate science under attack; 'sick of experts'; in the U.S., direct authoritarian attacks).
+
+[^2]: A Bauman point, that one: modernism - "a ‘total’ order to be erected floor by floor in a protracted, consistent, purpose-guided effort of labour.” (Liquid modernity)
 
 ## BITS
 
-This is all deeply political, of course. Authoritarians want to be the sole source of truth, and twist words accordingly. The internet age suits them just fine. But there's a lot of weird Venn diagram overlap with its apparent opposite, libertarian truthiness[^libauth]. See Peter [Thiel talking about](https://archive.ph/PvS6B#selection-1971.190-1971.446) Eric Weinstein's [term](https://theportal.wiki/wiki/The_Distributed_Idea_Suppression_Complex_(The_DISC)), the 'Distributed Idea Suppression Complex'. As Thiel puts it, 'The internet has already begun our liberation from the DISC prison... the media organisations, bureaucracies, universities and government-funded NGOs that traditionally delimited public conversation".
+This is all deeply political, of course. Authoritarians want to be the sole source of truth, and twist words accordingly. The internet age suits them just fine. But there's a lot of weird Venn diagram overlap with its apparent opposite, libertarian truthiness[^3]. See Peter [Thiel talking about](https://archive.ph/PvS6B#selection-1971.190-1971.446) Eric Weinstein's [term](https://theportal.wiki/wiki/The_Distributed_Idea_Suppression_Complex_(The_DISC)), the 'Distributed Idea Suppression Complex'. As Thiel puts it, 'The internet has already begun our liberation from the DISC prison... the media organisations, bureaucracies, universities and government-funded NGOs that traditionally delimited public conversation".
+
+[^3]: this overlap shows up in other arguments about 'authoritarian nenoliberalism' going back to Thatcher/Pinochet/[Allende/Stafford](https://coveredinbees.org.archived.website/node/165.html), but this language stuff is possibly a different variation, not sure.
 
 Gramscian cultural hegemony comparisons [abound](https://www.reddit.com/r/ThePortal/comments/laigmm/bourdieu_and_the_disc_erics_neologisms/), so that's nothing new - and I'm not disagreeing that institutions use words to shape reality. What's striking is DISC's banality. You can see the same in [Musk's take on Twitter/X](https://www.businessinsider.com/elon-musk-twitter-fail-collective-superintelligence-2022-11):
 
@@ -55,7 +58,7 @@ Gramscian cultural hegemony comparisons [abound](https://www.reddit.com/r/ThePor
 
 It's that sufficient-condition "because of" that gets me. Nope, it's not intelligent because of those interactions. My cup of tea consists of *trillions* of bidirectional interactions. It has no smarts. This is exactly the same wilful error that Hayekian thinking is often guilty of (more-so than Hayek himself I think) - if you tear things down, a magic fairy dust will 'emerge' to replace it. And if you get in the way of that happening, you're part of the DISC / [woke mind virus](https://x.com/search?f=top&q=woke%20mind%20virus%20(from%3Aelonmusk)&src=typed_query).
 
-Intriguing that the outcome ends up following the grain of authoritarianism - that can be seen in the targets that both attack. Both have implicit theories of truth that seem so opposite: one sole, all-controlling source versus an emergent, everywhere-truth that no-one controls. But the effect on the machinery of knowledge generation is more or less identical. Compare to the famous Arendt quote from [Truth and Politics](https://idanlandau.com/wp-content/uploads/2014/12/arendt-truth-and-politics.pdf):  
+Intriguing that the outcome ends up following the grain of authoritarianism - that can be seen in the targets that both attack. Both have implicit theories of truth that seem so opposite: one sole, all-controlling source versus an emergent, everywhere-truth that no-one controls. But the effect on the machinery of knowledge generation is more or less identical. Compare to the famous Arendt quote from [Truth and Politics](https://idanlandau.com/wp-content/uploads/2014/12/arendt-truth-and-politics.pdf):
 
 > "The result of a consistent and total substitution of lies for factual truth is not that the lie will now be accepted as truth and truth be defamed as lies, but that *the sense by which we take our bearings in the real world - and the category of truth versus falsehood is among the mental means to this end - is being destroyed*."
 
@@ -64,17 +67,3 @@ That italiced chunk applies equally to both flavours of the right I'm talking ab
 Let's not push the parallel too far. Libertarians aren't into disappearing people off the street for what they say. But that's why the childishness of DISC thinking is so frustrating - it seems content to enable its opposite.
 
 So that's the world that LLMs have entered, that we find ourselves in now. The (actually very useful) idea of emergence is weaponised, paving the way for authoritarians to tediously re-prove Arendt over and over, with added trollfarms. To the extent that DISC thinking has a point - knowledge structures *are* dominated by white males on computers like me, by wealthy global institutions, of which universities are certainly members - they let the *actual* point go sailing past: addressing this means exactly the kind of 'how do we get more voices in here?' thinking most of them seem to loath.
-
-
-
- 
-
-[^informatics]: Strictly, informatics is "the *branch of study* that deals with the structure, properties, and communication of information and with means of storing or processing information" ([OED def](oed_informatics.png))    so it's wrong, but short. All other options are horrible e.g. [information ecosystem](https://mitpress.mit.edu/9780262640428/information-ecologies/) was about the best I could find, not great. Anything better?
-[^1]: A Bauman point, that one: modernism - "a ‘total’ order to be erected floor by floor in a protracted, consistent, purpose-guided effort of labour.” (Liquid modernity) 
-[^libauth]: this overlap shows up in other arguments about 'authoritarian nenoliberalism' going back to Thatcher/Pinochet/[Allende/Stafford](https://coveredinbees.org.archived.website/node/165.html), but this language stuff is possibly a different variation, not sure.
-
-
-
-
-
-
