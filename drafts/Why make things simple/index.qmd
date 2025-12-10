@@ -8,16 +8,41 @@ Douglas Adams [said](https://www.reddit.com/r/quotes/comments/btuvib/i_am_rarely
 
 > “I am rarely happier than when spending an entire day programming my computer to perform automatically a task that would otherwise take me a good ten seconds to do by hand.”
 
-This is exactly the kind of productivity thinking the country needs, I think. I've certainly been taking it to heart myself recently. I am currently trying to disassemble how I do things / why I'm doing them / whether there's any point in doing them / whether I should I just sit in my pants all day staring at the wall / what sort of task-environment-brain re-jigs might help answer any of those questions. 
+This is exactly the kind of productivity thinking the country needs, I think. I've certainly been taking it to heart myself recently. I am currently trying to disassemble how I do things / why I'm doing them / whether there's any point in doing them / whether I should I just sit in my pants all day eating pringles / what sort of task-environment-brain re-jigs might help answer any of those questions. 
 
-This is all part of joining in the currently very fashionable and exciting sport of "wondering what kind of brain I have and whether it really needs to have been so bloody difficult all this time."
+This is all part of joining in the currently very fashionable and exciting pastime of "wondering what kind of brain I have and whether it really needs to have been so bloody difficult all this time."
 
 So rather than get on with, say, actually working on the [sci-fi book](https://coveredinbees.org/posts/i_wrote_a_scifi_book/) or writing about anything else, I've instead done the following:
 
 * Made this blog using [Quarto](https://quarto.org) in R and linked it to [buttondown](https://buttondown.com). Autonomy! Open source! No readers!
-* Spent a chunk of time reading about distributed knowledge systems, leading to
+* Spent a chunk of time reading about distributed knowledge systems, leading to -->
 * Moving to [Obsidian](https://obsidian.md) for all note-taking / thinking stuff (it can do lovely clever things like [collate tasks](https://publish.obsidian.md/tasks/Introduction) from all sources, and is generally just a delight to use, if you're already a bit markdown-leaning, and again lets you have transparent control over all your stuff).
-* Using the Digital Garden plugin to host a coveredinbees exobrain (what a super 2006 kind of word - see the ngram pic below, peaked in 2010 - though actually its first use was in 1970: 'Science and Technology in the World of the Future', Arthur B. Bronwell: "to carry out man's informational processing demands in much the same way that an exoskeleton carries out his powerful tasks.")
+* Using the [Digital Garden plugin](https://dg-docs.ole.dev) to host [exobrain.coveredinbees.org](https://exobrain.coveredinbees.org) via Vercel autopushing to Github, setting a YAML property to dg-publish for any md file I want live (what a super, pretentious 2006 word 'exobrain' is; see the [ngram](https://books.google.com/ngrams/graph?content=exobrain%2Cdigital+garden&year_start=1960&year_end=2022&corpus=en&smoothing=3&case_insensitive=false), pic below also - it actually peaked in 2010, though its first ngrams appearance is in 1970, Arthur B. Bronwell's 'Science and Technology in the World of the Future': "to carry out man's informational processing demands in much the same way that an exoskeleton carries out his powerful tasks.")
+* Then there's a nice little [obsidian-to-quarto plugin](https://github.com/AndreasThinks/obsidian-to-quarto-exporter). Why do that, you ask? Good question. Because just writing in Quarto, I'd have to manually add exobrain URLs myself, which would take me a good ten seconds by hand, so instead [I (and chatGPT) made some R functions](https://github.com/DanOlner/coveredinbees/blob/master/functions/obsidian_functions.R) that check for Obsidian exports and, if present, convert all Obsidian internal links to exobrain URL links, as well as reformatting the YAML so the tags work correctly. So for example I can [Use Obsidian's own internal link system](https://exobrain.coveredinbees.org/game-money-magic) to link directly to the exobrain.
+
+So now the process of writing a blog post couldn't be simpler. I just (1) write it in Obsidian; (2) use the to-Quarto export function; (3) in RStudio, run the R function to convert exobrain links and YAML and move the files; (4) when out of draft state, move it manually to the posts folder (that could be streamlined); (5) run 'render' on that final post in RStudio so the HTML goes to the docs folder; (6) git stage/commit and push in Gitraken to get it live on coveredinbees. Done! Just like that. Substack schmubschmack.
+
+OK. I am reminded a little of Adam Steltzner saying, of the Mars Curiosity Rover's landing plan (recorded before he knew whether it would succeed, in one of my [all time favourite youtube videos](https://www.youtube.com/watch?v=Ki_Af_o9Q9s)):
+
+> "When people look at it, it looks crazy. That's a very natural thing. Sometimes when *we* look at it, it looks crazy. *It is* the result of reasoned engineering thought. But it still looks crazy."
+
+So is there reasoned engineering thought behind all this? Hahaha. Not exactly. It's an experiment. I'm obviously getting exactly the same dopamine hits Douglas Adams gets from all this ridiculous tinkering. But anything else?
+
+Entirely perversely given what I've just described, it might well help reduce barriers, reduce the need for me to think about things, allow the kind of "just writing" that fits with the connections I'd like to make. Not a new thought - [here's a nice writeup](https://jzhao.xyz/posts/networked-thought) of the general digital garden idea, it's in that ballpark.
+
+I want all this stuff together though. I want that ability to link... do some links!
+
+Strip out CiB tags.
+
+I can also add in follow up thoughts that'll appear in the master task list:
+
+- [ ] Here's an example.
+
+
+
+
+
+
 
 
 

@@ -55,6 +55,9 @@ format_obsidianexport_forblog = function(shortfilename){
   # Check for duplicate tags, keep uniques
   uniquetags = unique(yaml[[1]]$tags)
   
+  # Remove cib tag - that's just for grouping in Obsidian
+  uniquetags = uniquetags[!uniquetags %in% "cib"]
+  
   # Keep only title and date
   outputyaml = yaml[[1]][1:2]
   
