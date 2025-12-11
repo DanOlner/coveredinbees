@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-12-10">
+<meta name="dcterms.date" content="2025-12-12">
 
-<title>Why make things simple – COVEREDINBEES / A hive of TLDR &amp; villainy</title>
+<title>Why make things simple / the Douglas Adams principle – COVEREDINBEES / A hive of TLDR &amp; villainy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -133,7 +133,19 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
-<p>subscribe.html</p>
+<form action="
+          https://buttondown.com/api/emails/embed-subscribe/danolner
+         " method="post" class="form-label mt-4">
+  <label for="email">Email ⇉</label>
+  <input type="email" name="email" placeholder="" class="form-control" id="exampleInputEmail1">
+  <input type="hidden" value="1" name="embed">
+  <input type="submit" value="Subscribe" class="btn btn-primary">
+  <p>
+    <a href="https://buttondown.com" target="_blank">
+      Powered by Buttondown.
+    </a>
+  </p>
+</form>
 </div></div>
         
     </div>
@@ -142,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Why make things simple</h1>
+<h1 class="title">Why make things simple / the Douglas Adams principle</h1>
   <div class="quarto-categories">
     <div class="quarto-category">brainsystems</div>
   </div>
@@ -156,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 10, 2025</p>
+      <p class="date">December 12, 2025</p>
     </div>
   </div>
   
@@ -172,35 +184,42 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>“I am rarely happier than when spending an entire day programming my computer to perform automatically a task that would otherwise take me a good ten seconds to do by hand.”</p>
 </blockquote>
-<p>This is exactly the kind of productivity thinking the country needs, I think. I’ve been trying to follow his example recently. I am currently trying to disassemble how I do things / why I’m doing them / whether there’s any point in doing them / whether I should I just sit in my pants all day eating pringles / what sort of task-environment-brain re-jigs might help answer any of those questions.</p>
-<p>This is all part of joining in the currently very fashionable and exciting pastime of “wondering what kind of brain I have and whether it really needs to have been so bloody difficult all this time.”</p>
-<p>So rather than get on with, say, actually working on the <a href="https://coveredinbees.org/posts/i_wrote_a_scifi_book/">sci-fi book</a> or writing about anything concrete, I’ve instead done the following:</p>
+<p>This is exactly the kind of productivity thinking the country needs, I think. I’ve been trying to follow his example recently. I am trying to disassemble how I do things / why I’m doing them / whether I should I just sit in my pants all day eating pringles / what sort of task-environment-brain re-jigs might help answer any of those questions. This is leading to many “all day programming for a ten second task” moments.</p>
+<p>It’s all part of joining in the currently very fashionable and exciting pastime of “wondering what kind of brain I have and whether it really needs to have been so bloody difficult all this time.” (Analogy: as a left-hander, if I’d always been made to use my right hand, as was the case pre 1950ish.) Coming at it like a design problem, prototyping things that may end up on the scrapheap, is the only way.</p>
+<p>So rather than get on with, say, actually working on the <a href="https://coveredinbees.org/posts/i_wrote_a_scifi_book/">sci-fi book</a> or writing about anything concrete, I’ve done the following:</p>
 <ul>
 <li>Made this blog using <a href="https://quarto.org">Quarto</a> in R and linked it to <a href="https://buttondown.com">buttondown</a> for subscribers. Autonomy! Open source! No readers!</li>
 <li>Read a bunch about distributed knowledge systems and brain diversity, leading to –&gt;</li>
-<li>Moving to <a href="https://obsidian.md">Obsidian</a> for all note-taking / thinking stuff (it can do lovely clever things like <a href="https://publish.obsidian.md/tasks/Introduction">collate tasks</a> from all sources, and is generally just a delight to use, if you’re already a bit markdown-leaning, and again it lets you have transparent control over all your stuff).</li>
-<li>Using the <a href="https://dg-docs.ole.dev">Digital Garden plugin</a> to host <a href="https://exobrain.coveredinbees.org">exobrain.coveredinbees.org</a> via Vercel autopushing to Github, setting a YAML property to dg-publish for any md file I want live (what a super, pretentious two-decades-old-type word ‘exobrain’ is; see the <a href="https://books.google.com/ngrams/graph?content=exobrain%2Cdigital+garden&amp;year_start=1960&amp;year_end=2022&amp;corpus=en&amp;smoothing=3&amp;case_insensitive=false">ngram</a>, pic below also - it actually peaked in 2010, though its first ngrams appearance is in 1970, Arthur B. Bronwell’s ‘Science and Technology in the World of the Future’: “to carry out man’s informational processing demands in much the same way that an exoskeleton carries out his powerful tasks.”)</li>
-<li>Then there’s a nice little <a href="https://github.com/AndreasThinks/obsidian-to-quarto-exporter">obsidian-to-quarto plugin</a>. Err why? Because just writing in Quarto, I’d have to manually add exobrain URLs myself, which would take me a good ten seconds by hand, so instead <a href="https://github.com/DanOlner/coveredinbees/blob/master/functions/obsidian_functions.R">I (and chatGPT) made some R functions</a> that check for Obsidian exports and, if present, convert all Obsidian internal links to exobrain URLs, as well as reformatting the YAML so the tags work correctly. So for example I can <a href="https://exobrain.coveredinbees.org/game-money-magic">Use Obsidian’s own internal link system</a> to connect to exobrain bits.</li>
+<li>Moving to <a href="https://obsidian.md">Obsidian</a> for all note-taking / thinking stuff (it’s a delight to use, if you’re already a bit markdown-leaning, and again it lets you have transparent control over all your stuff; it can also do lovely clever things like <a href="https://publish.obsidian.md/tasks/Introduction">collate tasks</a> from all sources).</li>
+<li>Using Obsidian’s <a href="https://dg-docs.ole.dev">Digital Garden plugin</a> to host <a href="https://exobrain.coveredinbees.org">exobrain.coveredinbees.org</a> via Vercel autopushing to Github, setting a YAML property to dg-publish for any md file I want live (what a super, pretentious two-decades-old-type word ‘exobrain’ is: see the <a href="https://books.google.com/ngrams/graph?content=exobrain%2Cdigital+garden&amp;year_start=1960&amp;year_end=2022&amp;corpus=en&amp;smoothing=3&amp;case_insensitive=false">ngrams</a>, pic below also - it actually peaked in 2010, though its first ngrams appearance is in 1970, Arthur B. Bronwell’s ‘Science and Technology in the World of the Future’: “to carry out man’s informational processing demands in much the same way that an exoskeleton carries out his powerful tasks.”)</li>
+<li>Then there’s a nice little <a href="https://github.com/AndreasThinks/obsidian-to-quarto-exporter">obsidian-to-quarto plugin</a>. Err why? Because just blogging in Quarto, I’d have to manually add exobrain URLs myself, which would take me a good ten seconds by hand, so instead <a href="https://github.com/DanOlner/coveredinbees/blob/master/functions/obsidian_functions.R">I (and chatGPT) made some R functions</a> that check for Obsidian exports and, if present, convert all Obsidian internal links to exobrain URLs, as well as reformatting the YAML so the tags work correctly. So for example I can use Obsidian’s own internal link system (which has very smooth autofind) to connect to exobrain bits (e.g.&nbsp;a <a href="https://exobrain.coveredinbees.org/game-money-magic">list of starter questions</a> connecting magic, the money system and ‘the game’).</li>
 </ul>
-<p>So now the process of writing a blog post couldn’t be simpler. I just (1) write it in Obsidian as I’m doing now; (2) use the Obsidia-to-Quarto export function; (3) in RStudio, run the R function to convert exobrain links and YAML and move the files; (4) when in a state I’m happy to publish, move it manually to the posts folder (that could be streamlined); (5) run ‘render’ on that final post in RStudio so the HTML goes to the docs folder; (6) git stage/commit and push in Gitraken to get it live on coveredinbees. Done! Just like that. Substack schmubschmack.</p>
-<p>Sigh. I am reminded a little of Jazz-student turned NASA entry/descent/landing lead <a href="https://en.wikipedia.org/wiki/Adam_Steltzner">Adam Steltzner</a> saying, of the Mars Curiosity Rover’s landing plan (recorded before he knew whether it would succeed, in one of my <a href="https://www.youtube.com/watch?v=Ki_Af_o9Q9s">all time favourite youtube videos</a>):</p>
+<p>So now the process of writing a blog post couldn’t be simpler. I just (1) write it in Obsidian as I’m doing now; (2) use the Obsidian-to-Quarto export function; (3) in RStudio, run the R function to convert exobrain links and YAML and move the files; (4) when in a state I’m happy to publish, move it manually to the posts folder (that could be streamlined); (5) run ‘render’ on that final post in RStudio so the HTML goes to the docs folder; (6) git stage/commit and push in Gitraken to get it live on coveredinbees. Done! Just like that. Substack schmubschmack.</p>
+<p>Sigh. I am reminded a little of the Mars Curiosity Rover’s landing plan (in one of my <a href="https://www.youtube.com/watch?v=Ki_Af_o9Q9s">all time favourite youtube videos</a>, recorded before they knew whether it would succeed). Aim for a flat spot, use Mars’ atmosphere to slow down a little (it’s 1% the density of Earth’s), use a huge parachute, release a cap to view the ground, drop the rover carried by its own rocket stage because none of that can slow it down enough, but you can’t use rockets to land because the dust will bugger the rover’s systems - so hover above the ground and lower it on four wires, and then boost the rocket stage off to the side so it doesn’t crash on top of the now-on-Mars Curiosity. Oh and do all that entirely automatically because signals to Mars were a 14 minute round trip at the time. Done! Just like that. Elon Schmelon.</p>
+<p>Here’s Jazz-student turned NASA entry/descent/landing lead <a href="https://en.wikipedia.org/wiki/Adam_Steltzner">Adam Steltzner</a>:</p>
 <blockquote class="blockquote">
 <p>“When people look at it, it looks crazy. That’s a very natural thing. Sometimes when <em>we</em> look at it, it looks crazy. <em>It is</em> the result of reasoned engineering thought. But it still looks crazy.”</p>
 </blockquote>
-<p>So is there reasoned engineering thought behind all this? Hahaha nope. This is taking little steps, inching forward, playing, trying new things, seeing what goes with the grain, what rubs the wrong way. I dunno, maybe that’s a bit how reasoned engineering thought works.</p>
-<p>I’m obviously getting those sweet sweet Douglas Adams Dopamine Hits from all this ridiculous tinkering. But also… it’s not entirely ridiculous. The tinkering is making links all the time. Not a new thought - <a href="https://jzhao.xyz/posts/networked-thought">here’s a nice writeup</a> of the general digital garden idea, it’s in that ballpark.</p>
-<p>One of the grains I’m following: letting myself not know what words are for, trying to disassemble it too. One thing that’s led to is (see, nice exobrain link) a <a href="https://exobrain.coveredinbees.org/list-of-writing-questions">List of writing questions</a>. In that, there’s a long list of different <a href="https://exobrain.coveredinbees.org/list-of-writing-questions#functions-of-writing-expanding-the-available-options">functions of writing</a> - within that, the typical kinds of narrow professional functions are in the minority. There’s stuff for my own brain and emotions; connection; experimentation; identity building.</p>
-<p>From that somewhat solipsistic view, personal writing segues into the bigger veins and arteries we all share. That - everything else - is too big to Write About. Can I pick away at it here? I <a href="../../drafts/what_happened_to_words/index.html">tried “Writing” about it</a> - it’s got some of the ideas there, but… too much. Let’s see if it’s possible to pick away at it and connect on here. How to start at such a turning point for language, when humans have lost their monopoly on the written word (people pointing that out <a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>), when whatever collective systems we had for steering towards truth are under well-funded, sustained attack?</p>
-<p>Let’s add that one to the list for later:</p>
+<p>Reasoned engineering thought, though, takes a <em>lot</em> of testing. The problem with testing human brains, or at least mine, is the tendency to default to “you’re just a useless idiot” and stop at that, rather than taking little steps, inching forward, playing, trying new things, seeing what goes with the grain, what rubs against it. It needs resetting daily as the self-blame module can be deeply wired in - previous perceived failures <em>obviously</em> a personal failure, says the module, rather than allowing consideration of the whole you/task/environment setup<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
+<p>So while I’m obviously getting those sweet sweet Douglas Adams Dopamine Hits from all this ridiculous tinkering, it’s… not entirely ridiculous. None of this is novel - <a href="https://jzhao.xyz/posts/networked-thought">here’s a nice writeup</a> of the general digital garden idea, it’s in that ballpark. The world is littered with failed ‘Systems That Will Solve Everything’, but maybe there’s merit in this kind of slow, tentative gardening.</p>
+<p>All the ‘digital garden’ tech is allowing is easy linkage - it’s been described as ‘your own personal wikipedia’. But replicating existing links would seem pointless, no? So the test here is: can it be used to add little modular chunks, questions, connections? In a way that isn’t just building an ideas <a href="https://muppet.fandom.com/wiki/Oubliette">oubliette</a>? What, if anything, can it really add?</p>
+<p>I’m finding that when you start playing with the task/environment/self parts, they all start affecting each other in unexpected ways. One of the most intriguing: what it’s doing to what I think words are actually <em>for</em>. That’s led to a <a href="https://exobrain.coveredinbees.org/list-of-writing-questions">List of writing questions</a> (see, nice exobrain link; sorry, some LLM assistance in that list). There’s a long section on different <a href="https://exobrain.coveredinbees.org/list-of-writing-questions#functions-of-writing-expanding-the-available-options">functions of writing</a> where “narrow professional words” are in the minority. There’s also writing for one’s own brain/ psychology/emotions; connection; experimentation; identity building…</p>
+<p>That rather solipsistic view segues into bigger veins and arteries we all share. I <a href="../../drafts/what_happened_to_words/index.html">tried “Writing” about that</a> - it’s got some of the ideas there, but… too much. Let’s see if it’s possible to pick away at it more slowly. It feels like a very specific historical moment for language, when humans have lost their monopoly on the written word (people pointing that out <a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>), when the collective lighthouses we used to steer away from the Deathly Rocks of Bullshit are under well-funded, sustained attack.</p>
+<p>That’s enough to make it feel like finding your own words is pointless. Working theory: it isn’t, it’s more important than ever. So let’s add that one to the list for later:</p>
 <ul class="task-list">
 <li><label><input type="checkbox">How to fix words so they help build a better world, not tear down our shared realities? Due 📅 2025-12-16 …</label></li>
 </ul>
-<p>And let blog posts ramble on and then end without a satisfying or convincing argument, mid-sente—-</p>
 <p><img src="exobrain_ngrams.png" class="img-fluid"></p>
 
 
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Hat tip to my partner Helen for bringing her OT background to bear.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
