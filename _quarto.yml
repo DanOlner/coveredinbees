@@ -9,6 +9,7 @@ website:
   site-url: https://coveredinbees.org
   description: "A hive of TLDR and villainy"
   margin-header: subscribe.html
+  favicon: cib-favicon-16x16.png
   navbar:
     logo: images/cib_stripes.png
     right:
