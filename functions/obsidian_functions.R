@@ -116,6 +116,7 @@ format_obsidianexport_forblog = function(shortfilename){
 # Both chatGPT generated functions below
 
 convert_obsidian_links <- function(text, base_url, note_slug = NULL) {
+  
   # Ensure base_url doesn't end with a trailing slash
   base_url <- sub("/+$", "", base_url)
   
@@ -197,7 +198,8 @@ convert_obsidian_links <- function(text, base_url, note_slug = NULL) {
       }
       
       # Build URL
-      url <- paste0(base_url, "/", note_slug_path)
+      # Include trailing slash at end - it gets to permalink and will include graph
+      url <- paste0(base_url, "/", note_slug_path, "/")
       if (!is.null(heading) && nzchar(heading)) {
         anchor <- slugify(heading)
         if (nzchar(anchor)) {
