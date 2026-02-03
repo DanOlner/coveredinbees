@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-12-12">
+<meta name="dcterms.date" content="2025-12-10">
 
-<title>Why make things simple / the Douglas Adams principle – COVEREDINBEES / A hive of TLDR &amp; villainy</title>
+<title>Why make things simple – COVEREDINBEES / A hive of TLDR &amp; villainy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -105,6 +105,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="https://exobrain.coveredinbees.org"> 
 <span class="menu-text">exobrain</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://danolner.github.io"> 
+<span class="menu-text">data stuff</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/DanOlner"> <i class="bi bi-github" role="img">
 </i> 
@@ -161,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Why make things simple / the Douglas Adams principle</h1>
+<h1 class="title">Why make things simple</h1>
   <div class="quarto-categories">
     <div class="quarto-category">brainsystems</div>
   </div>
@@ -175,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 12, 2025</p>
+      <p class="date">December 10, 2025</p>
     </div>
   </div>
   
@@ -199,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Read a bunch about distributed knowledge systems and brain diversity, leading to –&gt;</li>
 <li>Moving to <a href="https://obsidian.md">Obsidian</a> for all note-taking / thinking stuff (it’s a delight to use, if you’re already a bit markdown-leaning, and again it lets you have transparent control over all your stuff; it can also do lovely clever things like <a href="https://publish.obsidian.md/tasks/Introduction">collate tasks</a> from all sources).</li>
 <li>Using Obsidian’s <a href="https://dg-docs.ole.dev">Digital Garden plugin</a> to host <a href="https://exobrain.coveredinbees.org">exobrain.coveredinbees.org</a> via Vercel autopushing to Github, setting a YAML property to dg-publish for any md file I want live (what a super, pretentious two-decades-old-type word ‘exobrain’ is: see the <a href="https://books.google.com/ngrams/graph?content=exobrain%2Cdigital+garden&amp;year_start=1960&amp;year_end=2022&amp;corpus=en&amp;smoothing=3&amp;case_insensitive=false">ngrams</a>, pic below also - it actually peaked in 2010, though its first ngrams appearance is in 1970, Arthur B. Bronwell’s ‘Science and Technology in the World of the Future’: “to carry out man’s informational processing demands in much the same way that an exoskeleton carries out his powerful tasks.”)</li>
-<li>Then there’s a nice little <a href="https://github.com/AndreasThinks/obsidian-to-quarto-exporter">obsidian-to-quarto plugin</a>. Err why? Because just blogging in Quarto, I’d have to manually add exobrain URLs myself, which would take me a good ten seconds by hand, so instead <a href="https://github.com/DanOlner/coveredinbees/blob/master/functions/obsidian_functions.R">I (and chatGPT) made some R functions</a> that check for Obsidian exports and, if present, convert all Obsidian internal links to exobrain URLs, as well as reformatting the YAML so the tags work correctly. So for example I can use Obsidian’s own internal link system (which has very smooth autofind) to connect to exobrain bits (e.g.&nbsp;a <a href="https://exobrain.coveredinbees.org/game-money-magic">list of starter questions</a> connecting magic, the money system and ‘the game’).</li>
+<li>Then there’s a nice little <a href="https://github.com/AndreasThinks/obsidian-to-quarto-exporter">obsidian-to-quarto plugin</a>. Err why? Because just blogging in Quarto, I’d have to manually add exobrain URLs myself, which would take me a good ten seconds by hand, so instead <a href="https://github.com/DanOlner/coveredinbees/blob/master/functions/obsidian_functions.R">I (and chatGPT) made some R functions</a> that check for Obsidian exports and, if present, convert all Obsidian internal links to exobrain URLs, as well as reformatting the YAML so the tags work correctly. So for example I can use Obsidian’s own internal link system (which has very smooth autofind) to connect to exobrain bits (e.g.&nbsp;a <a href="https://exobrain.coveredinbees.org/game-money-magic/">list of starter questions</a> connecting magic, the money system and ‘the game’).</li>
 </ul>
 <p>So now the process of writing a blog post couldn’t be simpler. I just (1) write it in Obsidian as I’m doing now; (2) use the Obsidian-to-Quarto export function; (3) in RStudio, run the R function to convert exobrain links and YAML and move the files; (4) when in a state I’m happy to publish, move it manually to the posts folder (that could be streamlined); (5) run ‘render’ on that final post in RStudio so the HTML goes to the docs folder; (6) git stage/commit and push in Gitraken to get it live on coveredinbees. Done! Just like that. Substack schmubschmack.</p>
 <p>Sigh. I am reminded a little of the Mars Curiosity Rover’s landing plan (in one of my <a href="https://www.youtube.com/watch?v=Ki_Af_o9Q9s">all time favourite youtube videos</a>, recorded before they knew whether it would succeed). Aim for a flat spot, use Mars’ atmosphere to slow down a little (it’s 1% the density of Earth’s), use a huge parachute, release a cap to view the ground, drop the rover carried by its own rocket stage because none of that can slow it down enough, but you can’t use rockets to land because the dust will bugger the rover’s systems - so hover above the ground and lower it on four wires, and then boost the rocket stage off to the side so it doesn’t crash on top of the now-on-Mars Curiosity. Oh and do all that entirely automatically because signals to Mars were a 14 minute round trip at the time. Done! Just like that. Elon Schmelon.</p>
@@ -210,7 +214,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Reasoned engineering thought, though, takes a <em>lot</em> of testing. The problem with testing human brains, or at least mine, is the tendency to default to “you’re just a useless idiot” and stop at that, rather than taking little steps, inching forward, playing, trying new things, seeing what goes with the grain, what rubs against it. It needs resetting daily as the self-blame module can be deeply wired in - previous perceived failures <em>obviously</em> a personal failure, says the module, rather than allowing consideration of the whole you/task/environment setup<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</p>
 <p>So while I’m obviously getting those sweet sweet Douglas Adams Dopamine Hits from all this ridiculous tinkering, it’s… not entirely ridiculous. None of this is novel - <a href="https://jzhao.xyz/posts/networked-thought">here’s a nice writeup</a> of the general digital garden idea, it’s in that ballpark. The world is littered with failed ‘Systems That Will Solve Everything’, but maybe there’s merit in this kind of slow, tentative gardening.</p>
 <p>All the ‘digital garden’ tech is allowing is easy linkage - it’s been described as ‘your own personal wikipedia’. But replicating existing links would seem pointless, no? So the test here is: can it be used to add little modular chunks, questions, connections? In a way that isn’t just building an ideas <a href="https://muppet.fandom.com/wiki/Oubliette">oubliette</a>? What, if anything, can it really add?</p>
-<p>I’m finding that when you start playing with the task/environment/self parts, they all start affecting each other in unexpected ways. One of the most intriguing: what it’s doing to what I think words are actually <em>for</em>. That’s led to a <a href="https://exobrain.coveredinbees.org/list-of-writing-questions">List of writing questions</a> (see, nice exobrain link; sorry, some LLM assistance in that list). There’s a long section on different <a href="https://exobrain.coveredinbees.org/list-of-writing-questions#functions-of-writing-expanding-the-available-options">functions of writing</a> where “narrow professional words” are in the minority. There’s also writing for one’s own brain/ psychology/emotions; connection; experimentation; identity building…</p>
+<p>I’m finding that when you start playing with the task/environment/self parts, they all start affecting each other in unexpected ways. One of the most intriguing: what it’s doing to what I think words are actually <em>for</em>. That’s led to a <a href="https://exobrain.coveredinbees.org/list-of-writing-questions/">List of writing questions</a> (see, nice exobrain link; sorry, some LLM assistance in that list). There’s a long section on different <a href="https://exobrain.coveredinbees.org/list-of-writing-questions/#functions-of-writing-expanding-the-available-options">functions of writing</a> where “narrow professional words” are in the minority. There’s also writing for one’s own brain/ psychology/emotions; connection; experimentation; identity building…</p>
 <p>That rather solipsistic view segues into bigger veins and arteries we all share. I <a href="../../drafts/what_happened_to_words/index.html">tried “Writing” about that</a> - it’s got some of the ideas there, but… too much. Let’s see if it’s possible to pick away at it more slowly. It feels like a very specific historical moment for language, when humans have lost their monopoly on the written word (people pointing that out <a href="https://www.spglobal.com/en/research-insights/special-reports/language-modeling-the-fundamentals">here</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11137430/">here</a>, <a href="https://bigwildmindmachine.substack.com/p/the-ny-times-vs-openai">here</a>), when the collective lighthouses we used to steer away from the Deathly Rocks of Bullshit are under well-funded, sustained attack.</p>
 <p>That’s enough to make it feel like finding your own words is pointless. Working theory: it isn’t, it’s more important than ever. So let’s add that one to the list for later:</p>
 <ul class="task-list">

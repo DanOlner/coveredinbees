@@ -16,6 +16,8 @@ website:
       - about.qmd
       - text: 'exobrain'
         href: https://exobrain.coveredinbees.org
+      - text: 'data stuff'
+        href: https://danolner.github.io
       - icon: github
         href: https://github.com/DanOlner
       - icon: linkedin
