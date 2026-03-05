@@ -7,6 +7,9 @@ library(yaml)
 # Or just make the named one
 make_obsidiandrafts = function(makeall = FALSE, makethisone = NULL){
   
+  library(tidyverse)
+  library(yaml)
+  
   # Made the rds in the console
   # Check current filenames against it
   lastsavedfilenames = readRDS('drafts/drafts_from_obsidian/listofalreadyprocessed.rds') 

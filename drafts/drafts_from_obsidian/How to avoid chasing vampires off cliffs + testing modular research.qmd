@@ -1,0 +1,123 @@
+---
+title: "How to avoid chasing vampires off cliffs + testing modular research"
+date: "2026-02-16"
+tags:
+  - regecon
+  - writingexperiment
+  - cib
+
+---
+
+Things to add:
+
+The use of a DOI doesn't by itself confer anything except traceability and reproducibility. Those things are necessary conditions for knowledge progress, but nowhere near sufficient.
+
+Issue of how we do it now. Pitfalls - tracking climate battles, attacks on climate science, galileos etc
+
+How do we do this without aiding the barbarians? (Oh dammit that term is not OK!)
+
+
+
+...
+
+I'll come to the vampire thing in a minute. 
+
+This post smushes two things together. 
+
+First: I'm testing a prototype writing/output structure that (1) doesn't silo itself in academia / is open to (and acknowledges) all contributors wherever they are, and however small/large the contibution (including e.g. a useful LinkedIn comment); (2) is built to be modular and iterative, so feedback cycles are more fluid, but can build to larger outputs; (3) is reproducible, open, and robust, each stage permanently stored with its own digital object identifier (DOI via [Zenodo](https://help.zenodo.org/docs/github/)); (4) has tools built in to make sure LLM use in writing and code is clearly delineated just as an academic would with any other source, with automatic inclusion of LLM back and forths.
+
+What this prototype version looks like:
+
+- A self-contained project folder with all the code, data and write-ups (this is very [rrtools-like](https://github.com/benmarwick/rrtools)).
+- A docs folder containing discrete 'chunks' of work. When each of these is reasonably complete, I can mark it as a [release](https://help.zenodo.org/docs/github/archive-software/github-upload/) with a DOI number. If I want to use e.g. 0.1 for a chunk and then 1.0 for an assembled larger output, I can. Each release will be archived, and my shorter-chunk work has some provenance that can be referred back to. 
+- The docs folder can contain anything else for public consumption like data viz (if using github pages, these can appear as a website; a github action populates the landing page with links automatically).
+- There's also room in there to produce punchier, shorter summary docs targeted at different audiences but building on the same material.
+- README and FEEDBACK markdown scripts explaining the project scope and roadmap, and how to comment / feed back / discuss, including instructions for creating a github account, though that's not necessary. ([See here](https://github.com/DanOlner/RegEconWorks/blob/master/llm_output/howtoupdate_authorcredit.md) for Claude-Code drafted sources on ways to do better than the author CRediT system / build on github tools.) 
+- LLM folders both for LLM-produced summaries/memory docs (marked as non-human-produced) and another for all LLM back-and-forths used in project development (output as human-readable markdown via the [export_all_convos.py](https://github.com/DanOlner/RegEconWorks/blob/master/code/export_all_convos.py) script; currently only for Claude Code, and I'm working in Visual Studio Code).
+
+Second: [this project folder](https://github.com/DanOlner/RegEconWorks) is testing the approach. In **RegEconWorks**, I'm aiming to gather stuff on all things regional-GVA, synthesise thoughts on it, and cycle through any feedback I can pester out of people, in whatever form.
+
+I've called each modular bit of work a **chunk**. The project's [github landing page](https://danolner.github.io/RegEconWorks/) links to the [first completed one](https://danolner.github.io/RegEconWorks/chunks/uncertainty_in_regionalGVA/) of these[^1] (HTML and PDF available). This chunk is asking:
+
+> What difference could adding uncertainty to regional GVA numbers make?
+
+It's common to acknowledge that 'spurious accuracy' is an issue. But lacking any decent uncertainty guesses, we can't think through the implications very easily. So this chunk makes a data-driven guess at what the uncertainty could be and how that changes GVA at regional level. The ONS [rules out](https://www.ons.gov.uk/economy/grossvalueaddedgva/methodologies/regionalgrossvalueaddedbalancedqmi) error rates for GVA as 'too complex' - which it is, within a national accounts framework. But we're doing some "what ifs" here because I think it's worth thinking through, with some actual numbers, how much difference it could make. 
+
+Right then, the vampires. The chunk starts with [a scene from the Lost Boys](https://youtu.be/DP_lSpeK69c?si=klxDzst0hVvV0QlY), mapped to type I and II errors, where the protagonist finds himself racing bloodsuckers through fog towards what transpires to be (spoilers) a deadly cliff edge. This hammers the point home a bit bluntly, but... is head vamp David's 'incredible certitude' (Manski) like using 'exact' numbers to steer our economies by? 
+
+My point: introducing uncertainty doesn't mean making things murkier. Quite the reverse - by understanding what's fog and what's not, we can extract signal from the mist. That doesn't just mean 'better decisions' - it can change how we think and how we steer. E.g. what does it do to the kind of horse-race analysis that 'exact' numbers make so beguiling? (See Prof. Richard Harris' [excellent old piece](https://medium.com/@profrichharris/the-certain-uncertainty-of-university-rankings-6917b40300f2) on what uncertainty in university rankings would mean, for comparison.)
+
+The chunk is written somewhere between academic and informal blog-post style. I have deliberately included "think is what I think and why", and I've ended with some open questions to chew over for the next piece, which I hope will examine the following question: 
+
+> "If we accept this uncertainty into our regional growth data, what are the decision-making implications?"
+
+So.... why this attempt at modularity?
+
+
+
+## Why modular?
+
+Because I wanted to do work that:
+
+- Is open to input from / sharing to anywhere, and acknowledgement for anyone;
+- While nimble enough to build up smaller chunks of work sequentially and change direction in the light of new input, can also have a permanent record of progress and contributions, and a DOI number so versions are never lost;
+- Doesn't get stuck in a silo, allowing me to talk to anyone across academia, policy, community, wherever;
+- Doesn't force things into the slow, awful academic paper cycle of death, but instead lets me build from smaller chunks to larger pieces - some way earlier than the 'preprint' stage, which still [has to be](https://www.ntu.ac.uk/media/documents/library/preprints_faq.pdf) a completed paper.
+
+That makes it sound more planned than it was. This has evolved. Some background:
+
+
+
+Somewhere here, the following bullet points:
+- A more granular, higher-cadence process stands a better chance of evolving through test/learn/prototyping/feedback etc, and fits better with working across different kinds of groups. Because? Why better? 
+- It also doesn't rule out later papers built on these chunks, if that's what one wants (though some journals won't allow it if bits have previously been made public)
+- And is closer to how we understand how Jane-Jacobs-style change works
+- More on it short-circuiting academic nonsense / being more clearly human / move away from "outputs" to "process" - link to 'functions of writing'
+- Versioning as getting transparency about all this for free (though get the tech barriers. those might be lessening...)
+
+
+
+
+It's been about 2.5 years since I started my secondment to the South Yorkshire Mayoral Authority ([SYMCA](https://www.southyorkshire-ca.gov.uk)) through [Y-PERN](y-pern.org.uk). My elevator pitch has always been: we want to strengthen the glue between the region's universities and other anchor institutions, as well as Yorkshire and the Humber's communities.
+
+Some of this has been easy, gone with the grain. For other things - including research/report outputs - the cogs grind noisily. Almost every single institutional structure and incentive differs between universities and regional government, which has meant progress is often made *despite* how we work, not because of it, built on relationships between people who care about the same things.
+
+At the same time, change is happening stupidly fast. We're firmly in a 'no-one knows where this will land' phase, I think. Universities are in crisis as old funding models fold, the government not showing much sign of comprehending the scale of that. Throw in this new LLM world where humans have just lost their monopoly on the written word. Just in the past couple of months, systems like Claude Code (more on that below) are realising the promise/threat of LLMs to upend how knowledge works (see Naomi Alderman's [Don't Burn Anyone at the Stake Today](https://www.waterstones.com/book/dont-burn-anyone-at-the-stake-today/naomi-alderman/9780241777633) for an amazing long view of this).
+
+That's all been sloshing around in the back of my skull as I've mulled how to digest my work with SYMCA and Y-PERN so far. (I've been keeping a list of open code and outputs [here](https://danolner.github.io/posts/outputs_livelist/), and stuck much of the work including how-tos [here](https://danolner.github.io/RegionalEconomicTools/).) 
+
+And personally, [I've been trying](https://coveredinbees.org/posts/why-make-things-simple/) to design a me/task/environment combo that actually goes with my own brain-grain. Traditional academic papers don't do that so much. That's true for many people, but we continue to bash ourselves against it, even while the whole system is making ominous creaking, groaning noises.
+
+
+## Oh no, LLMs
+
+Yeah, afraid so. As I've [mentioned before](https://coveredinbees.org/posts/i_wrote_a_scifi_book/), I'm aware most of us are sick to death of People's Opinions About LLM, and the fact that 90% of social media posts now mention them.
+
+Better next sentence: 
+
+I'm writing this now because LLMs, for me, just turned a corner from "overhyped but sometimes useful" to "oh OK they're going to destroy entire ways of working and entire industries". That's due to my use of Claude Code in the past two months. I'll save explanation of that for another post - briefly, even if the tech was frozen now, in its current state it's going to change...
+
+
+
+Pretending this isn't happening probably won't help, though I get the temptation. So we need some rules for ourselves as we try to collectively learn.
+
+
+So I've put 'acknowlegement of LLM use' fully into the project structure, and you can see LLM use acknowledgements listed in the first chunk [here](https://danolner.github.io/RegEconWorks/chunks/uncertainty_in_regionalGVA/#llm-use).
+
+[This piece](https://exobrain.coveredinbees.org/llm-use-in-work-experimenting-with-short-guidelines/) has my first attempt at some principles I'm using (as well as some LLM-gathered sources on the subject) to make sure mine and anyone else's work is clearly separable from robot output. The project folder also has a (Claude-Code-written) python tool that converts LLM back-and-forths taking place in the project folder locally into human-readable markdown automatically, so there's a full trace.
+
+The fundamental principle seems simple enough - it should be super-clear which words and code I did and didn't make. This is just basic academic integrity, yes?
+
+That piece on experimental principles acknowledges there are blurry and difficult cases, and that it pushes against the LLM marketing - which is "full of suggestions that co-pilot should quietly slip into your workflow and write all your words for you, whether email, teams comments, slide prep." 
+
+There may be work situations where that's OK. But for this kind of project, where it's imperative everyone gets a correct nod for their input, it seemed like a good chance to test how we can try to (a) use these tools for our benefit while (b) keeping a grip on who's producing what.
+
+This connects back to the 'different incentives' point above. The reason academic integrity rules *exist*, the reason plagiarism (including self-plagiarism) is a thing is precisely because credit is the lifeblood of academia. Credit should of course always go to the right people, university or not. But academia is particularly vulnerable, since credit equals career more explicitly than any other sector. 
+
+In that environment, the urge to use LLMs to appear more productive must be difficult to resist for many. But the fundamental point - you shouldn't pass off anyone else's work as your own - didn't go away. LLMs can, in fact, make us more productive - that's certainly true for coding. But that needs to happen *openly and ethically*. Otherwise it's no different to plagiarism.
+
+I'm not saying I've got that right here, but I am trying to build it in. Feedback on this, and anything else, welcome. 
+
+...
+
+OK, let's see how this experiment goes. Now to harangue some people for views on the first chunk, and most likely discover what dreadful mistakes I've made. 

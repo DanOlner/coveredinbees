@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2026-02-16">
+
+<title>How to avoid chasing vampires off cliffs + testing modular research – COVEREDINBEES / A hive of TLDR &amp; villainy</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../cib-favicon-16x16.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-15919afd2370a0139004e07b13cea337.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/cib_stripes.png" alt="" class="navbar-logo light-content">
+    <img src="../../images/cib_stripes.png" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">COVEREDINBEES / A hive of TLDR &amp; villainy</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://exobrain.coveredinbees.org"> 
+<span class="menu-text">exobrain</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://danolner.github.io"> 
+<span class="menu-text">data stuff</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/DanOlner"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/danolner/"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/danolner.bsky.social"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:bluesky" aria-label="Icon bluesky from simple-icons Iconify.design set." title="bluesky"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.danolner.net/"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:wordpress" aria-label="Icon wordpress from simple-icons Iconify.design set." title="wordpress_site"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<p>subscribe.html</p>
+</div></div>
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">How to avoid chasing vampires off cliffs + testing modular research</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 16, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>I’ll come to the vampire thing in a minute.</p>
+<p>This post smushes two things together.</p>
+<p>First: I’m testing a prototype writing/output structure that (1) doesn’t silo itself in academia / is open to (and acknowledges) all contributors wherever they are, and however small/large the contibution (including e.g.&nbsp;a useful LinkedIn comment); (2) built to be modular and iterative, so feedback cycles are more fluid, but can build to larger outputs; (3) reproducible, open, and robust, each stage permanently stored with its own digital object identifier (DOI via <a href="https://help.zenodo.org/docs/github/">Zenodo</a>); (4) with tools built in to make sure LLM use in writing and code is clearly delineated just as an academic would with any other source, including automatic inclusion of LLM back and forths.</p>
+<p>What this prototype version looks like:</p>
+<ul>
+<li>A self-contained project folder with all the code, data and write-ups (this is very <a href="https://github.com/benmarwick/rrtools">rrtools-like</a>).</li>
+<li>A docs folder containing discrete ‘chunks’ of work. When each of these is reasonably complete, I can mark it as a <a href="https://help.zenodo.org/docs/github/archive-software/github-upload/">release</a> with a DOI number. If I want to use e.g.&nbsp;0.1 for a chunk and then 1.0 for an assembled larger output, I can. Each release will be archived, and my shorter-chunk work has some provenance that can be referred back to.</li>
+<li>The docs folder can contain anything else for public consumption like data viz (if using github pages, these can appear as a website; a github action populates the landing page with links automatically).</li>
+<li>There’s also room in there to produce punchier, shorter summary docs targeted at different audiences but building on the same material.</li>
+<li>README and FEEDBACK markdown scripts explaining the project scope and roadmap, and how to comment / feed back / discuss, including instructions for creating a github account, though that’s not necessary. (<a href="https://github.com/DanOlner/RegEconWorks/blob/master/llm_output/howtoupdate_authorcredit.md">See here</a> for Claude-Code drafted sources on ways to do better than the author CRediT system / build on github tools.)</li>
+<li>LLM folders both for LLM-produced summaries/memory docs (marked as non-human-produced) and another for all LLM back-and-forths used in project development (output as human-readable markdown via the <a href="https://github.com/DanOlner/RegEconWorks/blob/master/code/export_all_convos.py">export_all_convos.py</a> script; currently only for Claude Code, and I’m working in Visual Studio Code).</li>
+</ul>
+<p>Second: <a href="https://github.com/DanOlner/RegEconWorks">this project folder</a> is testing the approach. In <strong>RegEconWorks</strong>, I’m aiming to gather my work on all things regional-GVA, synthesise thoughts on it, and cycle through any feedback I can pester out of people, in whatever form.</p>
+<p>I’ve called each modular bit of work a <strong>chunk</strong>. The project’s <a href="https://danolner.github.io/RegEconWorks/">github landing page</a> links to the <a href="https://danolner.github.io/RegEconWorks/chunks/uncertainty_in_regionalGVA/">first completed one</a> of these[^1] (HTML and PDF available). This chunk is asking:</p>
+<blockquote class="blockquote">
+<p>What difference could adding uncertainty to regional GVA numbers make?</p>
+</blockquote>
+<p>It’s common to acknowledge that ‘spurious accuracy’ is an issue. But lacking any decent uncertainty guesses, we can’t think through the implications very easily. So this chunk makes a data-driven guess at what the uncertainty could be and how that changes GVA at regional level. The ONS <a href="https://www.ons.gov.uk/economy/grossvalueaddedgva/methodologies/regionalgrossvalueaddedbalancedqmi">rules out</a> error rates for GVA as ‘too complex’ - which it is, within a national accounts framework. But we’re doing some “what ifs” here because I think it’s worth thinking through, with some actual numbers, how much difference it could make.</p>
+<p>Right, the vampires. The chunk starts with <a href="https://youtu.be/DP_lSpeK69c?si=klxDzst0hVvV0QlY">a scene from the Lost Boys</a>, mapped to type I and II errors, where the protagonist finds himself racing bloodsuckers through fog towards what transpires to be (spoilers) a deadly cliff edge. This hammers the point home a bit bluntly, but… is head vamp David’s ‘incredible certitude’ (Manski) like using ‘exact’ numbers to steer our economies by?</p>
+<p>My point: introducing uncertainty doesn’t mean making things murkier. Quite the reverse - by understanding what’s fog and what’s not, we can extract signal from the mist. That doesn’t just mean ‘better decisions’ - it can change how we think and how we steer. E.g. what does it do to the kind of horse-race analysis that ‘exact’ numbers make so beguiling? (See Prof.&nbsp;Richard Harris’ <a href="https://medium.com/@profrichharris/the-certain-uncertainty-of-university-rankings-6917b40300f2">excellent old piece</a> on what uncertainty in university rankings would mean, for comparison.)</p>
+<p>The chunk is written somewhere between academic and informal blogpost style. I have deliberately included “think is what I think and why”, and I’ve ended with some open questions to chew over for the next piece, which I hope will examine the following question:</p>
+<blockquote class="blockquote">
+<p>“If we accept this uncertainty into our regional growth data, what are the decision-making implications?”</p>
+</blockquote>
+<p>So…. why this attempt at modularity?</p>
+<section id="why-modular" class="level2">
+<h2 class="anchored" data-anchor-id="why-modular">Why modular?</h2>
+<p>Because I wanted to do work that:</p>
+<ul>
+<li>Is open to input from / sharing to anywhere, and acknowledgement for anyone;</li>
+<li>While nimble enough to build up smaller chunks of work sequentially and change direction in the light of new input, can also have a permanent record of progress and contributions, and a DOI number so versions are never lost;</li>
+<li>Doesn’t get stuck in a silo, allowing me to talk to anyone across academia, policy, community, wherever;</li>
+<li>Doesn’t force things into the slow, awful academic paper cycle of death, but instead lets me build from smaller chunks to larger pieces - some way earlier than the ‘preprint’ stage, which still <a href="https://www.ntu.ac.uk/media/documents/library/preprints_faq.pdf">has to be</a> a completed paper.</li>
+</ul>
+<p>That makes it sound more planned than it was. This has evolved. Some background:</p>
+<p>It’s been about 2.5 years since I started my secondment to the South Yorkshire Mayoral Authority (<a href="https://www.southyorkshire-ca.gov.uk">SYMCA</a>) through <a href="y-pern.org.uk">Y-PERN</a>. My elevator pitch has always been: we want to strengthen the glue between the region’s universities and other anchor institutions, as well as Yorkshire and the Humber’s communities. Some of this has been easy, gone with the grain. For other things - including research/report outputs - the cogs tend to grind more. Almost every single institutional structure and incentive differs between universities and regional government, which has meant progress is often made <em>despite</em> how we work, not because of it, built on relationships between people who care about the same things.</p>
+<p>At the same time, change is happening stupidly fast. We’re firmly in a ‘no-one knows where this will land’ phase, I think. Universities are in crisis as old funding models fold, the government not showing much sign of comprehending the scale of that. Throw in this new LLM world where humans have just lost their monopoly on the written word. Just in the past couple of months, systems like Claude Code (more on that below) are realising the promise/threat of LLMs to upend how knowledge works (see Naomi Alderman’s <a href="https://www.waterstones.com/book/dont-burn-anyone-at-the-stake-today/naomi-alderman/9780241777633">Don’t Burn Anyone at the Stake Today</a> for an amazing long view of this).</p>
+<p>That’s all been sloshing around in the back of my skull as I’ve mulled how to digest my work with SYMCA and Y-PERN so far. (I’ve been keeping a list of open code and outputs <a href="https://danolner.github.io/posts/outputs_livelist/">here</a>, and stuck much of the work including how-tos <a href="https://danolner.github.io/RegionalEconomicTools/">here</a>.)</p>
+<p>And personally, <a href="https://coveredinbees.org/posts/why-make-things-simple/">I’ve been trying</a> to design a me/task/environment combo that actually goes with my own brain-grain. Traditional academic papers don’t do that so much. That’s true for many people, but we continue to bash ourselves against it, even while the whole system is making ominous creaking, groaning noises.</p>
+</section>
+<section id="oh-no-llms" class="level2">
+<h2 class="anchored" data-anchor-id="oh-no-llms">Oh no, LLMs</h2>
+<p>Yeah, afraid so. As I’ve <a href="https://coveredinbees.org/posts/i_wrote_a_scifi_book/">mentioned before</a>, I’m aware most of us are sick to death of People’s Opinions About LLM, and the fact that 90% of social media posts now mention them.</p>
+<p>For better or worse, I believe LLMs are powerful new tools. Pretending this isn’t happening probably won’t help, though I get the temptation. So we need some rules for ourselves as we try to collectively learn.</p>
+<p>(I’ve hived off a whole ramble about LLM ethics, what it might to do to my sector and just how terrifyingly powerful Claude Code is - we’ve really hit a turning point - but for now…)</p>
+<p>So I’ve put ‘acknowlegement of LLM use’ fully into the project structure, and you can see LLM use acknowledgements listed in the first chunk <a href="https://danolner.github.io/RegEconWorks/chunks/uncertainty_in_regionalGVA/#llm-use">here</a>.</p>
+<p><a href="https://exobrain.coveredinbees.org/llm-use-in-work-experimenting-with-short-guidelines/">This piece</a> has my first attempt at some principles I’m using (as well as some LLM-gathered sources on the subject) to make sure mine and anyone else’s work is clearly separable from robot output. The project folder also has a (Claude-Code-written) python tool that converts LLM back-and-forths taking place in the project folder locally into human-readable markdown automatically, so there’s a full trace.</p>
+<p>The fundamental principle seems simple enough - it should be super-clear which words and code I did and didn’t make. This is just basic academic integrity, yes?</p>
+<p>That piece on experimental principles acknowledges there are blurry and difficult cases, and that it pushes against the LLM marketing - which is “full of suggestions that co-pilot should quietly slip into your workflow and write all your words for you, whether email, teams comments, slide prep.”</p>
+<p>There may be work situations where that’s OK. But for this kind of project, where it’s imperative everyone gets a correct nod for their input, it seemed like a good chance to test how we can try to (a) use these tools for our benefit while (b) keeping a grip on who’s producing what.</p>
+<p>This connects back to the ‘different incentives’ point above. The reason academic integrity rules <em>exist</em>, the reason plagiarism (including self-plagiarism) is a thing is precisely because credit is the lifeblood of academia. Credit should of course always go to the right people, university or not. But academia is particularly vulnerable, since credit equals career more explicitly than any other sector.</p>
+<p>In that environment, the urge to use LLMs to appear more productive must be difficult to resist for many. But the fundamental point - you shouldn’t pass off anyone else’s work as your own - didn’t go away. LLMs can, in fact, make us more productive - that’s certainly true for coding. But that needs to happen <em>openly and ethically</em>. Otherwise it’s no different to plagiarism.</p>
+<p>I’m not saying I’ve got that right here, but I am trying to build it in. Feedback on this, and anything else, welcome.</p>
+<p>…</p>
+<p>OK, let’s see how this experiment goes. Now to harangue some people for views on the first chunk, and most likely discover what dreadful mistakes I’ve made.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/coveredinbees\.org");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
