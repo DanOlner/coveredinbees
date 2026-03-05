@@ -4,16 +4,18 @@ date: '2026-03-05'
 categories: [regecon,writingexperiment]
 ---
 
+![](images/clipboard-3819322514.png)
+
 I'll come to the vampire thing in a minute.
 
 This post smushes two things together.
 
-First: I'm testing a prototype writing/output structure that (1) is built to be modular and iterative, so work cycles are more fluid, but can build to larger outputs; (2) is reproducible, open, and robust, each stage permanently stored with its own digital object identifier (DOI via [Zenodo](https://help.zenodo.org/docs/github/)); (3) doesn't silo itself in academia / is open to (and acknowledges) all contributors wherever they are, and however small/large the contibution (including e.g. a useful LinkedIn comment); (4) with tools built in to make sure LLM use in writing and code is clearly delineated just as an academic would with any other source, including automatic inclusion of LLM back and forths.
+First: I'm testing a prototype writing/output structure that (1) is built to be modular, iterative and as me-friendly as possible, so work cycles are more fluid, but can build to larger outputs; (2) is reproducible/open with each stage permanently stored with its own digital object identifier (DOI via [Zenodo](https://help.zenodo.org/docs/github/)); (3) doesn't silo itself in academia / is open to (and acknowledges) all contributors wherever they are, and however small/large the contibution (including e.g. a useful LinkedIn comment); (4) with tools built in to make sure LLM use in writing and code is clearly delineated just as an academic would with any other source, including automatic inclusion of LLM back and forths.
 
 [Here's a first go](https://github.com/DanOlner/RegEconWorks). What this looks like:
 
 -   A self-contained project folder with all the code, data and write-ups (this is very [rrtools-like](https://github.com/benmarwick/rrtools)) and a [landing page](https://danolner.github.io/RegEconWorks/) that auto-populates from the docs folder (github action [here](https://github.com/DanOlner/RegEconWorks/blob/master/.github/workflows/update-index.yml)).
--   A docs folder containing discrete 'chunks' of work. [Here's](https://danolner.github.io/RegEconWorks/chunks/uncertainty_in_regionalGVA/) the first chunk - more on that below. When each of these is reasonably complete, I can mark it as a [release](https://help.zenodo.org/docs/github/archive-software/github-upload/) with a DOI number (chunks with e.g. [v0.1.1](https://github.com/DanOlner/RegEconWorks/releases/tag/v0.1.1)). Each release is archived, and shorter-chunk work has some provenance that can be referred back to.
+-   A docs folder containing discrete 'chunks' of work. [Here's](https://danolner.github.io/RegEconWorks/chunks/uncertainty_in_regionalGVA/) the first chunk - more on that below. When each of these is reasonably complete, I can mark it as a [release](https://help.zenodo.org/docs/github/archive-software/github-upload/) with a DOI number (this 1st chunk is [v0.1.1](https://github.com/DanOlner/RegEconWorks/releases/tag/v0.1.1)). Each release is archived, and shorter-chunk work has some provenance that can be referred back to.
 -   The docs folder can contain anything else for public consumption like data viz, as it does [here](https://danolner.github.io/RegEconWorks/).
 -   There's also room in there to produce punchier, shorter summary docs targeted at different audiences but building on the same material e.g. slides for policymakers.
 -   README and [FEEDBACK](https://github.com/DanOlner/RegEconWorks/blob/master/FEEDBACK.md) markdown scripts explaining the project scope and roadmap, and how to comment / feed back / discuss, including instructions for creating a github account, though that's not necessary. ([See here](https://github.com/DanOlner/RegEconWorks/blob/master/llm_output/howtoupdate_authorcredit.md) for Claude-Code drafted sources on ways to do better than the author CRediT system / build on github tools.)
@@ -88,4 +90,4 @@ I'm not saying I've got that right here, but I am trying to build it in. Feedbac
 
 ...
 
-OK, let's see how this experiment goes. Now to harangue some people for views on the first chunk, and most likely discover what dreadful mistakes I've made.
+OK, let's see how this experiment goes. Now to harangue some people for views on the first chunk, and discover what dreadful mistakes I've made.
