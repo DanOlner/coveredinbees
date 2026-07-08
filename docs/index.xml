@@ -10,7 +10,88 @@
 <atom:link href="https://coveredinbees.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>A hive of TLDR and villainy</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Thu, 05 Mar 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Wild boids</title>
+  <link>https://coveredinbees.org/posts/wildboids/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://coveredinbees.org/posts/wildboids/predator_flocking.gif" class="img-fluid"></p>
+<ol type="1">
+<li>Making the Wild Boids evolution program with Claude Code.</li>
+<li>This LLM stage is a big deal. Reasons why people think it isn’t are instructive.</li>
+<li>Why that means we should be wresting tech from the clutches of the f—heads.</li>
+</ol>
+<p>Back in 2008 at the start of the PhD, I had a Java assignment over the Spring break. I had a go at coding a little artificial life simulation, bouncing off Craig Reynolds’ classic <a href="https://processing.org/examples/flocking.html">boids</a>. Reynolds hard-coded rules that let flocking emerge from individual interactions. I’d been mulling (as had others) how flocks could possibly have evolved. Could a genetic simulation find out?</p>
+<p>That assignment got some of the way - it never saw flocking emerge, but through digital evolution, boids reacting entirely randomly to each other slowly morphed into what looked a lot like actual intention. They began to chase, to evade.</p>
+<p>That appearance of disturbingly life-like behaviour emerging from nothing burrowed its way into my psyche. It made me wonder if my own intentions were illusions. Was I just a chemical bag of noise with added iteration? (It ended up in <a href="https://coveredinbees.org/posts/i_wrote_a_scifi_book/">the sci-fi book</a> of course. <a href="https://exobrain.coveredinbees.org/oldscript/oldscript-scenes/john-predator-prey/">Here’s</a> the scene.)</p>
+<p>That tiny window into life the Java code found was something I always wanted to return to, but never had the time. Everyone has those - projects that lurk in the back rooms of the brain, surfacing occasionally. “Wouldn’t it be good to see that through…”</p>
+<p>Jump to twenty years later (argh). This winter and spring, I and many other devs/coders had our first proper “oh shit” moment with LLMs. I saw <a href="https://www.linkedin.com/in/jon-minton-09480b13a/">Jon Minton</a> saying it first: it’s getting serious now. So I tried Claude Code (hereafter CC) with increasingly complex ideas, until my mind turned back to those disturbing boids…</p>
+<p>So in random bits of time over February and March, working in a folder on my machine alongside CC, the <a href="https://github.com/DanOlner/WildBoids">Wild Boids</a> prototype was made. <a href="https://www.youtube.com/watch?v=x2IJEtVqr4E">Here’s a 2.5 minute video</a> showing its evolutionary stages right through to the first time flocking evolved (predators circling food, having learned to wait for prey there together).</p>
+<p>Before we talk through the insanity, joy and horror of all this, here’s the Wild Boid essentials:</p>
+<ul>
+<li><strong>Modular C++ simulation</strong>: physics engine, separate from evolution engine, separate from GUI, separate from boid brains. Boid brains have a JSON spec for loading/saving - see the initial simple prey boid <a href="https://github.com/DanOlner/WildBoids/blob/0b042801b787f36967861ad46ebfb6f791d27a8d/data/simple_boid.json">here</a>, a 76th generation example <a href="https://github.com/DanOlner/WildBoids/blob/master/data/champion_packages/2026-03-04/champion_predator_gen76.json">here</a> and that tournament’s top prey and predator breakdown <a href="https://danolner.github.io/WildBoids/champion_comparisons/champion_comparison_2026-03-04.html">here</a> (scroll down for force-map of each boid’s brain, note how different they are). The <a href="https://github.com/DanOlner/WildBoids">github front page</a> README runs through setup and use.</li>
+<li><strong>Boids use realistic thrusters</strong>. They evolve weights that feed sensor input through to thruster output. The ‘realistic physics’ choice was driven by the 2007 attempt: back then, they evolved to take advantage of poorly specified physics (Reynolds’ original was never aiming for physical realism) by learning to ‘skip’ when chasing. Boids forced into realism have no such reality hacks.</li>
+<li><strong><a href="https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies">NEAT evolution</a> algorithm run as tournaments.</strong> Start with pure in/out weights and test adding neurons between inputs and outputs - if they confer advantage, keep. Otherwise drop. You’ll see in <a href="https://www.youtube.com/watch?v=x2IJEtVqr4E">the video</a> some boids quite effectively forage with no neurons between in/out at all - selection can find good direct I/O weights. But additional nodes can allow effective combinations of input signal, both reinforcing and dampening, so they can react more conditionally. This becomes vital when balancing food, predators, flocking, hunger.</li>
+</ul>
+<section id="this-is-a-big-deal" class="level2">
+<h2 class="anchored" data-anchor-id="this-is-a-big-deal">This is a big deal</h2>
+<p>This was my first project with CC that felt large - not in raw bytes, but in the combination of theory, architecture and execution. At no point did it fall down in any major way. Through dialogue and documentation (see the <a href="https://github.com/DanOlner/WildBoids/tree/0b042801b787f36967861ad46ebfb6f791d27a8d/planningdocs">planning docs</a>) it was built in a modular, iterative way, working out what scale of chunk to take on, what level of architectural thinking worked, when to back off and try other paths.</p>
+<p>I didn’t write a single line of C++ code. I asked CC to run through my <a href="https://github.com/DanOlner/WildBoids/tree/0b042801b787f36967861ad46ebfb6f791d27a8d/orig_java/boids">2007 Java code</a> and pull out ideas from it - that’s the only place human fingers were involved in the programming. I’ve <a href="https://github.com/DanOlner/socialfrontier_sim">written some C++ before</a> as R plugins for speedy hill-climbing of spatial measures and boundary classification, but none of that is very structural, and not radically different from the same in Java or other languages. It’s a bit like knowing how a steering wheel works compared to understanding how to engineer the whole car. For Wild Boids, CC took care of the C++ equivalent of building the car, for the most part. I thought in <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">OOP</a> terms, which will have helped. But it’s not straightforward to separate what was me, what was CC.</p>
+<p>This is a big deal. Before this jump in ability at the start of 2026, LLMs were impressive but flawed, hit and miss. There’s been a sudden, radical lowering of the barriers between project ideas, aims, hopes, and those projects actually existing. The speed difference changes the nature of what can be built, not just the quantity, because of how smooth the cycle of testing, learning and Jacobs-like “accident fuelled by intention” now is.</p>
+<p>There have been plenty of other tech big deals and they’re easy to forget once they become the water we swim in. Internet, google search, mobile phones - just as radical breaks in how human knowledge functions (though all being quickly changed by LLMs).</p>
+<p>But this break in how coding happens feels very new. The tech is only months old. What happens next?</p>
+</section>
+<section id="is-this-a-big-deal-though" class="level2">
+<h2 class="anchored" data-anchor-id="is-this-a-big-deal-though">Is this a big deal though?</h2>
+<p>LinkedIn posts are now about 95% this and other LLM questions. Everyone is thus <a href="https://theoatmeal.com/comics/ai_art">very tired of hearing about AI</a>. There are not many opinions that manage to thread a needle through the no-man’s land of fixed positions for or against. If we want to stand a chance of understanding the effect of LLMs, it’s useful to dig into why it’s become so divisive.</p>
+<p>Those of us jumping up and down shouting “big deal!” fall in a gap. On one side, when I’ve tried to show non-devs this tech, it turns out without the coding background, people go “Oh that’s nice / impressive / I don’t quite get it”. That may well rapidly change as the tools improve, but the potential impact just isn’t widely known right now. We hear much flapping from government about how AI is going to solve male pattern balding or whatever, but no-one, least of all government, seems able to say how.</p>
+<p>On the other side, there are committed anti-LLMers who say things like:</p>
+<blockquote class="blockquote">
+<p>“LLMs impress the writers who do not want to write, the coders who don’t want to code, the researchers who don’t want to research, and the lawyers that don’t want to actually understand case law.” (<a href="https://www.wheresyoured.at/the-revenge-of-the-business-idiot/">Ed Zitron</a> via <a href="https://bsky.app/profile/sethpartnow.bsky.social/post/3mmrkphr6ik2l">here</a>.)</p>
+</blockquote>
+<p>This often seems to start from moral opposition to the tech and work backwards to “people who think it’s a big deal must be idiots or Sam Altman.”</p>
+<p>But that means <em>also</em> missing what’s happening through sheer refusal to look at it. I am a coder, I’ve been doing it since I had a ZX81 aged eight. I am not an easily impressed ‘coder who doesn’t want to code’. I’m experienced enough to know what a rupture it is when Claude Code can do something like Wild Boids.</p>
+<p>I am not for a second trying to suggest technology is <a href="https://www.sambrinson.com/is-technology-neutral/">beyond ethical consideration</a> - quite the reverse. But the LLM polarisation we’ve got ourselves into makes it more difficult to speak clearly about what’s going on and what we want to happen next.</p>
+<p>This touches older stories about technology like nuclear power and GM crops. <a href="https://coveredinbees.org.archived.website/node/387.html">I took a</a> “pro-GM if it’s publicly funded” position some years back; opposition to GM shares a lot of the DNA of anti-LLM arguments. As with nuclear power, LLMs are absolute classic Feynman (excuse the ‘man’):</p>
+<blockquote class="blockquote">
+<p>“To every man is given the key to the gates of heaven. The same key opens the gates of hell.&nbsp;And so it is with science.”</p>
+</blockquote>
+<p>LLMs in their current form have no lack of hellish features. Their energy use is prising open the gates of climate hell a few more inches. Those in charge of the most advanced models are broadly the worst people imaginable - Eleanor Morton hardly has to to embellish <a href="https://www.youtube.com/watch?v=ZseOJeYmitE">here</a> to parody how bond-villain they are. (Shockingly, this is transpiring to be true of pretty much everyone who wishes to be a billionaire. Who knew?) Copyright lawyers who’d <a href="https://bsky.app/profile/lordravenscraft.bsky.social/post/3mltskxhp6227">throw people in jail for downloading an MP3</a> seem to have developed amnesia now these firms are <a href="https://www.theatlantic.com/technology/archive/2025/03/search-libgen-data-set/682094/">happily stealing</a> all human knowledge and <a href="https://www.reddit.com/r/computerscience/comments/1pggxcr/llms_really_killed_stackoverflow/">killing the open, global ways we shared learning</a>.</p>
+<p>And all of that does shape <em>how</em> the tech disrupts - you can’t cleanly separate its impacts from its origins. Uber and open-source driver tool <a href="https://github.com/nammayatri/nammayatri">Namma Yatri</a> aim to do roughly the same thing; their effect on taxi drivers couldn’t be more opposed.</p>
+<p>This may all come down to a simple question: can we wrest control of technology from the f—heads? For GM, can we make sure more money goes to public research, not Monsanto? Go ahead and boycott if you like but, pragmatically, don’t expect to have much effect. The impact of atomised individual choices was <a href="https://theconversation.com/the-carbon-footprint-was-co-opted-by-fossil-fuel-companies-to-shift-climate-blame-heres-how-it-can-serve-us-again-183566">sold to us by oil firms</a> “to shift the burden of blame from companies to consumers”.</p>
+<p><em>Collective</em> action, though - that’s a different beast. Personally choosing to fly or not - same problem. But imagine if we had a well-structured national debate on flying, we might collectively agree to cut it right back and move to alternatives.</p>
+<p>So let’s happily and righteously nationalise twitter / X or put it into public trust and run it on <a href="https://tomstafford.substack.com/p/another-algorithm-is-possible">algorithms that serve us</a>, not polarise and exploit us. Use democratic tools so we collectively agree a direction out of climate hell. Build a platform constitution so Uber-type firms are no longer untouchable parasitic sky-gods leaving millions trapped in poverty grunt work.</p>
+<p>And constrain LLMs so their growth sits within our social and climate goals. We can do that. It’s our f—ing planet.</p>
+<p>I’m aware how utopian that all sounds. But for me it’s more realistic than pretending it’ll all go just go away if we signal how morally opposed we are. It’s going to take more work - but that actually means we can - maybe, maybe - end up in a better place, where tech works for us.</p>
+</section>
+<section id="where-is-it-going" class="level2">
+<h2 class="anchored" data-anchor-id="where-is-it-going">Where is it going?</h2>
+<p>This version of Claude Code is a baby. My brain is part of what’s being fed to the baby. The LLM firms are feeding my learning above back in as I use it - parallels to Uber learning from drivers so they can build their driverless car future and dump the meatsacks.</p>
+<p>Here’s <a href="https://www.thealgorithmicbridge.com/p/kayfable">one take</a> on that future:</p>
+<blockquote class="blockquote">
+<p>They won’t need us - consumers and enterprises alike - even for appearances. Our data is theirs. Our money, inconsequential. As soon as that happens - and I contend that it will happen soonish - Anthropic will immediately cut off its technology from the world. It won’t be available even in closed form. “It’s not a toy,” they will say, “and you’re just a bunch of kids.”</p>
+</blockquote>
+<p>That feels plausible. The kind of power CC gives me right now feels like a golden moment that won’t last, not least because I’m only paying about a tenth of its actual cost. It also does feel slightly dangerous, how easy it is to make complex tools. Maybe they learn what they can from idiots like me giving them free brain uploads and then they dump us meatsacks. Programming then becomes a single Sauron-like eye every firm pays the machine god top dollar for (but just cheap enough to undercut the meatsack brains they uploaded).</p>
+<p>But then… this isn’t a purely first-mover-gains-all tech like google search. Others are working on it. It’s changing fast. What else will arrive, from which unlikely sources? What different shapes will those tools take, if the big players decide to pull up the drawbridge or <a href="https://polymarket.com/event/ai-bubble-burst-by">go pop</a>?</p>
+<p>Technological change is fundamentally, intrinsically unpredictable. It percolates through the complexity of human lives and economies, those forces push back, it cycles. What it <em>doesn’t</em> do is disappear because we don’t like it. We deal with that built-in uncertainty by taking collective action to look after ourselves as impacts become apparent, and do what we can to prise technology out of the hands of the f—heads.</p>
+<p>A future where anyone can have an idea and then, through natural language, see that idea realised, could be pretty cool. But let’s collectively try and get there with as little f—headery as possible.</p>
+<p>Oh, and apologies in advance if a later Claude-Code-written evolved drone swarm built on Wild Boids kills your entire town.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>llms</category>
+  <category>evolution</category>
+  <category>ml</category>
+  <guid>https://coveredinbees.org/posts/wildboids/</guid>
+  <pubDate>Wed, 08 Jul 2026 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>How to avoid chasing vampires off cliffs + testing modular research</title>
   <link>https://coveredinbees.org/posts/chasing_vampires_off_cliffs_plus_testing_modular_research/</link>
